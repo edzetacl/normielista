@@ -101,7 +101,7 @@ http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQnV4m6cX7R0H2S5juDYY3es
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"gG8YHFRdzJsugpWGbX_LWA","kid":"7t4TEF53XPGOetIFeKtwHA"}],"type":"temporary"}
 https://dtvott-cbc.akamaized.net/dash_live_1115/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 #EXTINF:-1 tvg-id="fox-sports-2.mx" tvg-name="Fox Sports 2 - México" tvg-logo="https://i.imgur.com/yedU8Gq.png" group-title="DEPORTES",Fox Sports 2 - México
-http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQnJEt-v-oKUsLDqdDg9_LEo/ts
+http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQhcOFzOBk2UOVim7yAeHtZw/ts
 #EXTINF:-1 tvg-id="fox-sports-2.mx" tvg-name="Fox Sports 2 - México [MPD]" tvg-logo="https://i.imgur.com/yedU8Gq.png" group-title="DEPORTES",Fox Sports 2 - México [MPD]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"xo1p7aggA9CV1GaiSSt9Dg","kid":"S1aen4JmVC+j9ALDBXy5jA"}],"type":"temporary"}
@@ -113,7 +113,7 @@ http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQhDLY6Fd_s6ncT5Y5trc5b4
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mn9ehhhGigRUlMu4dSh0ZA","kid":"Fl8L+lI5VICB5OJ/hBDW5g"}],"type":"temporary"}
 https://dtvott-cbc.akamaized.net/dash_live_1124/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium - México" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s123582_dark_360w_270h.png" group-title="DEPORTES",Fox Sports Premium - México
-http://168.228.194.33:48001/play/a0bu/index.m3u8
+http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQlRenr82tP3C-DjDhFpVddh1I0FL9T-Wxf-e8ikzG48t/ts
 #EXTINF:-1 tvg-id="4399dtv.cl" tvg-name="Fox Sports 1 - Chile" tvg-logo="https://i.imgur.com/CYb3ifm.png" group-title="DEPORTES",Fox Sports 1 - Chile
 http://45.232.210.1:47000/play/a07k
 #EXTINF:-1 tvg-id="3082dtv.cl" tvg-name="Fox Sports 2 - Latinoamérica" tvg-logo="https://i.imgur.com/yedU8Gq.png" group-title="DEPORTES",Fox Sports 2 - Latinoamérica
@@ -121,7 +121,7 @@ http://45.232.210.1:47000/play/a0at
 #EXTINF:-1 tvg-id="3081dtv.cl" tvg-name="Fox Sports 3 - Latinoamérica" tvg-logo="https://i.imgur.com/GvWFYrE.png" group-title="DEPORTES",Fox Sports 3 - Latinoamérica
 http://45.232.210.1:47000/play/foxsports3hd
 #EXTINF:-1 tvg-id="" tvg-name="Fox Deportes" tvg-logo="https://i.imgur.com/8YjaXMH.png" group-title="DEPORTES",Fox Deportes
-http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQgZAFn_bfwtvVCx0pcXIb5U/ts
+http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQoKr0tvcIfpODc-nAJZao_M/ts
 #EXTINF:-1 tvg-id="" tvg-name="TyC Sports - Argentina" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16275_dark_360w_270h.png" group-title="DEPORTES",TyC Sports - Argentina
 http://45.186.252.17:8000/play/a01d
 #EXTINF:-1 tvg-id="629dtv.cl" tvg-name="TyC Sports - Latinoamérica" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16275_dark_360w_270h.png" group-title="DEPORTES",TyC Sports - Latinoamérica
@@ -143,7 +143,7 @@ http://51.159.111.60:18000/Eurosport_1/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="eurosport2.es" tvg-name="Eurosport 2 - España" tvg-logo="" group-title="DEPORTES",Eurosport 2 - España
 http://51.159.111.60:18000/Eurosport_2/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TUDN - México" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES",TUDN - México
-http://168.228.194.33:48001/play/a0at/index.m3u8
+http://dnsplay.xyz:80/cepwhfgl/md5G7R4pn2/304510
 #EXTINF:-1 tvg-id="" tvg-name="TUDN - Estados Unidos" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75176_dark_360w_270h.png" group-title="DEPORTES",TUDN - Estados Unidos
 http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQvqMtmBcpz1YYvZUYtEVpIU/ts
 #EXTINF:-1 tvg-id="" tvg-name="GolTV" tvg-logo="" group-title="DEPORTES",GolTV
@@ -159,7 +159,7 @@ http://190.149.66.90:4000/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="637dtv.cl" tvg-name="CDO Premium" tvg-logo="" group-title="DEPORTES",CDO Premium
 http://45.225.95.170:8000/play/a0fl/index.m3u8
 #EXTINF:-1 tvg-id="736dtv.cl" tvg-name="Discovery Turbo" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46608_dark_360w_270h.png" group-title="DEPORTES",Discovery Turbo
-http://45.232.210.1:8062/play/a09r/index.m3u8
+http://45.232.210.1:8062/play/a0bh/index.m3u8
 #EXTINF:-1 tvg-id="736dtv.cl" tvg-name="Discovery Turbo HD [MPD]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46608_dark_360w_270h.png" group-title="DEPORTES",Discovery Turbo HD [MPD]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"deZqTteIDHFlXSTlLK070w","kid":"0y2BXR9_UyW6c1YlNGYskg"}],"type":"temporary"}
