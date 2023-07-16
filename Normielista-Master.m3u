@@ -390,9 +390,7 @@ http://45.5.117.172:8000/play/a0i0/index.m3u8
 http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/7305.ts
 #EXTINF:-1 tvg-id="" tvg-name="MTV Live - Estados Unidos" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49141_dark_360w_270h.png" group-title="MÚSICA",MTV Live - Estados Unidos
 http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/7306.ts
-#EXTINF:-1 tvg-id="" tvg-name="Club MTV" tvg-logo="https://i.imgur.com/6N5HSrH.png" group-title="MÚSICA",Club MTV
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/558/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Club MTV" tvg-logo="https://i.imgur.com/6N5HSrH.png" group-title="MÚSICA",Club MTV
+#EXTINF:-1 tvg-id="" tvg-name="Club MTV [MPD]" tvg-logo="https://i.imgur.com/6N5HSrH.png" group-title="MÚSICA",Club MTV [MPD]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"+atT2/gVO+Rjvt2OrXofjA","kid":"RmKnyFdCS+OukfbE2Zh8CQ"}],"type":"temporary"}
 https://lb2-e1-83.pluscdn.pl/ch/1454355/24/dash/4405e81a/live.mpd
