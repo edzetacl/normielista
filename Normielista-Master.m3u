@@ -239,7 +239,7 @@ http://45.5.117.172:8000/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="214dtv.cl" tvg-name="A3 Series" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90917_dark_360w_270h.png" group-title="CINE Y SERIES",A3 Series
 http://167.250.39.130:8000/play/atresseries
 #EXTINF:-1 tvg-id="" tvg-name="Eurochannel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16574_dark_360w_270h.png" group-title="CINE Y SERIES",Eurochannel
-http://181.232.159.2:35600/play/a01c/index.m3u8
+https://normielista.cl:443/play/0Bu2UVekNecKvoeYhzqb9Ys1LuodFeMLD4YOuI7v9IvifWCt5Ef_TKD7fZ8n-pPX/ts
 #EXTINF:-1 tvg-id="908mvstr.cl" tvg-name="Clover Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Clover_Channel_2021.svg/revision/latest/scale-to-width-down/200?cb=20220608131431&path-prefix=es" group-title="CINE Y SERIES",Clover Channel
 http://138.0.90.13:8001/play/a02g/index.m3u8
 #EXTINF:-1 tvg-id="504dtv.cl" tvg-name="TCM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19246_dark_360w_270h.png" group-title="CINE Y SERIES",TCM
