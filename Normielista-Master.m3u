@@ -401,7 +401,8 @@ https://pantera1-100gb-cl-movistar.dps.live/itv/itv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="mtv.cl" tvg-name="MTV Latinoamérica" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12712_dark_360w_270h.png" group-title="MÚSICA",MTV Latinoamérica
 http://45.232.210.1:47000/play/mtvhd
 #EXTINF:-1 tvg-id="261dtv.cl" tvg-name="MTV Hits" tvg-logo="" group-title="MÚSICA",MTV Hits
-http://45.5.117.172:8000/play/a0gd/index.m3u8
+http://194.114.144.244:8003/play/mtvhits
+#http://45.5.117.172:8000/play/a0gd/index.m3u8
 #EXTINF:-1 tvg-id="261dtv.cl" tvg-name="MTV Hits [MPD]" tvg-logo="" group-title="MÚSICA",MTV Hits [MPD]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"oaB9yei1dDmRLcLrXHApvQ","kid":"Ooj/BuFcRN+JXs7NYreSCQ"}],"type":"temporary"}
@@ -413,7 +414,8 @@ http://45.5.117.172:8000/play/a0hz/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ga6D9OJOjLGmUrxRKUES1A","kid":"2N607J8RSVuinvee7sRPCQ"}],"type":"temporary"}
 https://lb2.pluscdn.pl/ch/1454366/26/dash/41167e6d/live.mpd
 #EXTINF:-1 tvg-id="" tvg-name="MTV 80's" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65060_dark_360w_270h.png" group-title="MÚSICA",MTV 80's
-http://45.5.117.172:8000/play/a0ge/index.m3u8
+#http://45.5.117.172:8000/play/a0ge/index.m3u8
+http://194.114.144.244:8003/play/mtv80
 #EXTINF:-1 tvg-id="" tvg-name="MTV 80's [MPD]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65060_dark_360w_270h.png" group-title="MÚSICA",MTV 80's [MPD]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"t3AbZbNtosiaKuqu8/+XHQ","kid":"u6IlwedXSGmpTfavrqbOCQ"}]}
@@ -428,6 +430,8 @@ http://23.237.108.226/hls/MTVCLASSIC.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV Live - Estados Unidos" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49141_dark_360w_270h.png" group-title="MÚSICA",MTV Live - Estados Unidos
 #EXTVLCOPT:http-user-agent=Roku/DVP(10.10.10)
 http://23.237.108.226/hls/MTVLIVE.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Club MTV" tvg-logo="https://i.imgur.com/6N5HSrH.png" group-title="MÚSICA",Club MTV
+http://194.114.144.244:8003/play/a0t7
 #EXTINF:-1 tvg-id="" tvg-name="Club MTV [MPD]" tvg-logo="https://i.imgur.com/6N5HSrH.png" group-title="MÚSICA",Club MTV [MPD]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"+atT2/gVO+Rjvt2OrXofjA","kid":"RmKnyFdCS+OukfbE2Zh8CQ"}],"type":"temporary"}
