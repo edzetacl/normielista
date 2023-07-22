@@ -73,7 +73,7 @@ http://45.186.252.17:8000/play/a07t
 #EXTINF:-1 tvg-id="603dtv.ar" tvg-name="TNT Sports - Argentina" tvg-logo="https://cdn-w.tvdaldia.cl/canales/tntsports.png" group-title="DEPORTES",TNT Sports - Argentina
 http://45.186.252.17:8000/play/a01f
 #EXTINF:-1 tvg-id="610dtv.ec" tvg-name="DSports" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png?timestamp=1684894373385" group-title="DEPORTES",DSports
-http://201.218.137.232:4123/play/a05a/index.m3u8
+https://normielista.cl:443/play/0Bu2UVekNecKvoeYhzqb9Ys1LuodFeMLD4YOuI7v9IuMQMtJl4sDpUM-oydpFIY1/ts
 #EXTINF:-1 tvg-id="610dtv.ec" tvg-name="DSports [MPD]" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png?timestamp=1684894373385" group-title="DEPORTES",DSports [MPD]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"B8FzWtrBXeh33z+BtPxHMQ","kid":"6bxqHGTgXDWqcuErFtNSRw"}],"type":"temporary"}
@@ -83,9 +83,9 @@ http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/39.ts
 #EXTINF:-1 tvg-id="610dtv.cl" tvg-name="DSports - Chile" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png?timestamp=1684894373385" group-title="DEPORTES",DSports - Chile
 http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/13498.ts
 #EXTINF:-1 tvg-id="612directv.cl" tvg-name="DSports 2" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png?timestamp=1684894373383" group-title="DEPORTES",DSports 2
-http://201.218.137.232:4123/play/a05b/index.m3u8
+https://normielista.cl:443/play/0Bu2UVekNecKvoeYhzqb9Ys1LuodFeMLD4YOuI7v9IsACJvXsw3Qz-W404NhjuRm/ts
 #EXTINF:-1 tvg-id="179directv.cl" tvg-name="DSports +" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png?timestamp=1684891675234" group-title="DEPORTES",DSports +
-http://201.218.137.232:4123/play/a05c/index.m3u8
+https://normielista.cl:443/play/0Bu2UVekNecKvoeYhzqb9Ys1LuodFeMLD4YOuI7v9IubwMyjmGkZB72CLfGh7iYl/ts
 #EXTINF:-1 tvg-id="179directv.cl" tvg-name="DSports + [MPD]" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png?timestamp=1684891675234" group-title="DEPORTES",DSports + [MPD]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"/QOj6N+Fl5xnyj/D9kDGtA","kid":"u/NOkwyhUwSwGY2oKvaV5w"},{"kty":"oct","k":"o7orqRD+lXjvXxCbomhyGA","kid":"nXsmWC0KVsaj3mbQt7Z50g"},{"kty":"oct","k":"tN+wHKI/5gm680Pitp8fjw","kid":"VtOLXRjwWvyOuEbyaEgC4Q"}],"type":"temporary"}
@@ -155,7 +155,7 @@ http://51.159.111.60:18000/Eurosport_1/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="eurosport2.es" tvg-name="Eurosport 2 - España" tvg-logo="" group-title="DEPORTES",Eurosport 2 - España
 http://51.159.111.60:18000/Eurosport_2/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TUDN - México" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES",TUDN - México
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38875.m3u8
+http://181.78.105.146:8800/play/a07e
 #EXTINF:-1 tvg-id="" tvg-name="TUDN - Estados Unidos" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75176_dark_360w_270h.png" group-title="DEPORTES",TUDN - Estados Unidos
 http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQvqMtmBcpz1YYvZUYtEVpIU/ts
 #EXTINF:-1 tvg-id="" tvg-name="GolTV" tvg-logo="" group-title="DEPORTES",GolTV
