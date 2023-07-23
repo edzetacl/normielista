@@ -235,7 +235,7 @@ http://167.250.39.130:8000/play/atresseries
 #EXTINF:-1 tvg-id="" tvg-name="Eurochannel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16574_dark_360w_270h.png" group-title="CINE Y SERIES",Eurochannel
 https://normielista.cl:443/play/0Bu2UVekNecKvoeYhzqb9Ys1LuodFeMLD4YOuI7v9IvifWCt5Ef_TKD7fZ8n-pPX/ts
 #EXTINF:-1 tvg-id="908mvstr.cl" tvg-name="Clover Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Clover_Channel_2021.svg/revision/latest/scale-to-width-down/200?cb=20220608131431&path-prefix=es" group-title="CINE Y SERIES",Clover Channel
-http://138.0.90.13:8001/play/a02g/index.m3u8
+http://201.218.137.232:4123/play/a04h/index.m3u8
 #EXTINF:-1 tvg-id="504dtv.cl" tvg-name="TCM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19246_dark_360w_270h.png" group-title="CINE Y SERIES",TCM
 http://45.232.210.1:8062/play/a09k/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FMH Family" tvg-logo="https://www.fmhot.cl/images/team/logo_family.png" group-title="CINE Y SERIES",FMH Family
@@ -571,7 +571,7 @@ http://45.232.210.1:47000/play/a0al
 #EXTINF:-1 tvg-id="221dtv.cl" tvg-name="¡Hola TV!" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82970_dark_360w_270h.png" group-title="VARIEDADES",¡Hola TV!
 http://45.5.117.172:8000/play/a0hx/index.m3u8
 #EXTINF:-1 tvg-id="216dtv.cl" tvg-name="TNT Novelas" tvg-logo="https://i.imgur.com/TGew5fX.png" group-title="VARIEDADES",TNT Novelas
-http://167.250.39.130:8000/play/tbs
+http://201.218.137.232:4123/play/a04l/index.m3u8
 #EXTINF:-1 tvg-id="222dtv.cl" tvg-name="E!" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30259_dark_360w_270h.png" group-title="VARIEDADES",E!
 http://45.232.210.1:47000/play/a0ff
 #EXTINF:-1 tvg-id="223dtv.cl" tvg-name="Investigation Discovery" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25743_dark_360w_270h.png" group-title="VARIEDADES",Investigation Discovery
@@ -589,7 +589,7 @@ http://177.234.230.226:8010/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="230dtv.cl" tvg-name="Mas Chic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17457_dark_360w_270h.png" group-title="VARIEDADES",Mas Chic
 http://177.234.230.226:8010/play/a01x/index.m3u8
 #EXTINF:-1 tvg-id="740dtv.cl" tvg-name="TLC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73822_dark_360w_270h.png" group-title="VARIEDADES",TLC
-http://45.225.95.170:8000/play/a0iz/index.m3u8
+http://201.218.137.232:4123/play/a035/index.m3u8
 #EXTINF:-1 tvg-id="740dtv.cl" tvg-name="TLC HD [MPD]" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73822_dark_360w_270h.png" group-title="VARIEDADES",TLC HD [MPD]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"IVjc-L7gN6S-e-vVvi8-mg","kid":"Y20CYfHnUIaHkeQmLIP0SA"}],"type":"temporary"}
