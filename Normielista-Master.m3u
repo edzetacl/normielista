@@ -64,7 +64,7 @@ http://190.6.203.198:8000/play/a01x/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN Extra - México" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png" group-title="DEPORTES",ESPN Extra - México
 http://187.189.125.28:8000/play/a04d/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN Deportes" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25595_dark_360w_270h.png" group-title="DEPORTES",ESPN Deportes
-http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQheawOlf2OpAffUPxVThG5i49iinjxIb55eGbVb4VUo7/ts
+http://168.228.194.33:48001/play/a0bv/index.m3u8
 #EXTINF:-1 tvg-id="1604dtv.ar" tvg-name="ESPN Premium - Argentina" tvg-logo="" group-title="DEPORTES",ESPN Premium - Argentina
 http://45.186.252.17:8000/play/a07t
 #EXTINF:-1 tvg-id="603dtv.ar" tvg-name="TNT Sports - Argentina" tvg-logo="https://cdn-w.tvdaldia.cl/canales/tntsports.png" group-title="DEPORTES",TNT Sports - Argentina
