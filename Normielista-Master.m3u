@@ -172,7 +172,8 @@ http://201.218.137.232:4123/play/a03o/index.m3u8
 #EXTINF:-1 tvg-id="1638dtv.cl" tvg-name="Teletrak TV" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDYwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1684869178611" group-title="DEPORTES",Teletrak TV
 https://mdstrm.com/live-stream-playlist/62616df888feb366839a3eb5.m3u8
 #EXTINF:-1 tvg-id="202dtv.cl" tvg-name="Star Channel" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMjUwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1684893764268" group-title="CINE Y SERIES",Star Channel
-http://181.78.75.11:9500/play/a03e/index.m3u8
+#http://181.78.75.11:9500/play/a03e/index.m3u8
+http://45.225.95.171:8589/play/a02s
 #EXTINF:-1 tvg-id="502dtv.cl" tvg-name="TNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71148_dark_360w_270h.png" group-title="CINE Y SERIES",TNT
 http://45.232.210.1:47000/play/a06w
 #EXTINF:-1 tvg-id="507dtv.ar" tvg-name="Cinecanal - Argentina" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" group-title="CINE Y SERIES",Cinecanal - Argentina
