@@ -606,6 +606,8 @@ http://45.186.252.17:8000/play/a011
 http://45.228.232.204:16000/play/a081/index.m3u8
 #EXTINF:-1 tvg-id="rec-tv.cl" tvg-name="RecTV" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_rec.png" group-title="VARIEDADES",RecTV
 https://marine2.miplay.cl/rec/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/TVN_3_2023.svg/1920px-TVN_3_2023.svg.png" group-title="VARIEDADES",TVN 3
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 #EXTINF:-1 tvg-id="892mvstr.cl" tvg-name="Kanal D Drama" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s112558_dark_360w_270h.png" group-title="VARIEDADES",Kanal D Drama
 http://190.83.60.34:1414/play/a03t
 #EXTINF:-1 tvg-id="235dtv.cl" tvg-name="IVC - Panregional" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97002_dark_360w_270h.png" group-title="VARIEDADES",IVC - Panregional
