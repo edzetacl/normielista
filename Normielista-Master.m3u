@@ -410,7 +410,7 @@ http://45.5.117.172:8000/play/a0i0/index.m3u8
 http://23.237.108.226/hls/MTVCLASSIC.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV U" tvg-logo="" group-title="MÚSICA",MTV U
 #EXTVLCOPT:http-user-agent=Roku/DVP(10.10.10)
-http://23.237.108.226/hls/MTVU.m3u8
+http://23.237.108.234/hls/MTVU.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Club MTV [MPD]" tvg-logo="https://i.imgur.com/6N5HSrH.png" group-title="MÚSICA",Club MTV [MPD]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"+atT2/gVO+Rjvt2OrXofjA","kid":"RmKnyFdCS+OukfbE2Zh8CQ"}],"type":"temporary"}
