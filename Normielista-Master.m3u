@@ -106,7 +106,7 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38572.m3u8
 #EXTINF:-1 tvg-id="I892.61704.schedulesdirect.org" tvg-name="Fox Sports 3 - México" tvg-logo="https://i.imgur.com/GvWFYrE.png" group-title="DEPORTES",Fox Sports 3 - México
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/37827.m3u8
 #EXTINF:-1 tvg-id="I312.123582.schedulesdirect.org" tvg-name="Fox Sports Premium - México" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s123582_dark_360w_270h.png" group-title="DEPORTES",Fox Sports Premium - México
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/53549.m3u8
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/56034.m3u8
 #EXTINF:-1 tvg-id="4399dtv.cl" tvg-name="Fox Sports 1 - Chile" tvg-logo="https://i.imgur.com/CYb3ifm.png" group-title="DEPORTES",Fox Sports 1 - Chile
 http://45.232.210.1:47000/play/a07k
 #EXTINF:-1 tvg-id="3082dtv.cl" tvg-name="Fox Sports 2 - Latinoamérica" tvg-logo="https://i.imgur.com/yedU8Gq.png" group-title="DEPORTES",Fox Sports 2 - Latinoamérica
@@ -124,7 +124,7 @@ http://51.159.111.60:18000/M_Liga_de_Campeones/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="mdeportes.es" tvg-name="M+ Deportes" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/m_deportes-mediano.png" group-title="DEPORTES",M+ Deportes
 http://51.159.111.60:18000/M_Deportes/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="mplus#vamos.es" tvg-name="M+ #Vamos" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/m_vamos-mediano.png" group-title="DEPORTES",M+ #Vamos
-http://51.159.111.60:18000/M_Vamos/hls/playlist.m3u8
+#http://51.159.111.60:18000/M_Vamos/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="dazn1.es" tvg-name="DAZN 1 - España" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/dazn-mediano.png" group-title="DEPORTES",DAZN 1 - España
 http://51.159.111.60:18000/DAZN_1/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="dazn2.es" tvg-name="DAZN 2 - España" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/dazn_2-mediano.png" group-title="DEPORTES",DAZN 2 - España
