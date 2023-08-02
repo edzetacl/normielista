@@ -1,5 +1,27 @@
-#EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
-tvg-shift=0 catchup="shift" catchup-days=6 
+#EXTINF:0 group-title="EVENTOS" tvg-logo="https://i.imgur.com/fbRj4b6.png", Evento 1
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://edzetacl.cloud/scripts/bicz/play
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.198 Safari/537.36","Referer":"https://vix.com/","Origin":"https://vix.com"}
+https://edzetacl.cloud/scripts/stream/eventos1
+#EXTINF:0 group-title="EVENTOS" tvg-logo="https://i.imgur.com/fbRj4b6.png", Evento 2
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://edzetacl.cloud/scripts/bicz/play
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.198 Safari/537.36","Referer":"https://vix.com/","Origin":"https://vix.com"}
+https://edzetacl.cloud/scripts/stream/eventos2
+#EXTINF:0 group-title="EVENTOS" tvg-logo="https://i.imgur.com/fbRj4b6.png", Evento 3
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://edzetacl.cloud/scripts/bicz/play
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.198 Safari/537.36","Referer":"https://vix.com/","Origin":"https://vix.com"}
+https://edzetacl.cloud/scripts/stream/eventos3
+#EXTINF:0 group-title="EVENTOS" tvg-logo="https://i.imgur.com/fbRj4b6.png", Evento 4
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://edzetacl.cloud/scripts/bicz/play
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.198 Safari/537.36","Referer":"https://vix.com/","Origin":"https://vix.com"}
+https://edzetacl.cloud/scripts/stream/eventos4
 #EXTINF:-1 tvg-id="" tvg-name="Telecanal" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_telecanal.png" group-title="NACIONALES",Telecanal
 http://45.232.211.197:1080/play/a0bu
 #EXTINF:-1 tvg-id="lared.cl" tvg-name="La Red" tvg-logo="https://cdn-w.tvdaldia.cl/canales/lared.png" group-title="NACIONALES",La Red
@@ -19,7 +41,7 @@ http://45.232.210.1:47000/play/cnnchilehd
 #EXTINF:-1 tvg-id="24horas.cl" tvg-name="Canal 24 Horas" tvg-logo="https://cdn-w.tvdaldia.cl/canales/24horas.png" group-title="NACIONALES",Canal 24 Horas
 http://45.232.210.1:47000/play/a07d
 #EXTINF:-1 tvg-id="" tvg-name="T13 en vivo" tvg-logo="https://cdn-w.tvdaldia.cl/canales/t13envivo.png" group-title="NACIONALES",T13 en vivo
-https://marine2.miplay.cl/t13/tracks-v1a1/playlist.m3u8
+https://marine2.miplay.cl/t13/playlist.m3u8
 #EXTINF:-1 tvg-id="rec-tv.cl" tvg-name="RecTV" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_rec.png" group-title="NACIONALES",RecTV
 https://marine2.miplay.cl/rec/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/TVN_3_2023.svg/1920px-TVN_3_2023.svg.png" group-title="NACIONALES",TVN 3
