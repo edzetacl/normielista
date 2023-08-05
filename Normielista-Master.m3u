@@ -37,7 +37,7 @@ http://181.78.75.11:9500/play/a03c/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN - Centroamérica" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES",ESPN - Centroamérica
 http://45.166.92.22:58001/play/a01g/index.m3u8
 #EXTINF:-1 tvg-id="431dtv.cl" tvg-name="ESPN 2 - Chile" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="DEPORTES",ESPN 2 - Chile
-http://45.225.95.171:8589/play/a00b
+http://186.67.226.14:8088/play/a04w
 #EXTINF:-1 tvg-id="622dtv.pe" tvg-name="ESPN 2 - Perú" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="DEPORTES",ESPN 2 - Perú
 http://45.232.210.1:47000/play/a06j
 #EXTINF:-1 tvg-id="622dtv.ar" tvg-name="ESPN 2 - Argentina" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="DEPORTES",ESPN 2 - Argentina
