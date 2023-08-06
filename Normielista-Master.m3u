@@ -875,11 +875,9 @@ https://dtvott-abc.akamaized.net/dash_live_1280/manifest.mpd
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/165.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",ESPN 3 Argentina TEST
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/187.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",Copa Mundial Femenina de la FIFA TEST
-http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/606.m3u8|user-agent=SyS1stemAp0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",TUDN Estados Unidos TEST
-http://23.237.108.234/hls/USA_TUDN.m3u8|user-agent=Roku(10.10.10)
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",Fox Sports 1 MX TEST
-https://mx1.gt-app.com/30/sFdTrWkjiPvlWmNyZsi.m3u8|user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",WWE Network TEST
-https://mx1.gt-app.com/65/sFdTrWkjiPvlWmNyZsi.m3u8|user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",MTV Hits UK TEST
+http://hostengine.live/live/andrej38/6455449/53925.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",MTV U Estados Unidos TEST
+http://hostengine.live/live/andrej38/6455449/54852.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",Unicable TEST
+http://iptvcanales.site/canales/masluz/UNICABLEMX.m3u8
