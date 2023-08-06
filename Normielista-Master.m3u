@@ -849,10 +849,10 @@ https://normielista.cl:443/play/0Bu2UVekNecKvoeYhzqb9XfWhnm6355f4jS_gT66X1hDwsmY
 http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/7576.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ADULTOS" parent-code="1190",Lesbian Movies
 http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/2058.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",TV Chile TEST
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",DAZN La Liga TEST
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c5d0d76e24844235988f9265619e5fec:446b71a6deb806c6f129e25de999d07c
-https://edge-mix01-mps.cvattv.com.ar/live/c6eds/Tv_Chile/SA_Live_dash_enc/Tv_Chile.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",Canal Á TEST
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"u9ChFwm8w6zPX4+4WIHPxg","kid":"7ixBJVFSWVKATAqay63dUw"}],"type":"temporary"}
@@ -861,8 +861,25 @@ https://dtvott-abc.akamaized.net/dash_live_1033/manifest.mpd|User-Agent="Mozilla
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"jx8qlXYqMCWjC9FKU9dCyw","kid":"X2XE8MgjXFekYIXMeneUMg"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1160/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",TV5 Monde Amerique Latine TEST
-#EXTHTTP:{"User-Agent":"Chrome/106.0.0.0","Referer":"https://nowtv.express.com.ar/","Origin":"https://nowtv.express.com.ar/","Authority":"anbalancer.express.com.ar"}
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",Fox Sports 2 Argentina TEST
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"}
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=dbd05ea4fb334cda9468104a97832926:c3e7597e77f9e0b7fdc42ed7f570d924
-https://anedgesta.express.com.ar/live/c1eds/TV5_Monde/SA_DASH_cipix/TV5_Monde.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"09eFf8J0UQA/zT3CvRU6oA","kid":"tXth0sirUpCcM8PCPWc2Pw"}],"type":"temporary"}
+https://dtvott-abc.akamaized.net/dash_live_1281/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",Fox Sports 3 Argentina TEST
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"}
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NYfKZvlpzu0rrihcoNMfMA","kid":"pZI0qYdmXWiN9ww2UQxKsA"}],"type":"temporary"}
+https://dtvott-abc.akamaized.net/dash_live_1280/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",NBC Universo TEST
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/165.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",ESPN 3 Argentina TEST
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/187.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",Copa Mundial Femenina de la FIFA TEST
+http://s2.smartersapp.net/live/US2474KMoV/PA4K247SeR/606.m3u8|user-agent=SyS1stemAp0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",TUDN Estados Unidos TEST
+http://23.237.108.234/hls/USA_TUDN.m3u8|user-agent=Roku(10.10.10)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",Fox Sports 1 MX TEST
+https://mx1.gt-app.com/30/sFdTrWkjiPvlWmNyZsi.m3u8|user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",WWE Network TEST
+https://mx1.gt-app.com/65/sFdTrWkjiPvlWmNyZsi.m3u8|user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
