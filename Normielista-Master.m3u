@@ -873,7 +873,3 @@ http://hostengine.live/live/andrej38/6455449/53925.m3u
 http://hostengine.live/live/andrej38/6455449/54852.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",Unicable TEST
 http://iptvcanales.site/canales/masluz/UNICABLEMX.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",Telecanal TEST
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7f16467ce403da0d64d64b7fa3eab06b:002f8d00ac13cdc2b3a0ec710ba98a83
-https://cllivechannelsdash-2.clarovideo.com/bpk-tv/TELECANAL/dash_fk/index.mpd
