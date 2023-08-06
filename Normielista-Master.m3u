@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/645505747cb4b10008492e03/thumbnail.jpg" group-title="NACIONALES",Gran Hermano Chile
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/645505747cb4b10008492e03/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_telecanal.png" group-title="NACIONALES",Telecanal
-http://45.232.211.197:1080/play/a0bu
+https://unlimited1-cl-isp.dps.live/tctc/tctc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-w.tvdaldia.cl/canales/lared.png" group-title="NACIONALES",La Red
 http://45.232.210.1:47000/play/laredhd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_tvmas.png" group-title="NACIONALES",TV+
@@ -189,14 +189,6 @@ http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQlqU86I-xHtzLMwIPx_bWPy
 http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQo-xXTovgh91O2gdsPLtb139F_JiDNeza7w7cu5u0Q0W/ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="EVENTOS",WWE
 http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQmQ2SM8VvmyGYTU6qaGSnyI/ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="EVENTOS",UFC
-http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQqTkHidmUbQTkrq3p6kN-JPZcXtbaJj-EVZILFFNkmjY/ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="EVENTOS",DAZN PPV 1 - Estados Unidos 
-http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQtQPpkTit6u7cV_jL8gagell0ohZOQTPzb0dmvkrSlT7/ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="EVENTOS",DAZN PPV 2 - Estados Unidos 
-http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQtQPpkTit6u7cV_jL8gagelJgwe8etGhh-NHycsy47qK/ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="EVENTOS",DAZN PPV 3 - Estados Unidos
-http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQtQPpkTit6u7cV_jL8gagemXw6qsNINj3zRjagfvcws3/ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMjUwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1684893764268" group-title="CINE Y SERIES",Star Channel
 http://45.177.97.14:8000/play/094
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71148_dark_360w_270h.png" group-title="CINE Y SERIES",TNT
@@ -324,7 +316,7 @@ http://190.83.60.34:1414/play/a01j
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68134_dark_360w_270h.png" group-title="HBO PREMIUM",HBO Pop Oeste
 http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQj6XYnGBNLV1jUXZX_V33Ofy-QGvyQg9gLat8LxXSg-4/ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70081_dark_360w_270h.png" group-title="HBO PREMIUM",HBO Mundi Este
-http://186.3.175.72:9013/play/a1bh/index.m3u8
+http://190.43.92.54:9898/play/a0zo/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70081_dark_360w_270h.png" group-title="HBO PREMIUM",HBO Mundi Oeste
 http://187.188.232.236:1021/play/a05i/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121866_dark_360w_270h.png" group-title="UNIVERSAL PLUS",Universal Premiere Este
@@ -374,7 +366,7 @@ http://45.232.210.1:47000/play/a057
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.fridamedia.com/sites/default/files/2023-05/Logo%20Canal%20Infantil%20pequen%CC%83o.png" group-title="INFANTIL",Canal Infantil
 http://179.189.222.226:8000/play/ch06
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/FunBox_TV_logo.svg/1024px-FunBox_TV_logo.svg.png" group-title="INFANTIL",FunBox
-http://170.81.240.10:8000/play/a01b/index.m3u8
+http://45.238.20.129:8000/play/a01t
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_etc.png" group-title="INFANTIL",ETC
 http://45.238.20.129:8000/play/a032
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.senpaitv.com/wp-content/uploads/2022/03/logosenpai.png" group-title="INFANTIL",Senpai TV
@@ -390,7 +382,7 @@ http://200.114.65.7:8000/play/a0pn/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.camara.cl/img/logo_blanco2.png" group-title="REGIONALES",Camara de Diputados Televisión
 https://tls-cl.cdnz.cl/camara/live/chunklist_w1613612648.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tv.senado.cl/tvsenado/site/artic/20160901/imag/foto_0000000920160901163145.png" group-title="REGIONALES",TV Senado
-http://181.129.173.98:8010/play/a04i/index.m3u8
+https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.biobiochile.cl/assets/img/bbtv_dm.png" group-title="REGIONALES",Bío-Bío TV
 https://marine2.miplay.cl/biobiotv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/5f4534bd9d9a9e5e37ecdd8a/mediaLibrary/photo/cd5aeaba-003d-43f0-9571-a710892e4ff0-extra-large-standard-q100.png" group-title="REGIONALES",TVR
