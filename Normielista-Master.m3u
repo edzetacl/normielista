@@ -86,7 +86,7 @@ http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQh8Un6O0upE-PPlQtvbL6VY
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/TJsHUSM.png" group-title="DEPORTES",Fox Sports - México
 http://168.228.194.33:48001/play/a0b6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yedU8Gq.png" group-title="DEPORTES",Fox Sports 2 - México
-http://168.228.194.33:48001/play/a0bu/index.m3u8
+http://190.61.80.102:4000/play/a0dv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GvWFYrE.png" group-title="DEPORTES",Fox Sports 3 - México
 http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQueUud_YOth8o6IO1_3-SUA/ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s123582_dark_360w_270h.png" group-title="DEPORTES",Fox Sports Premium - México
@@ -120,13 +120,13 @@ http://51.159.111.60:18000/Eurosport_1/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/eurosport_2-mediano.png" group-title="DEPORTES",Eurosport 2 - España
 http://51.159.111.60:18000/Eurosport_2/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES",TUDN - México
-http://181.78.105.146:2000/play/a08j/index.m3u8
+http://190.61.80.102:4000/play/a0du/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75176_dark_360w_270h.png" group-title="DEPORTES",TUDN - Estados Unidos
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30378.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/gol_tv_estados_unidos-mediano.png" group-title="DEPORTES",GolTV
 http://201.218.137.232:4123/play/a04z/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",Sky Sports La Liga - México
-http://181.78.105.146:2000/play/a08m/index.m3u8
+http://190.61.80.102:4000/play/a0e5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",Sky Sports Bundesliga - México
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/43098.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",Liga 1 Max - Perú
@@ -567,8 +567,6 @@ http://201.218.137.232:4123/play/a039/index.m3u8
 http://45.232.210.1:47000/play/foodnetworkhd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16257_dark_360w_270h.png" group-title="VARIEDADES",Las Estrellas - Latinoamérica
 http://179.189.222.226:8000/play/ch44
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16257_dark_360w_270h.png" group-title="VARIEDADES",Las Estrellas - Centroamérica
-http://200.229.147.76:4000/play/a0gl/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111055_dark_360w_270h.png" group-title="VARIEDADES",HGTV
 http://45.238.20.129:8000/play/a01f
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102862_dark_360w_270h.png" group-title="VARIEDADES",Telemundo Internacional
