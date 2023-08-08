@@ -125,6 +125,8 @@ http://190.61.80.102:4000/play/a0du/index.m3u8
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30378.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/gol_tv_estados_unidos-mediano.png" group-title="DEPORTES",GolTV
 http://201.218.137.232:4123/play/a04z/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/638df6f8b63cf100075ccfa1/thumbnail.jpg" group-title="DEPORTES",Chilevisión Deportes PlutoTV
+https://dai.google.com/linear/hls/event/1P2iL-EkSe2OuVR2IZ-v6w/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",Sky Sports La Liga - México
 http://190.61.80.102:4000/play/a0e5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",Sky Sports Bundesliga - México
