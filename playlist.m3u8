@@ -70,7 +70,7 @@ http://45.5.151.150:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="DEPORTES",DSports - Perú
 http://normielista.cl:80/play/0Bu2UVekNecKvoeYhzqb9XfWhnm6355f4jS_gT66X1hVQlj4ETe2j0ehFKstWJ4j/ts
 #EXTINF:-1 tvg-id="610dtv.ar" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="DEPORTES",DSports - Argentina
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/1643.m3u8
+
 #EXTINF:-1 tvg-id="610dtv.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="DEPORTES",DSports - Chile
 
 #EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="DEPORTES",DSports 2
@@ -81,3 +81,17 @@ http://normielista.cl:80/play/0Bu2UVekNecKvoeYhzqb9Ys1LuodFeMLD4YOuI7v9IubwMyjmG
 http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQojEnwzKcSH_6lFDeaQAAhCAhAqDcfgKuxz8xjJxe7jj/ts
 #EXTINF:-1 tvg-id="614dtv.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMzM0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="DEPORTES",DSports Motor
 http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQv5paTBVOyE22qXoXxwQ4hIc6n9wSF8etWduTwOCvQfw/ts
+#EXTINF:-1 tvg-id="1605dtv.ar" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES",Fox Sports - Argentina
+http://45.186.252.17:8000/play/a03w
+#EXTINF:-1 tvg-id="606dtv.ar" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73935_dark_360w_270h.png" group-title="DEPORTES",Fox Sports 2 - Argentina
+http://45.186.252.17:8000/play/a023
+#EXTINF:-1 tvg-id="607dtv.ar" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47374_dark_360w_270h.png" group-title="DEPORTES",Fox Sports 3 - Argentina
+http://45.186.252.17:8000/play/a01e
+#EXTINF:-1 tvg-id="fox-sports.mx" tvg-logo="https://i.imgur.com/TJsHUSM.png" group-title="DEPORTES",Fox Sports - México
+http://168.228.194.33:48001/play/a0b6/index.m3u8
+#EXTINF:-1 tvg-id="fox-sports-2.mx" tvg-logo="https://i.imgur.com/yedU8Gq.png" group-title="DEPORTES",Fox Sports 2 - México
+http://190.61.80.102:4000/play/a0dv/index.m3u8
+#EXTINF:-1 tvg-id="fox-sports-3.mx" tvg-logo="https://i.imgur.com/GvWFYrE.png" group-title="DEPORTES",Fox Sports 3 - México
+http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQueUud_YOth8o6IO1_3-SUA/ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s123582_dark_360w_270h.png" group-title="DEPORTES",Fox Sports Premium - México
+http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQlRenr82tP3C-DjDhFpVddh1I0FL9T-Wxf-e8ikzG48t/ts
