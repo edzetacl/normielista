@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml" tvg-shift=0 catchup="shift" catchup-days=6 
+#EXTINF:-1 ch-number="1" tvg-id="" tvg-logo="https://images.pluto.tv/channels/645505747cb4b10008492e03/thumbnail.jpg" group-title="NACIONALES",Gran Hermano Chile
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/645505747cb4b10008492e03/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 ch-number="4" tvg-id="lared.cl" tvg-logo="https://cdn-w.tvdaldia.cl/canales/lared.png" group-title="NACIONALES",La Red
 http://45.232.210.1:47000/play/laredhd
 #EXTINF:-1 ch-number="5" tvg-id="tvmas.cl" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_tvmas.png" group-title="NACIONALES",TV+
@@ -11,5 +13,9 @@ http://45.232.210.1:47000/play/a08g
 http://45.232.210.1:47000/play/a08n
 #EXTINF:-1 ch-number="13" tvg-id="152dtv.cl" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_canal13.png" group-title="NACIONALES",Canal 13
 http://45.232.210.1:47000/play/a07a
-#EXTINF:-1 ch-number="14" tvg-id="" tvg-logo="https://images.pluto.tv/channels/645505747cb4b10008492e03/thumbnail.jpg" group-title="NACIONALES",Gran Hermano Chile
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/645505747cb4b10008492e03/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 ch-number="14" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104408_dark_360w_270h.png" group-title="NACIONALES",CNN Chile
+http://45.232.210.1:47000/play/cnnchilehd
+#EXTINF:-1 ch-number="15" tvg-id="" tvg-logo="https://cdn-w.tvdaldia.cl/canales/24horas.png" group-title="NACIONALES",Canal 24 Horas
+http://45.232.210.1:47000/play/a07d
+#EXTINF:-1 ch-number="16" tvg-id="" tvg-logo="https://cdn-w.tvdaldia.cl/canales/t13envivo.png" group-title="NACIONALES",T13 en vivo
+https://marine2.miplay.cl/t13/playlist.m3u8
