@@ -140,7 +140,7 @@ http://168.228.193.214:58005/play/a05m
 #EXTINF:-1 tvg-id="beinx-es1.us" tvg-logo="https://i.imgur.com/laikTq4.png" group-title="DEPORTES",beIN Sports Xtra en Español
 https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="604dtv.pe" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/604.png" group-title="DEPORTES",Liga 1 Max - Perú
-http://201.218.137.232:4123/play/a017/index.m3u8
+http://normielista.cl:80/play/0Bu2UVekNecKvoeYhzqb9XfWhnm6355f4jS_gT66X1hUgqf4npKdJO-hz-ji0SD2/ts
 #EXTINF:-1 tvg-id="11mvstr.pe" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/55/7553955_D7D9A30FB187AF45.png" group-title="DEPORTES",Gol Perú
 http://201.218.137.232:4123/play/a050/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/638df6f8b63cf100075ccfa1/thumbnail.jpg" group-title="DEPORTES",Chilevisión Deportes PlutoTV
