@@ -1,0 +1,15 @@
+#EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml" tvg-shift=0 catchup="shift" catchup-days=6 
+#EXTINF:-1 ch-number="4" tvg-id="lared.cl" tvg-logo="https://cdn-w.tvdaldia.cl/canales/lared.png" group-title="NACIONALES",La Red
+http://45.232.210.1:47000/play/laredhd
+#EXTINF:-1 ch-number="5" tvg-id="tvmas.cl" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_tvmas.png" group-title="NACIONALES",TV+
+http://45.232.210.1:47000/play/a058
+#EXTINF:-1 ch-number="7" tvg-id="149dtv.cl" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_tvn.png" group-title="NACIONALES",TVN
+http://45.232.210.1:47000/play/a06r
+#EXTINF:-1 ch-number="9" tvg-id="mega.cl" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_mega.png" group-title="NACIONALES",Mega
+http://45.232.210.1:47000/play/a08g
+#EXTINF:-1 ch-number="11" tvg-id="chv.cl" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_chv.png" group-title="NACIONALES",Chilevisión
+http://45.232.210.1:47000/play/a08n
+#EXTINF:-1 ch-number="13" tvg-id="152dtv.cl" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_canal13.png" group-title="NACIONALES",Canal 13
+http://45.232.210.1:47000/play/a07a
+#EXTINF:-1 ch-number="14" tvg-id="" tvg-logo="https://images.pluto.tv/channels/645505747cb4b10008492e03/thumbnail.jpg" group-title="NACIONALES",Gran Hermano Chile
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/645505747cb4b10008492e03/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
