@@ -151,5 +151,103 @@ http://190.149.66.90:4000/play/a008/index.m3u8
 http://177.53.153.21:8001/play/a01l/index.m3u8
 #EXTINF:-1 tvg-id="736dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46608_dark_360w_270h.png" group-title="DEPORTES",Discovery Turbo
 http://201.218.137.232:4123/play/a03o/index.m3u8
-#EXTINF:-1 tvg-id="736dtv.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDYwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1684869178611" group-title="DEPORTES",Teletrak TV
+#EXTINF:-1 tvg-id="736dtv.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDYwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png" group-title="DEPORTES",Teletrak TV
 https://mdstrm.com/live-stream-playlist/62616df888feb366839a3eb5.m3u8
+#EXTINF:-1 tvg-id="202dtv.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMjUwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png" group-title="CINE Y SERIES",Star Channel
+http://179.51.168.13:4000/play/a033
+#EXTINF:-1 tvg-id="502dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71148_dark_360w_270h.png" group-title="CINE Y SERIES",TNT
+http://45.232.210.1:47000/play/a06w
+#EXTINF:-1 tvg-id="507dtv.co" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" group-title="CINE Y SERIES",Cinecanal - Panregional
+http://45.232.210.1:47000/play/a05c
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" group-title="CINE Y SERIES",Cinecanal - Chile
+http://179.51.168.13:4000/play/a05k
+#EXTINF:-1 tvg-id="1509dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16794_dark_360w_270h.png" group-title="CINE Y SERIES",Cinemax
+http://45.232.210.1:47000/play/cinemaxhd
+#EXTINF:-1 tvg-id="218dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s53218_dark_360w_270h.png" group-title="CINE Y SERIES",Universal TV - Chile
+http://179.51.168.13:4000/play/a02y
+#EXTINF:-1 tvg-id="218dtv.co" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s53218_dark_360w_270h.png" group-title="CINE Y SERIES",Universal TV - Panregional
+http://45.232.210.1:47000/play/a0ap
+#EXTINF:-1 tvg-id="209dtv.co" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72534_dark_360w_270h.png" group-title="CINE Y SERIES",AXN
+http://45.232.210.1:47000/play/a06f
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16213_dark_360w_270h.png" group-title="CINE Y SERIES",Warner Channel - Chile
+http://179.51.168.13:4000/play/a04g
+#EXTINF:-1 tvg-id="1206dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16213_dark_360w_270h.png" group-title="CINE Y SERIES",Warner Channel - Panregional
+http://45.232.210.1:47000/play/a06e
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ieshmNx.png" group-title="CINE Y SERIES",FX - Chile
+http://45.232.210.1:8062/play/a0b8/index.m3u8
+#EXTINF:-1 tvg-id="217dtv.cl" tvg-logo="https://i.imgur.com/ieshmNx.png" group-title="CINE Y SERIES",FX - Panregional
+http://45.232.210.1:47000/play/a0aw
+#EXTINF:-1 tvg-id="208dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19385_dark_360w_270h.png" group-title="CINE Y SERIES",Sony Channel
+http://45.232.210.1:47000/play/a06d
+#EXTINF:-1 tvg-id="207dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10035_dark_360w_270h.png" group-title="CINE Y SERIES",A&E
+http://45.232.210.1:47000/play/aehd
+#EXTINF:-1 tvg-id="518dtv.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/space-mediano.png" group-title="CINE Y SERIES",Space
+http://45.232.210.1:47000/play/a06g
+#EXTINF:-1 tvg-id="824dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106215_dark_360w_270h.png" group-title="CINE Y SERIES",Paramount Network
+http://45.232.210.1:47000/play/a05j
+#EXTINF:-1 tvg-id="508dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png" group-title="CINE Y SERIES",Studio Universal
+http://45.232.210.1:47000/play/studiouniversalhd
+#EXTINF:-1 tvg-id="508dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="CINE Y SERIES",AMC
+http://201.218.137.232:4123/play/a04n/index.m3u8
+#EXTINF:-1 tvg-id="520dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16497_dark_360w_270h.png" group-title="CINE Y SERIES",I.Sat
+http://45.232.210.1:8062/play/a09f/index.m3u8
+#EXTINF:-1 tvg-id="1513dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s81623_dark_360w_270h.png" group-title="CINE Y SERIES",DHE
+http://45.232.210.1:47000/play/a0dz
+#EXTINF:-1 tvg-id="215dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76326_dark_360w_270h.png" group-title="CINE Y SERIES",Comedy Central
+http://45.232.210.1:47000/play/comedycentralhd
+#EXTINF:-1 tvg-id="213dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="CINE Y SERIES",TNT Series
+http://45.232.210.1:47000/play/a0bf
+#EXTINF:-1 tvg-id="219dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56727_dark_360w_270h.png" group-title="CINE Y SERIES",SyFy
+http://167.250.39.130:8000/play/syfy
+#EXTINF:-1 tvg-id="746dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87687_dark_360w_270h.png" group-title="CINE Y SERIES",Film & Arts
+http://45.186.252.17:8000/play/a01l
+#EXTINF:-1 tvg-id="1506dtv.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMzEyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="CINE Y SERIES",Sony Movies
+http://45.228.232.205:16000/play/a04h/index.m3u8
+#EXTINF:-1 tvg-id="1515dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s27741_dark_360w_270h.png" group-title="CINE Y SERIES",Europa Europa
+http://201.218.137.232:4123/play/a04o/index.m3u8
+#EXTINF:-1 tvg-id="214dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90917_dark_360w_270h.png" group-title="CINE Y SERIES",A3 Series
+http://201.218.137.232:4123/play/a04t/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16574_dark_360w_270h.png" group-title="CINE Y SERIES",Eurochannel
+https://normielista.cl:443/play/0Bu2UVekNecKvoeYhzqb9Ys1LuodFeMLD4YOuI7v9IvifWCt5Ef_TKD7fZ8n-pPX/ts
+#EXTINF:-1 tvg-id="908mvstr.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Clover_Channel_2021.svg/revision/latest/scale-to-width-down/200?cb=20220608131431&path-prefix=es" group-title="CINE Y SERIES",Clover Channel
+http://201.218.137.232:4123/play/a04h/index.m3u8
+#EXTINF:-1 tvg-id="504dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19246_dark_360w_270h.png" group-title="CINE Y SERIES",TCM
+http://45.232.210.1:8062/play/a09k/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.fmh.la/images/team/logo_family.png" group-title="CINE Y SERIES",FMH Family
+http://45.181.122.169:8000/play/a02i
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.fmh.la/images/team/logo_kids.png" group-title="CINE Y SERIES",FMH Kids
+http://45.181.122.169:8000/play/a02j
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.fmh.la/images/team/logo_movies.png" group-title="CINE Y SERIES",FMH Movies
+http://45.181.122.169:8000/play/a02k
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.fridamedia.com/sites/default/files/2022-09/CINE%20FAMILIAR.png" group-title="CINE Y SERIES",Cine Familiar
+http://179.189.222.226:8000/play/ch52
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.fridamedia.com/sites/default/files/2022-09/CINE%20HISPANO.png" group-title="CINE Y SERIES",Cine Hispano
+http://179.189.222.226:8000/play/ch51
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.fridamedia.com/sites/default/files/2022-09/Cine%20Premium.png" group-title="CINE Y SERIES",Cine Premium
+http://179.189.222.226:8000/play/ch49
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18329_dark_360w_270h.png" group-title="CINE Y SERIES",MC
+http://177.234.230.226:8010/play/a00i/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDM4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png" group-title="CINE Y SERIES", TV Cortos
+http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQocysXXFaQhr0vWfCMGwkxQa32PG-Er1HxQ5-aMLFKDg/ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/panico-mediano.png" group-title="CINE Y SERIES",Panico HD
+http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQnuo900vcXXC9ZojmX60blbwLjSzOVajHhv1fBLiUR3G/ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.fridamedia.com/sites/default/files/2022-09/Morbido.png" group-title="CINE Y SERIES",Morbido TV
+https://otthca.cdn.iutpcdn.com/bpk-tv/tp11140/clear/index.m3u8
+#EXTINF:-1 tvg-id="de-pelicula.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16288_dark_360w_270h.png" group-title="CINE Y SERIES",De Pelicula
+http://179.51.168.13:4000/play/a06t
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s95687_dark_360w_270h.png" group-title="CINE Y SERIES",AZ Cinema
+http://201.218.137.232:4123/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="514dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15296_dark_360w_270h.png" group-title="CINE Y SERIES",Cine Latino
+http://45.5.117.172:8000/play/a0ik/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Multipremier" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18169_dark_360w_270h.png" group-title="CINE Y SERIES",Multipremier
+http://45.189.117.202:48000/play/a022/index.m3u8
+#EXTINF:-1 tvg-id="503dtv.cl" tvg-logo="https://i.imgur.com/fqkinet.png" group-title="CINE Y SERIES",Golden
+http://181.119.66.30:8000/play/a004/index.m3u8
+#EXTINF:-1 tvg-id="517dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16423_dark_360w_270h.png" group-title="CINE Y SERIES",Golden Edge
+http://181.119.66.30:8000/play/a003/index.m3u8
+#EXTINF:-1 tvg-id="1503dtv.cl" tvg-logo="https://i.imgur.com/k7uCDly.png" group-title="CINE Y SERIES",Golden Plus
+http://45.232.210.1:47000/play/goldenhd
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier-mediano.png" group-title="CINE Y SERIES",Golden Premiere
+http://201.218.137.232:4123/play/a009/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier-mediano.png" group-title="CINE Y SERIES",Golden Premiere 2
+http://201.218.137.232:4123/play/a00b/index.m3u8
