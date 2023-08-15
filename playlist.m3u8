@@ -251,3 +251,53 @@ http://45.232.210.1:47000/play/goldenhd
 http://201.218.137.232:4123/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier-mediano.png" group-title="CINE Y SERIES",Golden Premiere 2
 http://201.218.137.232:4123/play/a00b/index.m3u8
+#EXTINF:-1 tvg-id="1524dtv.co" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="HBO PREMIUM",HBO Este
+http://190.83.60.34:1414/play/a03q
+#EXTINF:-1 tvg-id="hbo-oeste.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="HBO PREMIUM",HBO Oeste
+http://190.149.66.90:4000/play/a00c/index.m3u8
+#EXTINF:-1 tvg-id="1481dtv.cl" tvg-logo="https://www.buscopng.com/wp-content/uploads/2020/11/HBO-logo.png" group-title="HBO PREMIUM",HBO Chile
+http://45.232.210.1:8062/play/a0b3/index.m3u8
+#EXTINF:-1 tvg-id="525dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="HBO PREMIUM",HBO 2 Este
+http://190.83.60.34:1414/play/a040
+#EXTINF:-1 tvg-id="hbo-2.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="HBO PREMIUM",HBO 2 Oeste
+http://190.149.66.90:4000/play/a00d/index.m3u8
+#EXTINF:-1 tvg-id="1534dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="HBO PREMIUM",HBO Family
+http://190.83.60.34:1414/play/a06n
+#EXTINF:-1 tvg-id="526dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="HBO PREMIUM",HBO Plus Este
+http://201.218.137.232:4123/play/a049/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="HBO PREMIUM",HBO Plus Oeste
+http://190.149.66.90:4000/play/a00e/index.m3u8
+#EXTINF:-1 tvg-id="528dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80120_dark_360w_270h.png" group-title="HBO PREMIUM",HBO Signature
+http://201.218.137.232:4123/play/a00z/index.m3u8
+#EXTINF:-1 tvg-id="542dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="HBO PREMIUM",HBO Xtreme Este
+http://190.83.60.34:1414/play/a06o
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="HBO PREMIUM",HBO Xtreme Oeste
+http://190.149.66.90:4000/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="541dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68134_dark_360w_270h.png" group-title="HBO PREMIUM",HBO Pop Este
+http://190.83.60.34:1414/play/a01j
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68134_dark_360w_270h.png" group-title="HBO PREMIUM",HBO Pop Oeste
+http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQj6XYnGBNLV1jUXZX_V33Ofy-QGvyQg9gLat8LxXSg-4/ts
+#EXTINF:-1 tvg-id="540dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70081_dark_360w_270h.png" group-title="HBO PREMIUM",HBO Mundi Este
+http://45.186.252.17:8000/play/a07j
+#EXTINF:-1 tvg-id="hbo-mundi.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70081_dark_360w_270h.png" group-title="HBO PREMIUM",HBO Mundi Oeste
+http://187.188.232.236:1021/play/a05i/index.m3u8
+#EXTINF:-1 tvg-id="571dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121866_dark_360w_270h.png" group-title="UNIVERSAL PLUS",Universal Premiere Este
+http://38.7.131.2:8000/play/a0ey/index.m3u8
+#EXTINF:-1 tvg-id="576dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121866_dark_360w_270h.png" group-title="UNIVERSAL PLUS",Universal Premiere Oeste
+http://38.7.131.2:8000/play/a0ez/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121868_dark_360w_270h.png" group-title="UNIVERSAL PLUS",Universal Crime Este
+http://38.7.131.2:8000/play/a0f1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121868_dark_360w_270h.png" group-title="UNIVERSAL PLUS",Universal Crime Oeste
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/36355.m3u8
+#EXTINF:-1 tvg-id="1572dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121869_dark_360w_270h.png" group-title="UNIVERSAL PLUS",Universal Cinema Este
+http://190.149.66.90:4000/play/a056/index.m3u8
+#EXTINF:-1 tvg-id="1577dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121869_dark_360w_270h.png" group-title="UNIVERSAL PLUS",Universal Cinema Oeste
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/36358.m3u8
+#EXTINF:-1 tvg-id="1573dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121870_dark_360w_270h.png" group-title="UNIVERSAL PLUS",Universal Comedy Este
+http://38.7.131.2:8000/play/a0f2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121870_dark_360w_270h.png" group-title="UNIVERSAL PLUS",Universal Comedy Oeste
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/36354.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121867_dark_360w_270h.png" group-title="UNIVERSAL PLUS",Universal Reality Este
+http://38.7.131.2:8000/play/a0f0/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121867_dark_360w_270h.png" group-title="UNIVERSAL PLUS",Universal Reality Oeste
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/36357.m3u8
