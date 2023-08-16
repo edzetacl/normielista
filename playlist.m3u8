@@ -301,3 +301,45 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/36354.m3u8
 http://38.7.131.2:8000/play/a0f0/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121867_dark_360w_270h.png" group-title="UNIVERSAL PLUS",Universal Reality Oeste
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/36357.m3u8
+#EXTINF:-1 tvg-id="312dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41223_dark_360w_270h.png" group-title="INFANTIL",Disney Channel
+http://45.232.210.1:47000/play/disneyhd
+#EXTINF:-1 tvg-id="330dtv.co" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16680_dark_360w_270h.png" group-title="INFANTIL",Discovery Kids
+http://45.232.210.1:47000/play/a0ak
+#EXTINF:-1 tvg-id="304dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59562_dark_360w_270h.png" group-title="INFANTIL",Cartoon Network
+http://45.232.210.1:47000/play/a05i
+#EXTINF:-1 tvg-id="308dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16707_dark_360w_270h.png" group-title="INFANTIL",Nickelodeon
+http://45.232.210.1:47000/play/a0fg
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7YC9C1P.png" group-title="INFANTIL",Dreamworks Channel
+http://201.218.137.232:4123/play/a03y/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56036_dark_360w_270h.png" group-title="INFANTIL",BabyTV
+http://204.199.120.34:16123/play/ch01
+#EXTINF:-1 tvg-id="1317dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56036_dark_360w_270h.png" group-title="INFANTIL",BabyTV HD [MPD]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8JNNLQGjqmYrDEw0VhenWg","kid":"Ej16s3MNU4Svt28xCbg_zQ"}],"type":"temporary"}
+https://dtvott-cbc.akamaized.net/dash_live_1024/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#EXTINF:-1 tvg-id="315dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60506_dark_360w_270h.png" group-title="INFANTIL",Disney Junior
+http://179.189.222.226:8000/play/ch05
+#EXTINF:-1 tvg-id="309dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60295_dark_360w_270h.png" group-title="INFANTIL",Nick Jr
+http://167.250.39.130:8000/play/nickjr
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89920_dark_360w_270h.png" group-title="INFANTIL",ZooMoo
+http://177.234.230.226:8010/play/a02x/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78831_dark_360w_270h.png" group-title="INFANTIL",Baby First
+http://190.149.66.90:4000/play/a028/index.m3u8
+#EXTINF:-1 tvg-id="304dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26089_dark_360w_270h.png" group-title="INFANTIL",Cartoonito
+http://45.177.53.7:8000/play/a0c7/index.m3u8
+#EXTINF:-1 tvg-id="146dtv.cl" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_ntv.png" group-title="INFANTIL",NTV
+http://45.232.210.1:47000/play/a057
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.fridamedia.com/sites/default/files/2023-05/Logo%20Canal%20Infantil%20pequen%CC%83o.png" group-title="INFANTIL",Canal Infantil
+http://179.189.222.226:8000/play/ch06
+#EXTINF:-1 tvg-id="850mvstr.cl" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_etc.png" group-title="INFANTIL",ETC
+http://179.51.168.13:4000/play/a06r
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.senpaitv.com/wp-content/uploads/2022/03/logosenpai.png" group-title="INFANTIL",Senpai TV
+http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQv1a_MCzSokkTnHPOpAMSM0BFYHkLkhqrkk5Dl-lguuE/ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72801_dark_360w_270h.png" group-title="INFANTIL",BitMe
+http://45.189.117.202:48000/play/a01w/index.m3u8
+#EXTINF:-1 tvg-id="310dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77783_dark_360w_270h.png" group-title="INFANTIL",TeenNick
+http://201.218.137.232:4123/play/a03q/index.m3u8
+#EXTINF:-1 tvg-id="tooncast.ar" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63109_dark_360w_270h.png" group-title="INFANTIL",Tooncast
+http://181.78.74.19:8008/play/a004/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTIL",Vía X eSports
+http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQkQ6BW8uKLaqBRiMfqKjMjPdLpsHxXkM1LSEsHp5Rhd0/ts
