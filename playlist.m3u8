@@ -511,3 +511,79 @@ http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQi4J9utj8l9cPISyMJUxcGM
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:23_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fmh.la/images/team/logo_atlas.png" group-title="CULTURA",Atlas
 http://45.181.122.169:8000/play/a03w
+#EXTINF:-1 tvg-id="mtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12712_dark_360w_270h.png" group-title="VARIEDADES",MTV
+http://45.232.210.1:47000/play/mtvhd
+#EXTINF:-1 tvg-id="229dtv.co" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24424_dark_360w_270h.png" group-title="VARIEDADES",Discovery Home & Health
+http://45.232.210.1:47000/play/a0al
+#EXTINF:-1 tvg-id="221dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82970_dark_360w_270h.png" group-title="VARIEDADES",¡Hola TV!
+http://201.218.137.232:4123/play/a034/index.m3u8
+#EXTINF:-1 tvg-id="864mvstr.co" tvg-logo="https://i.imgur.com/TGew5fX.png" group-title="VARIEDADES",TNT Novelas
+http://201.218.137.232:4123/play/a04l/index.m3u8
+#EXTINF:-1 tvg-id="222dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30259_dark_360w_270h.png" group-title="VARIEDADES",E!
+http://45.232.210.1:47000/play/a0ff
+#EXTINF:-1 tvg-id="223dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25743_dark_360w_270h.png" group-title="VARIEDADES",Investigation Discovery
+http://45.232.210.1:47000/play/idhd
+#EXTINF:-1 tvg-id="232dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25553_dark_360w_270h.png" group-title="VARIEDADES",El Gourmet
+http://45.232.210.1:47000/play/a074
+#EXTINF:-1 tvg-id="" tvg-logo="https://travelxptv.b-cdn.net/wp-content/uploads/2022/11/Group-1093.png" group-title="VARIEDADES",Travel XP
+http://201.218.137.232:4123/play/a039/index.m3u8
+#EXTINF:-1 tvg-id="233dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91919_dark_360w_270h.png" group-title="VARIEDADES",Food Network
+http://45.232.210.1:47000/play/foodnetworkhd
+#EXTINF:-1 tvg-id="226dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16257_dark_360w_270h.png" group-title="VARIEDADES",Las Estrellas - Latinoamérica
+http://179.189.222.226:8000/play/ch44
+#EXTINF:-1 tvg-id="hgtv.ar" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111055_dark_360w_270h.png" group-title="VARIEDADES",HGTV
+http://201.218.137.232:4123/play/a038/index.m3u8
+#EXTINF:-1 tvg-id="942mvstr.co" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102862_dark_360w_270h.png" group-title="VARIEDADES",Telemundo Internacional
+http://177.234.230.226:8010/play/a013/index.m3u8
+#EXTINF:-1 tvg-id="942mvstr.co" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17457_dark_360w_270h.png" group-title="VARIEDADES",Mas Chic
+http://177.234.230.226:8010/play/a01x/index.m3u8
+#EXTINF:-1 tvg-id="942mvstr.co" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73822_dark_360w_270h.png" group-title="VARIEDADES",TLC
+http://201.218.137.232:4123/play/a035/index.m3u8
+#EXTINF:-1 tvg-id="225dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71621_dark_360w_270h.png" group-title="VARIEDADES",Pasiones
+http://45.232.210.1:47000/play/pasioneshd
+#EXTINF:-1 tvg-id="220dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16496_dark_360w_270h.png" group-title="VARIEDADES",TruTV
+http://45.232.210.1:47000/play/a073
+#EXTINF:-1 tvg-id="224dtvc." tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61514_dark_360w_270h.png" group-title="VARIEDADES",Glitz
+http://181.78.74.19:8008/play/a05f/index.m3u8
+#EXTINF:-1 tvg-id="227dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s37232_dark_360w_270h.png" group-title="VARIEDADES",TL Novelas
+http://201.218.137.232:4123/play/a02x/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_mega2.png" group-title="VARIEDADES",Mega 2
+http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQsfshzHCMN4XtjBSKznXXrWFGWWcMXXeGp18qRZdmuuL/ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_megaficcion.png" group-title="VARIEDADES",Mega Ficción
+http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQu4GCunM5E6dIzprQxJ5D5NErcbk-K1Knkc96QDimmPj/ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_megaplus.png" group-title="VARIEDADES",Mega Plus
+https://marine2.miplay.cl/megaplus/playlist.m3u8
+#EXTINF:-1 tvg-id="rec-tv.cl" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_rec.png" group-title="VARIEDADES",RecTV
+https://marine2.miplay.cl/rec/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/TVN_3_2023.svg/1920px-TVN_3_2023.svg.png" group-title="VARIEDADES",TVN3
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+#EXTINF:-1 tvg-id="viax.cl" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_viax.png" group-title="VARIEDADES",Vía X
+http://45.232.210.1:8062/play/a092/index.m3u8
+#EXTINF:-1 tvg-id="801mvstr.cl" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_zl.png" group-title="VARIEDADES",Zona Latina
+http://45.232.210.1:8062/play/a09h/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s92197_dark_360w_270h.png" group-title="VARIEDADES",AZ Clic
+http://45.5.117.172:8000/play/a0gz/index.m3u8
+#EXTINF:-1 tvg-id="az-corazon.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61404_dark_360w_270h.png" group-title="VARIEDADES",AZ Corazón
+http://201.218.137.232:4123/play/a00f/index.m3u8
+#EXTINF:-1 tvg-id="741dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60329_dark_360w_270h.png" group-title="VARIEDADES",Sun Channel
+http://45.232.210.1:47000/play/a0aj
+#EXTINF:-1 tvg-id="760dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11118_dark_360w_270h.png" group-title="VARIEDADES",Univisión Latinoamérica
+http://201.218.137.232:4123/play/a031/index.m3u8
+#EXTINF:-1 tvg-id="892mvstr.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s112558_dark_360w_270h.png" group-title="VARIEDADES",Kanal D Drama
+http://201.218.137.232:4123/play/a032/index.m3u8
+#EXTINF:-1 tvg-id="235dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97002_dark_360w_270h.png" group-title="VARIEDADES",IVC
+http://204.199.113.33:15017/play/a064/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106724_dark_360w_270h.png" group-title="VARIEDADES",Star TVE
+http://190.83.60.34:1414/play/a03x
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s82162_dark_360w_270h.png" group-title="VARIEDADES",Inti Network
+http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQqdBqs9jz3F2iYt0KD9knmieFUShYqcBPubjaS36xGnN/ts
+#EXTINF:-1 tvg-id="201dtv.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMjMyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png?timestamp=1687830513236" group-title="VARIEDADES",OnDirecTV [MPD]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"m9Z5pDpLV4ZJWdsQWkL66g","kid":"ZOdENn4WUI+YuiebM1ftKA"}],"type":"temporary"}
+https://dtvott-abc.akamaized.net/dash_live_1178/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#EXTINF:-1 tvg-id="201dtv.co" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMjMyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png?timestamp=1687830513236" group-title="VARIEDADES",OnDirecTV Norte [MPD]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"aIZfLcKMjrrAPIqdO3ngWg","kid":"EpaKTR3iXpKKdZ7KoW6QDA"}],"type":"temporary"}
+https://dtvott-abc.akamaized.net/dash_live_1177/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#EXTINF:-1 tvg-id="canalclaro.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79664_dark_360w_270h.png" group-title="VARIEDADES",Canal Claro
+http://201.218.137.232:4123/play/a00v/index.m3u8
