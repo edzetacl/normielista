@@ -343,7 +343,7 @@ http://201.218.137.232:4123/play/a03q/index.m3u8
 http://181.78.74.19:8008/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTIL",Vía X eSports
 http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQkQ6BW8uKLaqBRiMfqKjMjPdLpsHxXkM1LSEsHp5Rhd0/ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.camara.cl/img/logo_blanco2.png" group-title="REGIONALES",Camara de Diputados Televisión
+#EXTINF:-1 tvg-id="155dtv.cl" tvg-logo="https://www.camara.cl/img/logo_blanco2.png" group-title="REGIONALES",Camara de Diputados Televisión
 https://tls-cl.cdnz.cl/camara/live/chunklist_w1613612648.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv.senado.cl/tvsenado/site/artic/20160901/imag/foto_0000000920160901163145.png" group-title="REGIONALES",TV Senado
 
@@ -577,13 +577,91 @@ http://204.199.113.33:15017/play/a064/index.m3u8
 http://190.83.60.34:1414/play/a03x
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s82162_dark_360w_270h.png" group-title="VARIEDADES",Inti Network
 http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQqdBqs9jz3F2iYt0KD9knmieFUShYqcBPubjaS36xGnN/ts
-#EXTINF:-1 tvg-id="201dtv.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMjMyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png?timestamp=1687830513236" group-title="VARIEDADES",OnDirecTV [MPD]
+#EXTINF:-1 tvg-id="201dtv.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMjMyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="VARIEDADES",OnDirecTV [MPD]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"m9Z5pDpLV4ZJWdsQWkL66g","kid":"ZOdENn4WUI+YuiebM1ftKA"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1178/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-#EXTINF:-1 tvg-id="201dtv.co" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMjMyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png?timestamp=1687830513236" group-title="VARIEDADES",OnDirecTV Norte [MPD]
+#EXTINF:-1 tvg-id="201dtv.co" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMjMyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="VARIEDADES",OnDirecTV Norte [MPD]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"aIZfLcKMjrrAPIqdO3ngWg","kid":"EpaKTR3iXpKKdZ7KoW6QDA"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1177/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 #EXTINF:-1 tvg-id="canalclaro.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79664_dark_360w_270h.png" group-title="VARIEDADES",Canal Claro
 http://201.218.137.232:4123/play/a00v/index.m3u8
+#EXTINF:-1 tvg-id="704dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17054_dark_360w_270h.png" group-title="MUNDOS",CNN en Español
+http://179.51.168.13:4000/play/a05n
+#EXTINF:-1 tvg-id="706dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15192_dark_360w_270h.png" group-title="MUNDOS",CNN International
+http://167.250.39.130:8000/play/cnn
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s36844_dark_360w_270h.png" group-title="MUNDOS",BBC News
+http://167.250.39.130:8000/play/bbcnews
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16217_dark_360w_270h.png" group-title="MUNDOS",TVE Internacional
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64230_dark_360w_270h.png" group-title="MUNDOS",DW en Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105780_dark_360w_270h.png" group-title="MUNDOS",France 24 en Español
+http://201.218.137.232:4123/play/a05k/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40704_dark_360w_270h.png" group-title="MUNDOS",Euronews en Español
+http://201.218.137.232:4123/play/a012/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CKA0DKh.png" group-title="MUNDOS",RT en Español
+http://201.218.137.232:4123/play/a02v/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s110959_dark_360w_270h.png" group-title="MUNDOS",Fox News
+http://45.166.92.22:58001/play/a04p/index.m3u8
+#EXTINF:-1 tvg-id="145dtv.co" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61988_dark_360w_270h.png" group-title="MUNDOS",NTN 24
+http://190.61.57.2:1010/play/a04h/index.m3u8
+#EXTINF:-1 tvg-id="telesur.ar" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47620_dark_360w_270h.png" group-title="MUNDOS",Telesur
+http://45.177.53.7:8000/play/a0cj/index.m3u8
+#EXTINF:-1 tvg-id="700dtv.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMzE1X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="MUNDOS", DNews [MPD]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"RkFyu8Qik433ZjO/OoorVA","kid":"/kmUA0XdXkC+j2wWOgiK/w"}],"type":"temporary"}
+https://1264-abc.dtvott.com/dash_live_1264/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s20742_dark_360w_270h.png" group-title="MUNDOS",Canal 24 Horas - TVE
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
+#EXTINF:-1 tvg-id="716dtv.ar" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79899_dark_360w_270h.png" group-title="MUNDOS",TN
+http://45.186.252.17:8000/play/a02l
+#EXTINF:-1 tvg-id="718dtv.ar" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16258_dark_360w_270h.png" group-title="MUNDOS",Crónica TV
+http://45.186.252.17:8000/play/a00a
+#EXTINF:-1 tvg-id="766dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75785_dark_360w_270h.png" group-title="MUNDOS",RAI Italia
+http://45.186.252.17:8000/play/a01a
+#EXTINF:-1 tvg-id="762dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91176_dark_360w_270h.png" group-title="MUNDOS",Antena 3 Internacional
+http://160.20.165.246:8000/play/a00e/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44479_dark_360w_270h.png" group-title="MUNDOS",CGTN Español
+http://201.218.137.232:4123/play/a011/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUNDOS",TV Globo Internacional
+http://200.58.170.69:81/play/a0es/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.hispantv.com/Views/Assets/img/logo.png" group-title="MUNDOS",HispanTV
+https://cdnlive.presstv.ir/cdnlive/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16046_dark_360w_270h.png" group-title="MUNDOS",TV Chile
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s100066_dark_360w_270h.png" group-title="MUNDOS",Telefe Internacional
+http://45.179.194.114:48003/play/a00b/index.m3u8
+#EXTINF:-1 tvg-id="120dtv.ar" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16395_dark_360w_270h.png" group-title="MUNDOS",América TV - Argentina
+http://45.186.252.17:8000/play/a02i
+#EXTINF:-1 tvg-id="122dtv.ar" tvg-logo="https://i.imgur.com/Y8EWvt2.png" group-title="MUNDOS",El Nueve - Argentina
+http://45.186.252.17:8000/play/a04o
+#EXTINF:-1 tvg-id="122dtv.ar" tvg-logo="https://www.canalnet.tv/_templates/desktop/includes/img/logo.png" group-title="MUNDOS",NetTV - Argentina
+https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-id="121dtv.ar" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16525_dark_360w_270h.png" group-title="MUNDOS",TV Pública - Argentina
+http://45.186.252.17:8000/play/a02j
+#EXTINF:-1 tvg-id="784dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64792_dark_360w_270h.png" group-title="MUNDOS",El Trece Internacional
+
+#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png" group-title="MUNDOS",Las Estrellas - México
+http://45.177.53.7:8000/play/a0d0/index.m3u8
+#EXTINF:-1 tvg-id="azteca13.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46607_dark_360w_270h.png" group-title="MUNDOS",Azteca Uno
+http://187.188.232.236:1021/play/a06j/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79968_dark_360w_270h.png" group-title="MUNDOS",AZ Mundo
+http://45.189.117.202:48000/play/a028/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101238_dark_360w_270h.png" group-title="MUNDOS",La Nación +
+http://45.5.151.150:8000/play/a01b/index.m3u8
+#EXTINF:-1 tvg-id="1715dtv.ar" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16272_dark_360w_270h.png" group-title="MUNDOS",A24
+http://45.186.252.17:8000/play/a008
+#EXTINF:-1 tvg-id="717dtv.ar" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75994_dark_360w_270h.png" group-title="MUNDOS",C5N
+http://45.5.151.150:8000/play/a018/index.m3u8
+#EXTINF:-1 tvg-id="106dtv.ar" tvg-logo="https://ipnoticias.ar/_next/image?url=%2Flogo-ip-header-C.png&w=128&q=75" group-title="MUNDOS",IP - Argentina
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
+#EXTINF:-1 tvg-id="720dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s103103_dark_360w_270h.png" group-title="MUNDOS",Canal 26 - Argentina
+http://45.186.252.17:8000/play/a04a
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50335_dark_360w_270h.png" group-title="MUNDOS",Perú Magico
+http://45.71.252.29:8000/play/a00v/index.m3u8
+#EXTINF:-1 tvg-id="135dtv.co" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/135.png" group-title="MUNDOS", RCN Nuestra Tele
+http://181.78.74.19:8008/play/a007/index.m3u8
+#EXTINF:-1 tvg-id="134dtv.co" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/134.png" group-title="MUNDOS", Caracol Internacional
+http://160.20.165.246:8000/play/a00h/index.m3u8
