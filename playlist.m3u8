@@ -640,7 +640,7 @@ https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u
 #EXTINF:-1 tvg-id="121dtv.ar" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16525_dark_360w_270h.png" group-title="MUNDOS",TV Pública - Argentina
 http://45.186.252.17:8000/play/a02j
 #EXTINF:-1 tvg-id="784dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64792_dark_360w_270h.png" group-title="MUNDOS",El Trece Internacional
-
+http://45.5.151.150:8000/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="lasestrellas.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png" group-title="MUNDOS",Las Estrellas - México
 http://45.177.53.7:8000/play/a0d0/index.m3u8
 #EXTINF:-1 tvg-id="azteca13.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46607_dark_360w_270h.png" group-title="MUNDOS",Azteca Uno
