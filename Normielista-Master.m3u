@@ -1,10 +1,6 @@
 #EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml" tvg-shift=0 catchup="shift" catchup-days=6 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/645505747cb4b10008492e03/thumbnail.jpg" group-title="NACIONALES",Gran Hermano Chile
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/645505747cb4b10008492e03/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-w.tvdaldia.cl/canales/telecanal.png" group-title="NACIONALES",Telecanal
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7f16467ce403da0d64d64b7fa3eab06b:002f8d00ac13cdc2b3a0ec710ba98a83
-https://clbpktstvdash-2.clarovideo.com/bpk-tv/TELECANAL/dash_fk/index.mpd
 #EXTINF:-1 tvg-id="lared.cl" tvg-logo="https://cdn-w.tvdaldia.cl/canales/lared.png" group-title="NACIONALES",La Red
 http://45.232.210.1:47000/play/laredhd
 #EXTINF:-1 tvg-id="tvmas.cl" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_tvmas.png" group-title="NACIONALES",TV+
@@ -82,7 +78,8 @@ http://normielista.cl:80/play/0Bu2UVekNecKvoeYhzqb9Ys1LuodFeMLD4YOuI7v9IsACJvXsw
 #EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="DEPORTES",DSports +
 http://normielista.cl:80/play/0Bu2UVekNecKvoeYhzqb9Ys1LuodFeMLD4YOuI7v9IubwMyjmGkZB72CLfGh7iYl/ts
 #EXTINF:-1 tvg-id="620dtv.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/3200x2400/Y2gwMTAwMDAwMDAwMzAyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_3200x2400.png" group-title="DEPORTES",DSports Fight
-http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQojEnwzKcSH_6lFDeaQAAhCAhAqDcfgKuxz8xjJxe7jj/ts
+#http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQojEnwzKcSH_6lFDeaQAAhCAhAqDcfgKuxz8xjJxe7jj/ts
+http://181.177.255.253:8000/play/a077/index.m3u8
 #EXTINF:-1 tvg-id="614dtv.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMzM0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="DEPORTES",DSports Motor
 http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQv5paTBVOyE22qXoXxwQ4hIc6n9wSF8etWduTwOCvQfw/ts
 #EXTINF:-1 tvg-id="1605dtv.ar" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES",Fox Sports - Argentina
@@ -130,7 +127,8 @@ http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQqUWZt6o-3A_0JrQyD3HIU8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",WWE Network
 http://23.237.108.234/hls/USA_WWE.m3u8|User-Agent=Roku/DVP(10.10.10)
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES",TUDN - México
-http://181.78.105.146:2000/play/a08j/index.m3u8
+#http://181.78.105.146:2000/play/a08j/index.m3u8
+https://channel03.akamaized.net/hls/live/2023943/event01/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75176_dark_360w_270h.png" group-title="DEPORTES",TUDN - Estados Unidos
 http://hostengine.live/live/andrej38/6455449/53584.m3u
 #EXTINF:-1 tvg-id="736dtv.cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/gol_tv_estados_unidos-mediano.png" group-title="DEPORTES",GolTV
@@ -230,7 +228,8 @@ http://179.189.222.226:8000/play/ch51
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fridamedia.com/sites/default/files/2022-09/Cine%20Premium.png" group-title="CINE Y SERIES",Cine Premium
 http://179.189.222.226:8000/play/ch49
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18329_dark_360w_270h.png" group-title="CINE Y SERIES",MC
-http://190.42.181.137:8000/play/a08k/index.m3u8
+#http://190.42.181.137:8000/play/a08k/index.m3u8
+http://177.128.115.21:8080/binet1/binet1234/228
 #EXTINF:-1 tvg-id="" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDM4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png" group-title="CINE Y SERIES", TV Cortos
 http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQocysXXFaQhr0vWfCMGwkxQa32PG-Er1HxQ5-aMLFKDg/ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/panico-mediano.png" group-title="CINE Y SERIES",Panico HD
@@ -335,6 +334,8 @@ http://45.177.53.7:8000/play/a0c7/index.m3u8
 http://45.232.210.1:47000/play/a057
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fridamedia.com/sites/default/files/2023-05/Logo%20Canal%20Infantil%20pequen%CC%83o.png" group-title="INFANTIL",Canal Infantil
 http://179.189.222.226:8000/play/ch06
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTIL",FunBox
+http://177.128.115.21:8080/binet1/binet1234/175
 #EXTINF:-1 tvg-id="850mvstr.cl" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_etc.png" group-title="INFANTIL",ETC
 http://179.51.168.13:4000/play/a06r
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.senpaitv.com/wp-content/uploads/2022/03/logosenpai.png" group-title="INFANTIL",Senpai TV
@@ -635,7 +636,8 @@ https://cdnlive.presstv.ir/cdnlive/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16046_dark_360w_270h.png" group-title="MUNDOS",TV Chile
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s100066_dark_360w_270h.png" group-title="MUNDOS",Telefe Internacional
-http://45.179.194.114:48003/play/a00b/index.m3u8
+#http://45.179.194.114:48003/play/a00b/index.m3u8
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TELEFE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEFE_stream_te&_cdn_session=1070612947&_cdn_timestamp=1692471061&_cdn_token=19864c2a66d7fbe270e9f1551ecc6560509b1706
 #EXTINF:-1 tvg-id="120dtv.ar" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16395_dark_360w_270h.png" group-title="MUNDOS",América TV - Argentina
 http://45.186.252.17:8000/play/a02i
 #EXTINF:-1 tvg-id="122dtv.ar" tvg-logo="https://i.imgur.com/Y8EWvt2.png" group-title="MUNDOS",El Nueve - Argentina
