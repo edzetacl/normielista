@@ -1,6 +1,10 @@
 #EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml" tvg-shift=0 catchup="shift" catchup-days=6 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/645505747cb4b10008492e03/thumbnail.jpg" group-title="NACIONALES",Gran Hermano Chile
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/645505747cb4b10008492e03/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-w.tvdaldia.cl/canales/telecanal.png" group-title="NACIONALES",Telecanal
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f16467ce403da0d64d64b7fa3eab06b:002f8d00ac13cdc2b3a0ec710ba98a83
+https://clbpktstvdash-2.clarovideo.com/bpk-tv/TELECANAL/dash_fk/index.mpd
 #EXTINF:-1 tvg-id="lared.cl" tvg-logo="https://cdn-w.tvdaldia.cl/canales/lared.png" group-title="NACIONALES",La Red
 http://45.232.210.1:47000/play/laredhd
 #EXTINF:-1 tvg-id="tvmas.cl" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_tvmas.png" group-title="NACIONALES",TV+
