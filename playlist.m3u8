@@ -78,7 +78,8 @@ http://normielista.cl:80/play/0Bu2UVekNecKvoeYhzqb9Ys1LuodFeMLD4YOuI7v9IsACJvXsw
 #EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="DEPORTES",DSports +
 http://normielista.cl:80/play/0Bu2UVekNecKvoeYhzqb9Ys1LuodFeMLD4YOuI7v9IubwMyjmGkZB72CLfGh7iYl/ts
 #EXTINF:-1 tvg-id="620dtv.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/3200x2400/Y2gwMTAwMDAwMDAwMzAyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_3200x2400.png" group-title="DEPORTES",DSports Fight
-http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQojEnwzKcSH_6lFDeaQAAhCAhAqDcfgKuxz8xjJxe7jj/ts
+#http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQojEnwzKcSH_6lFDeaQAAhCAhAqDcfgKuxz8xjJxe7jj/ts
+http://181.177.255.253:8000/play/a077/index.m3u8
 #EXTINF:-1 tvg-id="614dtv.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMzM0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="DEPORTES",DSports Motor
 http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQv5paTBVOyE22qXoXxwQ4hIc6n9wSF8etWduTwOCvQfw/ts
 #EXTINF:-1 tvg-id="1605dtv.ar" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES",Fox Sports - Argentina
@@ -227,7 +228,8 @@ http://179.189.222.226:8000/play/ch51
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fridamedia.com/sites/default/files/2022-09/Cine%20Premium.png" group-title="CINE Y SERIES",Cine Premium
 http://179.189.222.226:8000/play/ch49
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18329_dark_360w_270h.png" group-title="CINE Y SERIES",MC
-http://190.42.181.137:8000/play/a08k/index.m3u8
+#http://190.42.181.137:8000/play/a08k/index.m3u8
+http://177.128.115.21:8080/binet1/binet1234/228
 #EXTINF:-1 tvg-id="" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDM4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png" group-title="CINE Y SERIES", TV Cortos
 http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQocysXXFaQhr0vWfCMGwkxQa32PG-Er1HxQ5-aMLFKDg/ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/panico-mediano.png" group-title="CINE Y SERIES",Panico HD
@@ -332,6 +334,8 @@ http://45.177.53.7:8000/play/a0c7/index.m3u8
 http://45.232.210.1:47000/play/a057
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fridamedia.com/sites/default/files/2023-05/Logo%20Canal%20Infantil%20pequen%CC%83o.png" group-title="INFANTIL",Canal Infantil
 http://179.189.222.226:8000/play/ch06
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTIL",FunBox
+http://177.128.115.21:8080/binet1/binet1234/175
 #EXTINF:-1 tvg-id="850mvstr.cl" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_etc.png" group-title="INFANTIL",ETC
 http://179.51.168.13:4000/play/a06r
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.senpaitv.com/wp-content/uploads/2022/03/logosenpai.png" group-title="INFANTIL",Senpai TV
@@ -833,11 +837,11 @@ http://normielista.cl:80/play/0Bu2UVekNecKvoeYhzqb9e4pPL3L-x2Yif0eGeFotvcLrmzAJr
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ADULTOS" parent-code="1190",Xviven
 http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/9632.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ADULTOS" parent-code="1190",Bang Bros
-
+http://168.228.194.33:48001/play/a0cg/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ADULTOS" parent-code="1190",Dorcel
 http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/7692.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16790_dark_360w_270h.png" group-title="ADULTOS" parent-code="1190",Brazzers
-
+http://168.228.194.33:48001/play/a0ci/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16790_dark_360w_270h.png" group-title="ADULTOS" parent-code="1190",Brazzers TV Europe
 http://normielista.cl:80/play/0Bu2UVekNecKvoeYhzqb9XfWhnm6355f4jS_gT66X1hp5pl5QugtwxoknW50I1sZ/ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/3/39/Redlight_HD_%282010-.n.v.%29.png/revision/latest?cb=20180312101837" group-title="ADULTOS" parent-code="1190",RedLight
@@ -853,13 +857,13 @@ http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/2058.ts
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/259
+https://v3.playerlatino.live/stream/m3u8/667
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",TEST 2
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/528
+https://v3.playerlatino.live/stream/m3u8/748
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",TEST 3
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
@@ -871,7 +875,7 @@ https://v3.playerlatino.live/stream/m3u8/54
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/527
+https://v3.playerlatino.live/stream/m3u8/52
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",TEST 5
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
