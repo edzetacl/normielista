@@ -352,6 +352,7 @@ https://redirector.dps.live/hls/bbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/5f4534bd9d9a9e5e37ecdd8a/mediaLibrary/photo/cd5aeaba-003d-43f0-9571-a710892e4ff0-extra-large-standard-q100.png" group-title="REGIONALES",TVR
 https://redirector.dps.live/hls/tvr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/TV_M%C3%A1s_2_2021.png/revision/latest?cb=20211128231238&path-prefix=es" group-title="REGIONALES",TVMas2
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"}
 https://panel.miplay.cl:8081/tvmas2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="REGIONALES",Wapp
 https://marine2.miplay.cl/wapp/playlist.m3u8
