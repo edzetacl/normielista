@@ -74,9 +74,9 @@ http://normielista.cl:80/play/0Bu2UVekNecKvoeYhzqb9XfWhnm6355f4jS_gT66X1hVQlj4ET
 #EXTINF:-1 tvg-id="610dtv.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="DEPORTES",DSports - Chile
 http://179.51.168.13:4000/play/a06w
 #EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="DEPORTES",DSports 2
-http://normielista.cl:80/play/0Bu2UVekNecKvoeYhzqb9Ys1LuodFeMLD4YOuI7v9IsACJvXsw3Qz-W404NhjuRm/ts
+http://181.177.255.253:8000/play/a076/index.m3u8
 #EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="DEPORTES",DSports +
-http://normielista.cl:80/play/0Bu2UVekNecKvoeYhzqb9Ys1LuodFeMLD4YOuI7v9IubwMyjmGkZB72CLfGh7iYl/ts
+http://181.177.255.253:8000/play/a078/index.m3u8
 #EXTINF:-1 tvg-id="620dtv.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/3200x2400/Y2gwMTAwMDAwMDAwMzAyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_3200x2400.png" group-title="DEPORTES",DSports Fight
 http://181.177.255.253:8000/play/a077/index.m3u8
 #EXTINF:-1 tvg-id="614dtv.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMzM0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="DEPORTES",DSports Motor
@@ -102,7 +102,7 @@ http://45.232.210.1:47000/play/a0at
 #EXTINF:-1 tvg-id="3081dtv.cl" tvg-logo="https://i.imgur.com/GvWFYrE.png" group-title="DEPORTES",Fox Sports 3 - Latinoamérica
 http://45.232.210.1:47000/play/foxsports3hd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8YjaXMH.png" group-title="DEPORTES",Fox Deportes
-http://hostengine.live/live/andrej38/6455449/53494.m3u
+http://extremeplus.xyz:8080/Flaco25/m3zAXDuNCCwd/75240
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16275_dark_360w_270h.png" group-title="DEPORTES",TyC Sports - Argentina
 http://45.186.252.17:8000/play/a01d
 #EXTINF:-1 tvg-id="629dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16275_dark_360w_270h.png" group-title="DEPORTES",TyC Sports - Latinoamérica
@@ -112,7 +112,7 @@ http://177.53.153.21:8001/play/a03y/index.m3u8
 #EXTINF:-1 tvg-id="mpluslaliga.es" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/m_vamos-mediano.png" group-title="DEPORTES",M+ La Liga TV
 http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQnBf6PGKzMzAuTAGjmel6f5ByzoLwJaowEZGAO-oXkqo/ts
 #EXTINF:-1 tvg-id="mpluslcampeones.es" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/m_liga_de_campeones-mediano.png" group-title="DEPORTES",M+ Liga de Campeones
-http://91.126.182.211:9981/stream/channelid/2012287585?profile=pass
+
 #EXTINF:-1 tvg-id="dazn1.es" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/dazn-mediano.png" group-title="DEPORTES",DAZN 1 - España
 http://smartersplayer.live:8080/play/-9L_Rm04AtYgHFTGhVptQukHd4DmfmV1ovlSvASH1LU/ts
 #EXTINF:-1 tvg-id="dazn2.es" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/dazn_2-mediano.png" group-title="DEPORTES",DAZN 2 - España
@@ -128,7 +128,7 @@ http://23.237.108.234/hls/USA_WWE.m3u8|User-Agent=Roku/DVP(10.10.10)
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES",TUDN - México
 https://channel03.akamaized.net/hls/live/2023943/event01/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75176_dark_360w_270h.png" group-title="DEPORTES",TUDN - Estados Unidos
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38876.m3u8
+http://extremeplus.xyz:8080/Flaco25/m3zAXDuNCCwd/28770
 #EXTINF:-1 tvg-id="736dtv.cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/gol_tv_estados_unidos-mediano.png" group-title="DEPORTES",GolTV
 http://177.53.153.21:8001/play/a03t/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",Sky Sports La Liga - México
@@ -140,7 +140,7 @@ http://168.228.193.214:58005/play/a05m
 #EXTINF:-1 tvg-id="beinx-es1.us" tvg-logo="https://i.imgur.com/laikTq4.png" group-title="DEPORTES",beIN Sports Xtra en Español
 https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="604dtv.pe" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/604.png" group-title="DEPORTES",Liga 1 Max - Perú
-http://normielista.cl:80/play/0Bu2UVekNecKvoeYhzqb9XfWhnm6355f4jS_gT66X1hUgqf4npKdJO-hz-ji0SD2/ts
+http://181.177.255.253:8000/play/a074/index.m3u8
 #EXTINF:-1 tvg-id="11mvstr.pe" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/55/7553955_D7D9A30FB187AF45.png" group-title="DEPORTES",Gol Perú
 http://177.53.153.21:8001/play/a03z/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/638df6f8b63cf100075ccfa1/thumbnail.jpg" group-title="DEPORTES",Chilevisión Deportes PlutoTV
@@ -174,7 +174,7 @@ http://179.51.168.13:4000/play/a04g
 #EXTINF:-1 tvg-id="1206dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16213_dark_360w_270h.png" group-title="CINE Y SERIES",Warner Channel - Panregional
 http://45.232.210.1:47000/play/a06e
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ieshmNx.png" group-title="CINE Y SERIES",FX - Chile
-http://45.232.210.1:8062/play/a0b8/index.m3u8
+http://179.51.168.13:4000/play/a066
 #EXTINF:-1 tvg-id="217dtv.cl" tvg-logo="https://i.imgur.com/ieshmNx.png" group-title="CINE Y SERIES",FX - Panregional
 http://45.232.210.1:47000/play/a0aw
 #EXTINF:-1 tvg-id="208dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19385_dark_360w_270h.png" group-title="CINE Y SERIES",Sony Channel
@@ -202,7 +202,7 @@ http://160.20.165.246:8000/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="746dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87687_dark_360w_270h.png" group-title="CINE Y SERIES",Film & Arts
 http://45.186.252.17:8000/play/a01l
 #EXTINF:-1 tvg-id="1506dtv.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMzEyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="CINE Y SERIES",Sony Movies
-http://45.228.232.205:16000/play/a04h/index.m3u8
+http://179.51.168.13:4000/play/a05g
 #EXTINF:-1 tvg-id="1515dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s27741_dark_360w_270h.png" group-title="CINE Y SERIES",Europa Europa
 http://177.53.153.21:8001/play/a08y/index.m3u8
 #EXTINF:-1 tvg-id="214dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90917_dark_360w_270h.png" group-title="CINE Y SERIES",A3 Series
@@ -398,7 +398,7 @@ http://187.188.232.236:1020/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90209_dark_360w_270h.png" group-title="MÚSICA",NickMusic - Europa
 http://normielista.cl:80/play/0Bu2UVekNecKvoeYhzqb9Ys1LuodFeMLD4YOuI7v9It86W7YuUqwc-481Em7p21P/ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15211_dark_360w_270h.png" group-title="MÚSICA",Telehit
-http://201.218.137.232:4123/play/a05i/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34394_dark_360w_270h.png" group-title="MÚSICA",Telehit Música
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/81015.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73070_dark_360w_270h.png" group-title="MÚSICA",Telehit Música Plus
@@ -536,7 +536,7 @@ http://45.232.210.1:47000/play/foodnetworkhd
 #EXTINF:-1 tvg-id="226dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16257_dark_360w_270h.png" group-title="VARIEDADES",Las Estrellas - Latinoamérica
 http://179.189.222.226:8000/play/ch44
 #EXTINF:-1 tvg-id="hgtv.ar" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111055_dark_360w_270h.png" group-title="VARIEDADES",HGTV
-http://201.218.137.232:4123/play/a038/index.m3u8
+http://181.78.74.19:8008/play/a04t/index.m3u8
 #EXTINF:-1 tvg-id="942mvstr.co" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102862_dark_360w_270h.png" group-title="VARIEDADES",Telemundo Internacional
 http://160.20.165.246:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="942mvstr.co" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17457_dark_360w_270h.png" group-title="VARIEDADES",Mas Chic
