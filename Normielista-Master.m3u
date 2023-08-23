@@ -219,6 +219,8 @@ http://45.181.122.169:8000/play/a02i
 http://45.181.122.169:8000/play/a02j
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fmh.la/images/team/logo_movies.png" group-title="CINE Y SERIES",FMH Movies
 http://45.181.122.169:8000/play/a02k
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.fmh.la/images/team/logo_rewind.png" group-title="CINE Y SERIES",Rewind
+http://177.128.115.21:8080/binet1/binet1234/214
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fridamedia.com/sites/default/files/2022-09/CINE%20FAMILIAR.png" group-title="CINE Y SERIES",Cine Familiar
 http://179.189.222.226:8000/play/ch52
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fridamedia.com/sites/default/files/2022-09/CINE%20HISPANO.png" group-title="CINE Y SERIES",Cine Hispano
