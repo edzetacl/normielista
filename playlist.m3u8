@@ -415,7 +415,7 @@ http://45.228.232.205:16000/play/a06j/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://karavanatv.com/wp-content/uploads/2022/12/KARAVANA-TV-1-e1671212655177.png" group-title="MÚSICA",Karavana TV
 https://marine2.miplay.cl/karavanatv/playlist.m3u8
 #EXTINF:-1 tvg-id="272dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15969_dark_360w_270h.png" group-title="MÚSICA",HTV
-http://181.78.74.19:8008/play/a05e/index.m3u8
+http://177.128.115.21:8080/binet1/binet1234/162
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/8/89/ViaX2.png/revision/latest?cb=20160228011519&path-prefix=es" group-title="MÚSICA",Via X 2
 http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/13889.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16262_dark_360w_270h.png" group-title="MÚSICA",MuchMusic
