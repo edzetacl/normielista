@@ -291,7 +291,7 @@ http://190.149.66.90:4000/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="528dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80120_dark_360w_270h.png" group-title="HBO PREMIUM",HBO Signature
 http://45.186.252.17:8000/play/a07l
 #EXTINF:-1 tvg-id="542dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="HBO PREMIUM",HBO Xtreme Este
-http://181.177.255.253:8000/play/a034/index.m3u8
+http://190.83.60.34:1414/play/a06o
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="HBO PREMIUM",HBO Xtreme Oeste
 http://190.149.66.90:4000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="541dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68134_dark_360w_270h.png" group-title="HBO PREMIUM",HBO Pop Este
@@ -454,7 +454,7 @@ http://normielista.cl:80/play/0Bu2UVekNecKvoeYhzqb9XfWhnm6355f4jS_gT66X1huUxt3GW
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18101_dark_360w_270h.png" group-title="MÚSICA",Bandamax
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/3306.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73376_dark_360w_270h.png" group-title="MÚSICA",RumbaTV
-http://normielista.cl:80/play/0Bu2UVekNecKvoeYhzqb9U_hmU-UTryAOBYsqtz62E0KFuH8H5I0hpj-RIwVjyeR/ts
+http://181.119.66.30:8000/play/73/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77429_dark_360w_270h.png" group-title="MÚSICA",Telenostalgia
 http://190.90.251.194:8921/play/a02u/index.m3u8
 #EXTINF:-1 tvg-id="1269dtv.ar" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75978_dark_360w_270h.png" group-title="MÚSICA",Quiero Música en mi Idioma
@@ -875,3 +875,28 @@ http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/7689.ts
 http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/7576.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ADULTOS" parent-code="1190",Lesbian Movies
 http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/2058.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",ESPN Deportes
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"R+WeDMsosP+nzoMP0lGVOQ","kid":"LYRvE8W9Q/OkVtnpWER/Fw"}],"type":"temporary"}
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","Referer":"https://kolva.online/","Origin":"https://kolva.online"}
+https://10.dumper-true.com/https://cdn.live.vidgo.com/Content/DASH_WV/Live/channel(71914-ESPNDHD)/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",Fox Sports Premium
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cf4c78e21fe219ad4aa5429ae93d43be:26db38a968a1b65d7270ee92632a7ce1
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FOXSPORTS_PREMIUM_HD)/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",Telehit
+#EXTATTRFROMURL:https://edzetacl.cloud/listas/bics/telehit.m3u
+https://edzetacl.cloud/listas/bics/telehit.m3u
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",Cinema Plus
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f7f2148d85b7e8866c2d6eab3423ead:26acdad69ede55914b93c1d825a5ae6b 
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(CINEMAPLUS)/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",De Pelicula
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"}
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"foj_xSHUW5CpNJiKJmqHJQ","k":"BQX3hQm344hscIAQxw-27A"},{"kty":"oct","kid":"AU5TM_c7WHmd2n9RT92p3g","k":"hgJFRV6I99oe4eeV7vKzWg"},{"kty":"oct","kid":"baoo9oALVvOjPO9S4YgAlQ","k":"xfHPBybhWPqHpzW77fa9PQ"}]}
+https://tvup-ccs-live.secure2.footprint.net/depeliculas/depeliculas.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",Telefe Internacional
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={8267dd0a8e0052489941398f7ba7cf7e:e7c3edde4ba100c52fe062c63b557084,3362ba1939cd5b048f4963ef44358271:b84e173774ee55cd305079ed8e5dfeb0,e5bd65d5744e545cb15ebbd6ba7a7a15:e59bf785e6bc1862c4168a94d938ece7}
+https://edzetacl.cloud/stream/mdos/telefehd.mpd
