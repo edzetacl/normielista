@@ -183,7 +183,7 @@ http://45.232.210.1:47000/play/cinemaxhd
 #EXTINF:-1 tvg-id="1509dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16794_dark_360w_270h.png" group-title="CINE Y SERIES",Cinemax - Chile
 http://179.51.168.13:4000/play/a05l
 #EXTINF:-1 tvg-id="218dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s53218_dark_360w_270h.png" group-title="CINE Y SERIES",Universal TV - Chile
-http://179.51.168.13:4000/play/a02y
+http://179.51.168.13:4000/play/a02z
 #EXTINF:-1 tvg-id="218dtv.co" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s53218_dark_360w_270h.png" group-title="CINE Y SERIES",Universal TV - Panregional
 http://45.232.210.1:47000/play/a0ap
 #EXTINF:-1 tvg-id="209dtv.co" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72534_dark_360w_270h.png" group-title="CINE Y SERIES",AXN
@@ -660,7 +660,7 @@ http://181.119.66.30:8000/play/38/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16046_dark_360w_270h.png" group-title="MUNDOS",TV Chile
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s100066_dark_360w_270h.png" group-title="MUNDOS",Telefe Internacional
-http://45.179.194.114:48003/play/a00b/index.m3u8
+http://204.199.113.33:15017/play/a071/index.m3u8
 #EXTINF:-1 tvg-id="120dtv.ar" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16395_dark_360w_270h.png" group-title="MUNDOS",América TV - Argentina
 http://45.186.252.17:8000/play/a02i
 #EXTINF:-1 tvg-id="122dtv.ar" tvg-logo="https://i.imgur.com/Y8EWvt2.png" group-title="MUNDOS",El Nueve - Argentina
@@ -866,7 +866,7 @@ http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/9632.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ADULTOS" parent-code="1190",Dorcel
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16790_dark_360w_270h.png" group-title="ADULTOS" parent-code="1190",Brazzers TV Europe
-
+http://85.196.241.132:28656/udp/239.130.3.27:7051
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/3/39/Redlight_HD_%282010-.n.v.%29.png/revision/latest?cb=20180312101837" group-title="ADULTOS" parent-code="1190",RedLight
 http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/7689.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/de/Private_TV_%282014-.n.v.%29.png/revision/latest?cb=20180313074313" group-title="ADULTOS" parent-code="1190",Private
