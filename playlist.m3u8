@@ -223,7 +223,7 @@ http://160.20.165.246:8000/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="746dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87687_dark_360w_270h.png" group-title="CINE Y SERIES",Film & Arts
 http://45.186.252.17:8000/play/a01l
 #EXTINF:-1 tvg-id="1506dtv.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMzEyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="CINE Y SERIES",Sony Movies
-http://179.51.168.13:4000/play/a05g
+http://138.59.177.34:8000/play/a037/index.m3u8
 #EXTINF:-1 tvg-id="1515dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s27741_dark_360w_270h.png" group-title="CINE Y SERIES",Europa Europa
 http://177.53.153.21:8001/play/a08y/index.m3u8
 #EXTINF:-1 tvg-id="214dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90917_dark_360w_270h.png" group-title="CINE Y SERIES",A3 Series
@@ -754,6 +754,10 @@ https://audio1.tustreaming.cl:10953/azucarsantiago
 https://audio2.tustreaming.cl/7040/stream
 #EXTINF:-1 tvg-id="" tvg-logo="https://envivo.radioactiva.cl/build/assets/radioactivachile/img/logo.png" group-title="RADIOS",Radio Activa
 https://27343.live.streamtheworld.com/ACTIVA_SC
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RADIOS",Radio Mix.TV
+https://audio5.tustreaming.cl/7110/stream
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RADIOS",Radio La mas Kaliente
+https://cloudstream2034.conectarhosting.com/8030/stream
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Radio_Disney_Chile_Logo.png" group-title="RADIOS",Radio Disney Chile
 https://22833.live.streamtheworld.com/DISNEY_CHI_SA.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.carolina.cl/_templates/desktop/includes/img/main-logo.png" group-title="RADIOS",Radio Carolina
@@ -799,7 +803,7 @@ https://26523.live.streamtheworld.com/ROCK_AND_POP_SC
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Logo_Radio_infinita_2018.png" group-title="RADIOS",Infinita
 https://mdstrm.com/audio/639b791cea22540890cd1d8b/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.digitalfm.cl/wp-content/themes/digitalfm/assets/images/logo-digital-fm.png" group-title="RADIOS",Digital FM
-https://radio.digitalfm.cl:8000/talca
+https://unlimited3-cl.dps.live/digitalfm/aac/icecast.audio
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Pauta_FM_logo_2018.png/revision/latest?cb=20210719025834&path-prefix=es" group-title="RADIOS",Pauta
 https://unlimited11-cl.dps.live/radiopauta/aac/icecast.audio
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo_La_Clave_2019.png/338px-Logo_La_Clave_2019.png" group-title="RADIOS",La Clave
