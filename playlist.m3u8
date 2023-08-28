@@ -277,7 +277,7 @@ http://179.51.168.13:4000/play/a041
 #EXTINF:-1 tvg-id="hbo-oeste.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="HBO PREMIUM",HBO Oeste
 http://190.149.66.90:4000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="1481dtv.cl" tvg-logo="https://www.buscopng.com/wp-content/uploads/2020/11/HBO-logo.png" group-title="HBO PREMIUM",HBO Chile
-http://179.51.168.13:4000/play/a039
+http://45.236.175.2:1031
 #EXTINF:-1 tvg-id="525dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="HBO PREMIUM",HBO 2 Este
 http://181.177.255.253:8000/play/a021/index.m3u8
 #EXTINF:-1 tvg-id="hbo-2.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="HBO PREMIUM",HBO 2 Oeste
@@ -396,17 +396,17 @@ https://redirector.dps.live/hls/c9/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="REGIONALES",ITV Patagonia
 https://pantera1-100gb-cl-movistar.dps.live/itv/itv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="261dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89004_dark_360w_270h.png" group-title="MÚSICA",MTV Hits
-http://138.59.177.34:8000/play/a02i/index.m3u8
+http://85.196.241.136:28656/udp/239.130.3.23:7051
 #EXTINF:-1 tvg-id="263dtv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/261.png" group-title="MÚSICA",MTV Live - Europa
 http://38.7.131.2:8000/play/a0ew/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49141_dark_360w_270h.png" group-title="MÚSICA",MTV Live - Estados Unidos
 http://23.237.108.226/hls/MTVLIVE.m3u8|User-Agent=Roku/DVP(10.10.10)
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65060_dark_360w_270h.png" group-title="MÚSICA",MTV 80's - Europa
-http://138.59.177.34:8000/play/a02j/index.m3u8
+http://85.196.241.136:28656/udp/239.130.3.22:7051
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65060_dark_360w_270h.png" group-title="MÚSICA",MTV 80's - Reino Unido
 http://185.79.154.218:8085/udp/229.2.34.50:1234
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DOMYSRo.png" group-title="MÚSICA",MTV 90's - Europa
-http://normielista.cl:80/play/0Bu2UVekNecKvoeYhzqb9Ys1LuodFeMLD4YOuI7v9IvPIu3GTLUfPKOxlY6xXwHv/ts
+http://85.196.241.136:28656/udp/239.130.3.25:7051
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DOMYSRo.png" group-title="MÚSICA",MTV 90's - Reino Unido
 http://185.79.154.218:8085/udp/229.2.33.246:1234
 #EXTINF:-1 tvg-id="262dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56245_dark_360w_270h.png" group-title="MÚSICA",MTV 00's
@@ -414,15 +414,15 @@ http://177.53.153.21:8001/play/a09c/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s22561_dark_360w_270h.png" group-title="MÚSICA",MTV Classic
 http://23.237.108.226/hls/MTVCLASSIC.m3u8|User-Agent=Roku/DVP(10.10.10)
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6N5HSrH.png" group-title="MÚSICA",Club MTV
-http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpsidvNRo9Y8yaXk7X-rLQXRwhFdtfizR1BYg483EaQmi/ts
+http://85.196.241.136:28656/udp/239.130.3.24:7051
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MÚSICA",MTV U
 http://extremeplus.xyz:8080/Flaco25/m3zAXDuNCCwd/14521
 #EXTINF:-1 tvg-id="268dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90209_dark_360w_270h.png" group-title="MÚSICA",NickMusic - Estados Unidos
 http://187.188.232.236:1020/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90209_dark_360w_270h.png" group-title="MÚSICA",NickMusic - Europa
-http://normielista.cl:80/play/0Bu2UVekNecKvoeYhzqb9Ys1LuodFeMLD4YOuI7v9It86W7YuUqwc-481Em7p21P/ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15211_dark_360w_270h.png" group-title="MÚSICA",Telehit
-
+http://149.62.183.194:9293/play/a06y
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MÚSICA",MCM Top
+http://85.196.241.136:28656/udp/239.130.3.41:7051
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34394_dark_360w_270h.png" group-title="MÚSICA",Telehit Música
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/81015.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73070_dark_360w_270h.png" group-title="MÚSICA",Telehit Música Plus
@@ -551,7 +551,7 @@ http://45.232.210.1:47000/play/a0am
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72449_dark_360w_270h.png" group-title="CULTURA",NatGeo Mundo
 http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpstHeIIwrBI261pzckWFm6znMIIqX8aVuD7kR3jU0QCs/ts
 #EXTINF:-1 tvg-id="discoverymax.es" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90316_dark_360w_270h.png" group-title="CULTURA",DMAX
-http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpnAtqA8PMqVGY04KcmZT578/ts
+http://normielista.cl:80/play/0Bu2UVekNecKvoeYhzqb9XfWhnm6355f4jS_gT66X1hVQlj4ETe2j0ehFKstWJ4j/ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fmh.la/images/team/logo_atlas.png" group-title="CULTURA",Atlas
 http://45.181.122.169:8000/play/a03w
 #EXTINF:-1 tvg-id="mtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12712_dark_360w_270h.png" group-title="VARIEDADES",MTV
@@ -874,24 +874,28 @@ http://177.53.153.21:8001/play/a01p/index.m3u8
 http://45.166.92.22:58001/play/a04c/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ADULTOS" parent-code="1190",VividRed
 http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/9624.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ADULTOS" parent-code="1190",Blacked
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ADULTOS" parent-code="1190",Evil Angel
+http://93.155.227.38:90/m3u8/hustler.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ADULTOS" parent-code="1190",Erox
+http://109.200.130.123:7526/play/a00k
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ADULTOS" parent-code="1190",Eroxxx
 http://91.233.215.250:7272/urYgd52Dcxp47Ge
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45498_dark_360w_270h.png" group-title="ADULTOS" parent-code="1190",Hustler
-
+http://149.62.183.194:9293/play/a07v
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ADULTOS" parent-code="1190",Xviven
 http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/9632.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ADULTOS" parent-code="1190",Bang Bros
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ADULTOS" parent-code="1190",Dorcel
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ADULTOS" parent-code="1190",XY Plus
+http://93.155.227.38:90/m3u8/xxl.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ADULTOS" parent-code="1190",PinkoClub
+http://93.155.227.38:90/m3u8/private.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ADULTOS" parent-code="1190",Vixen
+http://149.62.183.194:9293/play/a088
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16790_dark_360w_270h.png" group-title="ADULTOS" parent-code="1190",Brazzers TV Europe
 http://85.196.241.132:28656/udp/239.130.3.27:7051
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/3/39/Redlight_HD_%282010-.n.v.%29.png/revision/latest?cb=20180312101837" group-title="ADULTOS" parent-code="1190",RedLight
 http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/7689.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/de/Private_TV_%282014-.n.v.%29.png/revision/latest?cb=20180313074313" group-title="ADULTOS" parent-code="1190",Private
-
+http://149.62.183.194:9293/play/a07t
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s53559_dark_360w_270h.png" group-title="ADULTOS" parent-code="1190",Blue Hustler
 http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/7576.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ADULTOS" parent-code="1190",Lesbian Movies
