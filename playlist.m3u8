@@ -239,7 +239,7 @@ http://45.181.122.169:8000/play/a02j
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fmh.la/images/team/logo_movies.png" group-title="CINE Y SERIES",FMH Movies
 http://45.181.122.169:8000/play/a02k
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fmh.la/images/team/logo_rewind.png" group-title="CINE Y SERIES",Rewind
-http://177.128.115.21:8080/binet1/binet1234/214
+http://45.181.122.169:8000/play/a02m
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fridamedia.com/sites/default/files/2022-09/CINE%20FAMILIAR.png" group-title="CINE Y SERIES",Cine Familiar
 http://179.189.222.226:8000/play/ch52
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fridamedia.com/sites/default/files/2022-09/CINE%20HISPANO.png" group-title="CINE Y SERIES",Cine Hispano
@@ -247,7 +247,7 @@ http://179.189.222.226:8000/play/ch51
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fridamedia.com/sites/default/files/2022-09/Cine%20Premium.png" group-title="CINE Y SERIES",Cine Premium
 http://179.189.222.226:8000/play/ch49
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18329_dark_360w_270h.png" group-title="CINE Y SERIES",MC
-http://177.128.115.21:8080/binet1/binet1234/228
+http://160.20.165.246:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDM4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png" group-title="CINE Y SERIES", TV Cortos [MPD]
 http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpux_B2T9uHHxt8lqKIguRELGzoSasLW3B-f7apB9X9KG/ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/panico-mediano.png" group-title="CINE Y SERIES",Panico HD
@@ -423,6 +423,8 @@ http://187.188.232.236:1020/play/a00h/index.m3u8
 http://149.62.183.194:9293/play/a06y
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MÚSICA",MCM Top
 http://85.196.241.136:28656/udp/239.130.3.41:7051
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MÚSICA",Telehit
+http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpj8A8UMsZxFM8kpESUsGQZv_k2HbX83_mRwvFfdP836z/ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34394_dark_360w_270h.png" group-title="MÚSICA",Telehit Música
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/81015.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73070_dark_360w_270h.png" group-title="MÚSICA",Telehit Música Plus
@@ -876,8 +878,6 @@ http://45.166.92.22:58001/play/a04c/index.m3u8
 http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/9624.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ADULTOS" parent-code="1190",Evil Angel
 http://93.155.227.38:90/m3u8/hustler.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ADULTOS" parent-code="1190",Erox
-http://109.200.130.123:7526/play/a00k
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ADULTOS" parent-code="1190",Eroxxx
 http://91.233.215.250:7272/urYgd52Dcxp47Ge
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45498_dark_360w_270h.png" group-title="ADULTOS" parent-code="1190",Hustler
