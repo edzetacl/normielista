@@ -550,6 +550,8 @@ http://179.51.168.13:4000/play/a05s
 http://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/63a084934734f30007457b2c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=5fbc4110-d0be-11ed-8a38-055f9c4ae0c5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e5c10ef4-15f9-484b-9425-10832b72b017&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="1738dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65940_dark_360w_270h.png" group-title="CULTURA",Discovery Theater
 http://45.232.210.1:47000/play/a0am
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CULTURA",ARTV
+http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpl__oPXPHhgU76TXUCe3qrINkr4a7Bj5v2unsMTBjcVD/ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72449_dark_360w_270h.png" group-title="CULTURA",NatGeo Mundo
 http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpstHeIIwrBI261pzckWFm6znMIIqX8aVuD7kR3jU0QCs/ts
 #EXTINF:-1 tvg-id="discoverymax.es" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90316_dark_360w_270h.png" group-title="CULTURA",DMAX
