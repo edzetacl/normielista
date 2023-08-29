@@ -177,7 +177,7 @@ http://179.51.168.13:4000/play/a033
 #EXTINF:-1 tvg-id="502dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71148_dark_360w_270h.png" group-title="CINE Y SERIES",TNT
 http://45.232.210.1:47000/play/a06w
 #EXTINF:-1 tvg-id="507dtv.co" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" group-title="CINE Y SERIES",Cinecanal - Panregional
-http://45.232.210.1:47000/play/a05c
+http://179.51.168.13:4000/play/a048
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" group-title="CINE Y SERIES",Cinecanal - Chile
 http://179.51.168.13:4000/play/a05k
 #EXTINF:-1 tvg-id="1509dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16794_dark_360w_270h.png" group-title="CINE Y SERIES",Cinemax - Panregional
@@ -206,8 +206,10 @@ http://45.232.210.1:47000/play/aehd
 http://45.232.210.1:47000/play/a06g
 #EXTINF:-1 tvg-id="824dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106215_dark_360w_270h.png" group-title="CINE Y SERIES",Paramount Network
 http://45.232.210.1:47000/play/a05j
-#EXTINF:-1 tvg-id="508dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png" group-title="CINE Y SERIES",Studio Universal
+#EXTINF:-1 tvg-id="508dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png" group-title="CINE Y SERIES",Studio Universal - Panregional
 http://179.51.168.13:4000/play/a04f
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png" group-title="CINE Y SERIES",Studio Universal - Chile
+http://179.51.168.13:4000/play/a02n
 #EXTINF:-1 tvg-id="508dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="CINE Y SERIES",AMC
 http://177.53.153.21:8001/play/a039/index.m3u8
 #EXTINF:-1 tvg-id="520dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16497_dark_360w_270h.png" group-title="CINE Y SERIES",I.Sat
