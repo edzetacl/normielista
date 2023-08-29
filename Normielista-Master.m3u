@@ -351,7 +351,7 @@ http://190.149.66.90:4000/play/a028/index.m3u8
 #EXTINF:-1 tvg-id="304dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26089_dark_360w_270h.png" group-title="INFANTIL",Cartoonito
 http://45.177.53.7:8000/play/a0c7/index.m3u8
 #EXTINF:-1 tvg-id="146dtv.cl" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_ntv.png" group-title="INFANTIL",NTV
-http://45.232.210.1:47000/play/a057
+http://179.51.168.13:4000/play/a03o
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fridamedia.com/sites/default/files/2023-05/Logo%20Canal%20Infantil%20pequen%CC%83o.png" group-title="INFANTIL",Canal Infantil
 http://179.189.222.226:8000/play/ch06
 #EXTINF:-1 tvg-id="850mvstr.cl" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_etc.png" group-title="INFANTIL",ETC
