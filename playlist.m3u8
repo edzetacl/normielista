@@ -102,7 +102,7 @@ http://45.232.210.1:47000/play/a0at
 #EXTINF:-1 tvg-id="3081dtv.cl" tvg-logo="https://i.imgur.com/GvWFYrE.png" group-title="DEPORTES",Fox Sports 3 - Latinoamérica
 http://45.232.210.1:47000/play/foxsports3hd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8YjaXMH.png" group-title="DEPORTES",Fox Deportes
-http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECprjSPwFz5-dOVK35FAKW6J0/ts
+https://u4.cl/normiestream1
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16275_dark_360w_270h.png" group-title="DEPORTES",TyC Sports - Argentina
 http://45.186.252.17:8000/play/a01d
 #EXTINF:-1 tvg-id="629dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16275_dark_360w_270h.png" group-title="DEPORTES",TyC Sports - Latinoamérica
@@ -147,7 +147,7 @@ http://23.237.108.234/hls/USA_WWE.m3u8|User-Agent=Roku/DVP(10.10.10)
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES",TUDN - México
 https://channel03.akamaized.net/hls/live/2023943/event01/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75176_dark_360w_270h.png" group-title="DEPORTES",TUDN - Estados Unidos
-http://extremeplus.xyz:8080/Flaco25/m3zAXDuNCCwd/28770
+https://u4.cl/normiestream2
 #EXTINF:-1 tvg-id="736dtv.cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/gol_tv_estados_unidos-mediano.png" group-title="DEPORTES",GolTV
 http://177.53.153.21:8001/play/a03t/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",Sky Sports La Liga - México
@@ -163,7 +163,7 @@ http://181.177.255.253:8000/play/a074/index.m3u8
 #EXTINF:-1 tvg-id="11mvstr.pe" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/55/7553955_D7D9A30FB187AF45.png" group-title="DEPORTES",Gol Perú
 http://177.53.153.21:8001/play/a03z/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/638df6f8b63cf100075ccfa1/thumbnail.jpg" group-title="DEPORTES",Chilevisión Deportes PlutoTV
-https://dai.google.com/linear/hls/event/1P2iL-EkSe2OuVR2IZ-v6w/master.m3u8
+https://siloh.pluto.tv/live/production/CopaLibertadores/CHILE/Live/master.m3u8
 #EXTINF:-1 tvg-id="beinx-es1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72291_dark_360w_270h.png" group-title="DEPORTES",Claro Sports
 http://190.149.66.90:4000/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="637dtv.cl" tvg-logo="https://cdomas.cl/bundle/422da528cd04d3cca21fff25bac2cb9e.png" group-title="DEPORTES",CDO Premium
@@ -281,7 +281,7 @@ http://179.51.168.13:4000/play/a041
 #EXTINF:-1 tvg-id="hbo-oeste.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="HBO PREMIUM",HBO Oeste
 http://190.149.66.90:4000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="1481dtv.cl" tvg-logo="https://www.buscopng.com/wp-content/uploads/2020/11/HBO-logo.png" group-title="HBO PREMIUM",HBO Chile
-http://45.236.175.2:1031
+http://179.51.168.13:4000/play/a039
 #EXTINF:-1 tvg-id="525dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="HBO PREMIUM",HBO 2 Este
 http://181.177.255.253:8000/play/a021/index.m3u8
 #EXTINF:-1 tvg-id="hbo-2.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="HBO PREMIUM",HBO 2 Oeste
@@ -377,7 +377,6 @@ https://redirector.dps.live/hls/bbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/5f4534bd9d9a9e5e37ecdd8a/mediaLibrary/photo/cd5aeaba-003d-43f0-9571-a710892e4ff0-extra-large-standard-q100.png" group-title="REGIONALES",TVR
 https://redirector.dps.live/hls/tvr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/TV_M%C3%A1s_2_2021.png/revision/latest?cb=20211128231238&path-prefix=es" group-title="REGIONALES",TVMas2
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"}
 https://panel.miplay.cl:8081/tvmas2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="REGIONALES",Wapp
 https://marine2.miplay.cl/wapp/playlist.m3u8
