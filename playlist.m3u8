@@ -31,8 +31,8 @@ http://181.177.255.253:8000/play/a00j/index.m3u8
 http://45.186.252.17:8000/play/a04m
 #EXTINF:-1 tvg-id="1621dtv.co" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES",ESPN - Colombia
 http://181.78.75.11:9500/play/a03c/index.m3u8
-#EXTINF:-1 tvg-id="espn.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES",ESPN - Centroamérica
-http://45.228.232.205:16000/play/a07r/index.m3u8
+#EXTINF:-1 tvg-id="espn-2.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES",ESPN - Centroamérica
+http://138.59.177.34:8000/play/a070/index.m3u8
 #EXTINF:-1 tvg-id="431dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="DEPORTES",ESPN 2 - Chile
 http://179.51.168.13:4000/play/a060
 #EXTINF:-1 tvg-id="622dtv.pe" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="DEPORTES",ESPN 2 - Perú
@@ -41,24 +41,24 @@ http://45.232.210.1:47000/play/a06j
 http://45.186.252.17:8000/play/a04l
 #EXTINF:-1 tvg-id="622dtv.co" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="DEPORTES",ESPN 2 - Colombia
 http://181.78.75.11:9500/play/a029/index.m3u8
-#EXTINF:-1 tvg-id="espn-2.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="DEPORTES",ESPN 2 - Centroamérica
-http://45.228.232.205:16000/play/a07t/index.m3u8
+#EXTINF:-1 tvg-id="espn.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="DEPORTES",ESPN 2 - Centroamérica
+http://138.59.177.34:8000/play/a072/index.m3u8
 #EXTINF:-1 tvg-id="1075dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png" group-title="DEPORTES",ESPN 3 - Sudamérica
 http://45.232.210.1:47000/play/espn3hd
 #EXTINF:-1 tvg-id="1623dtv.ar" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png" group-title="DEPORTES",ESPN 3 - Argentina
 http://45.186.252.17:8000/play/a022
 #EXTINF:-1 tvg-id="espn-3.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png" group-title="DEPORTES",ESPN 3 - Centroamérica
-http://45.228.232.205:16000/play/a07s/index.m3u8
+http://138.59.177.34:8000/play/a071/index.m3u8
 #EXTINF:-1 tvg-id="608dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s122027_dark_360w_270h.png" group-title="DEPORTES",ESPN 4 - Chile
 http://179.51.168.13:4000/play/a04o
 #EXTINF:-1 tvg-id="624dtv.co" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s122027_dark_360w_270h.png" group-title="DEPORTES",ESPN 4 - Sudamérica
 http://181.177.255.253:8000/play/a01b/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s122027_dark_360w_270h.png" group-title="DEPORTES",ESPN 4 - Centroamérica
-http://45.228.232.205:16000/play/a07n/index.m3u8
+http://138.59.177.34:8000/play/a06v/index.m3u8
 #EXTINF:-1 tvg-id="624dtv.co" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png" group-title="DEPORTES",ESPN Extra - Sudamérica
 http://45.232.210.1:47000/play/a05e
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png" group-title="DEPORTES",ESPN Extra - Centroamérica
-http://45.228.232.205:16000/play/a030/index.m3u8
+http://138.59.177.34:8000/play/a02t/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png" group-title="DEPORTES",ESPN Extra - México
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/37820.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25595_dark_360w_270h.png" group-title="DEPORTES",ESPN Deportes
@@ -70,7 +70,7 @@ http://45.186.252.17:8000/play/a01f
 #EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="DEPORTES",DSports - Perú
 http://181.177.255.253:8000/play/a075/index.m3u8
 #EXTINF:-1 tvg-id="610dtv.ar" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="DEPORTES",DSports - Argentina
-http://45.186.252.17:8000/play/a07n
+
 #EXTINF:-1 tvg-id="610dtv.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="DEPORTES",DSports - Chile
 http://179.51.168.13:4000/play/a06w
 #EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="DEPORTES",DSports 2
