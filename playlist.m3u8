@@ -70,7 +70,7 @@ http://45.186.252.17:8000/play/a01f
 #EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="DEPORTES",DSports - Perú
 http://181.177.255.253:8000/play/a075/index.m3u8
 #EXTINF:-1 tvg-id="610dtv.ar" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="DEPORTES",DSports - Argentina
-
+http://45.186.252.17:8000/play/a07n
 #EXTINF:-1 tvg-id="610dtv.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="DEPORTES",DSports - Chile
 http://179.51.168.13:4000/play/a06w
 #EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="DEPORTES",DSports 2
