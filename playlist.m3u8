@@ -18,7 +18,7 @@ http://45.232.210.1:47000/play/a07d
 #EXTINF:-1 tvg-id="707dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104408_dark_360w_270h.png" group-title="NACIONALES",CNN Chile
 http://45.232.210.1:47000/play/cnnchilehd
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn-w.tvdaldia.cl/canales/t13envivo.png" group-title="NACIONALES",T13 en vivo
-https://marine2.miplay.cl/t13/playlist.m3u8
+https://redirector.dps.live/hls/t13/playlist.m3u8
 #EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69306_dark_360w_270h.png" group-title="DEPORTES",TNT Sports HD
 http://45.232.210.1:47000/play/cdfhd
 #EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDQyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png" group-title="DEPORTES",TNT Sports 3
@@ -107,41 +107,39 @@ https://edzetacl.cloud/stream/tlat/72.m3u8
 http://45.186.252.17:8000/play/a01d
 #EXTINF:-1 tvg-id="629dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16275_dark_360w_270h.png" group-title="DEPORTES",TyC Sports - Latinoamérica
 http://177.53.153.21:8001/play/a03y/index.m3u8
-#EXTINF:-1 tvg-id="daznlalige.es" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="DEPORTES",DAZN La Liga - España [MPD]
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd
-#EXTINF:-1 tvg-id="mpluslaliga.es" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/m_vamos-mediano.png" group-title="DEPORTES",M+ La Liga TV
-http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpolBT3wknYGonx6awans3F8/ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",La Liga TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",La Liga TV [MPD]
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"}
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"genyhEnIU1uYm38mtaVF1g","k":"GdSpWKcHeIgBj7pIEiKJKA"},{"kty":"oct","kid":"U3h7gsxbWxGqXAKn7bX7TQ","k":"-VTw50oT6cWYsZ6-wYOrLA"},{"kty":"oct","kid":"QQoGrUu7WlaoodQFgdh63g","k":"8k9xINtJlqasnk-C57sYjw"}]}
 https://live-tcsgra.thechannel.store/laligatv/laligatv.mpd
-#EXTINF:-1 tvg-id="mplusdeportes.es" tvg-logo="" group-title="DEPORTES",M+ Deportes
-http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpj6ByNCu4Mr-Tx-I-vZnDyQ/ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",M+ #Vamos
-http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECptTmL2Ve0g0YOLsyoiJvuVCPtz4xGbBM4qGaNN5ubr_p/ts
+#EXTINF:-1 tvg-id="mpluslaliga.es" tvg-logo="" group-title="DEPORTES",M+ La Liga TV
+http://51.158.54.14:18000/M_LaLiga/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="mplusdeportes.es" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/m_deportes-mediano.png" group-title="DEPORTES",M+ Deportes
+http://51.158.54.14:18000/M_Deportes/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/m_vamos-mediano.png" group-title="DEPORTES",M+ #Vamos
+http://51.158.54.14:18000/M_Vamos/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="mpluslcampeones.es" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/m_liga_de_campeones-mediano.png" group-title="DEPORTES",M+ Liga de Campeones
-http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpmzwzpt9ieQIjQlc5USlpas/ts
+http://51.158.54.14:18000/M_Liga_de_Campeones/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="daznlalige.es" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="DEPORTES",DAZN La Liga - España [MPD]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd
 #EXTINF:-1 tvg-id="dazn1.es" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/dazn-mediano.png" group-title="DEPORTES",DAZN 1 - España [MPD]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-037/stream.mpd
 #EXTINF:-1 tvg-id="dazn2.es" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/dazn_2-mediano.png" group-title="DEPORTES",DAZN 2 - España
 http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECprUfInbo2PJhjMsVX_ljwiE/ts
+#EXTINF:-1 tvg-id="dazn3.es" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/dazn_3-mediano.png" group-title="DEPORTES",DAZN 3 - España
+http://51.158.54.14:18000/DAZN_3/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="dazn4.es" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/dazn_4-mediano.png" group-title="DEPORTES",DAZN 4 - España
+http://51.158.54.14:18000/DAZN_4/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="mpluslcampeones.es" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/dazn_formula_1-mediano.png" group-title="DEPORTES",DAZN F1 - España [MPD]
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-016/stream.mpd
+http://51.158.54.14:18000/DAZN_F1/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="eurosport1.es" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/eurosport_1-mediano.png" group-title="DEPORTES",Eurosport 1 - España [MPD]
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-031/stream.mpd
+http://51.158.54.14:18000/Eurosport_1/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="eurosport2.es" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/eurosport_2-mediano.png" group-title="DEPORTES",Eurosport 2 - España [MPD]
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-032/stream.mpd
+http://51.158.54.14:18000/Eurosport_2/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",WWE Network
 http://23.237.108.234/hls/USA_WWE.m3u8|User-Agent=Roku/DVP(10.10.10)
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES",TUDN - México
@@ -252,7 +250,7 @@ http://179.189.222.226:8000/play/ch51
 http://179.189.222.226:8000/play/ch49
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18329_dark_360w_270h.png" group-title="CINE Y SERIES",MC
 http://160.20.165.246:8000/play/a00a/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDM4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png" group-title="CINE Y SERIES", TV Cortos [MPD]
+#EXTINF:-1 tvg-id="" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDM4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png" group-title="CINE Y SERIES", TV Cortos
 http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpux_B2T9uHHxt8lqKIguRELGzoSasLW3B-f7apB9X9KG/ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/panico-mediano.png" group-title="CINE Y SERIES",Panico HD
 http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpvHx0M1cpPaD34X10jS2VcHRQ-MzTgR-5EHxgym9hG1j/ts
@@ -446,6 +444,8 @@ http://185.79.154.218:8085/udp/229.2.48.110:1234
 http://185.79.154.218:8085/udp/229.2.42.166:1234
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MÚSICA",The Box
 http://185.79.154.218:8085/udp/229.2.48.111:1234
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MÚSICA",VH1 Italia
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?wmsAuthSign=InspirationLinks
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72020_dark_360w_270h.png" group-title="MÚSICA",Concert Channel
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/18616.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oXZ7CwK.png" group-title="MÚSICA",Stingray iConcerts
@@ -562,7 +562,11 @@ http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpl__oPXPHhgU76TXUCe3qrI
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72449_dark_360w_270h.png" group-title="CULTURA",NatGeo Mundo
 http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpo5KjxKK1DTWfp0zkceCiV2ev8PgaUxUaQDKRBcgKXmL/ts
 #EXTINF:-1 tvg-id="discoverymax.es" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90316_dark_360w_270h.png" group-title="CULTURA",DMAX
-
+http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/7913.ts
+#EXTINF:-1 tvg-id="discoverymax.es" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90316_dark_360w_270h.png" group-title="CULTURA",DMAX [MPD]
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={8f6274cbc36a52f7a9104f5fab9f1918:27060c527a69d604b42cbf2982127238,a23af59626f25a87bb7a92632047de16:53c3ca7308ad2b9ee0a33d4c0b266931,31202201d2055ddfb0e567d6fe222b09:fd5d557ea82bf155bc9b06c8cb000159}
+https://tvup-gra-livegeo.secure2.footprint.net/dmax6/dmax6.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fmh.la/images/team/logo_atlas.png" group-title="CULTURA",Atlas
 http://177.128.115.21:8080/live/binet1/binet1234/13.ts
 #EXTINF:-1 tvg-id="mtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12712_dark_360w_270h.png" group-title="VARIEDADES",MTV
