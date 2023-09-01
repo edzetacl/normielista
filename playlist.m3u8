@@ -1,19 +1,19 @@
 #EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml" tvg-shift=0 catchup="shift" catchup-days=6 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/645505747cb4b10008492e03/thumbnail.jpg" group-title="NACIONALES",Gran Hermano Chile
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/645505747cb4b10008492e03/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="lared.cl" tvg-logo="https://cdn-w.tvdaldia.cl/canales/lared.png" group-title="NACIONALES",La Red
+#EXTINF:-1 tvg-id="lared.cl" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/la-red-blanco2x.png" group-title="NACIONALES",La Red
 http://45.232.210.1:47000/play/laredhd
-#EXTINF:-1 tvg-id="tvmas.cl" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_tvmas.png" group-title="NACIONALES",TV+
+#EXTINF:-1 tvg-id="tvmas.cl" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/tv-blanco2x.png" group-title="NACIONALES",TV+
 http://45.232.210.1:47000/play/a058
-#EXTINF:-1 tvg-id="149dtv.cl" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_tvn.png" group-title="NACIONALES",TVN
+#EXTINF:-1 tvg-id="149dtv.cl" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/tvn-blanco2x.png" group-title="NACIONALES",TVN
 http://45.232.210.1:47000/play/a06r
-#EXTINF:-1 tvg-id="mega.cl" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_mega.png" group-title="NACIONALES",Mega
+#EXTINF:-1 tvg-id="mega.cl" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/mega-blanco2x.png" group-title="NACIONALES",Mega
 http://45.232.210.1:47000/play/a08g
-#EXTINF:-1 tvg-id="chv.cl" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_chv.png" group-title="NACIONALES",Chilevisión
+#EXTINF:-1 tvg-id="chv.cl" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/chilevision-blanco2x.png" group-title="NACIONALES",Chilevisión
 http://45.232.210.1:47000/play/a08n
-#EXTINF:-1 tvg-id="152dtv.cl" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_canal13.png" group-title="NACIONALES",Canal 13
+#EXTINF:-1 tvg-id="152dtv.cl" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/13-blanco2x.png" group-title="NACIONALES",Canal 13
 http://45.232.210.1:47000/play/a07a
-#EXTINF:-1 tvg-id="24horas.cl" tvg-logo="https://cdn-w.tvdaldia.cl/canales/24horas.png" group-title="NACIONALES",Canal 24 Horas
+#EXTINF:-1 tvg-id="24horas.cl" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/Canal-24-Horas2x.png" group-title="NACIONALES",Canal 24 Horas
 http://45.232.210.1:47000/play/a07d
 #EXTINF:-1 tvg-id="707dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104408_dark_360w_270h.png" group-title="NACIONALES",CNN Chile
 http://45.232.210.1:47000/play/cnnchilehd
@@ -162,7 +162,7 @@ https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist.m3u8
 http://181.177.255.253:8000/play/a074/index.m3u8
 #EXTINF:-1 tvg-id="11mvstr.pe" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/55/7553955_D7D9A30FB187AF45.png" group-title="DEPORTES",Gol Perú
 http://177.53.153.21:8001/play/a03z/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/638df6f8b63cf100075ccfa1/thumbnail.jpg" group-title="DEPORTES",Chilevisión Deportes PlutoTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/LOGO-CHVDeportes-PlutoTV.png" group-title="DEPORTES",Chilevisión Deportes PlutoTV
 https://siloh.pluto.tv/live/production/CopaLibertadores/CHILE/Live/master.m3u8
 #EXTINF:-1 tvg-id="beinx-es1.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72291_dark_360w_270h.png" group-title="DEPORTES",Claro Sports
 http://190.149.66.90:4000/play/a008/index.m3u8
@@ -352,7 +352,7 @@ http://160.20.165.246:8000/play/a017/index.m3u8
 http://190.149.66.90:4000/play/a028/index.m3u8
 #EXTINF:-1 tvg-id="304dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26089_dark_360w_270h.png" group-title="INFANTIL",Cartoonito
 http://45.177.53.7:8000/play/a0c7/index.m3u8
-#EXTINF:-1 tvg-id="146dtv.cl" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_ntv.png" group-title="INFANTIL",NTV
+#EXTINF:-1 tvg-id="146dtv.cl" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/NTV2x.png" group-title="INFANTIL",NTV
 http://179.51.168.13:4000/play/a03o
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fridamedia.com/sites/default/files/2023-05/Logo%20Canal%20Infantil%20pequen%CC%83o.png" group-title="INFANTIL",Canal Infantil
 http://179.189.222.226:8000/play/ch06
@@ -493,9 +493,9 @@ http://160.20.165.246:8000/play/a018/index.m3u8
 http://160.20.165.246:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fridamedia.com/sites/default/files/2022-09/MIMUSICA.png" group-title="MÚSICA",MiMusica Popular
 http://160.20.165.246:8000/play/a01b/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VyV5krv.png" group-title="MÚSICA",Carolina TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/Radio-Carolina2x.png" group-title="MÚSICA",Carolina TV
 https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VyV5krv.png" group-title="MÚSICA",Carolina TV 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/Radio-Carolina2x.png" group-title="MÚSICA",Carolina TV 2
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/carolinatv2/carolinatv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://webplayer.stingray.com/res/images/logo/en/stingray_logo_vertical_dark.png" group-title="MÚSICA",Stingray Alternative
 https://stirr.ott-channels.stingray.com/102/master.m3u8
@@ -609,7 +609,7 @@ http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECphE465yYptMuD-eY9CjDrZz
 https://marine2.miplay.cl/megaplus/playlist.m3u8
 #EXTINF:-1 tvg-id="rec-tv.cl" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_rec.png" group-title="VARIEDADES",RecTV
 https://marine2.miplay.cl/rec/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/TVN_3_2023.svg/1920px-TVN_3_2023.svg.png" group-title="VARIEDADES",TVN3
+#EXTINF:-1 tvg-id="" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/TVN-32x.png" group-title="VARIEDADES",TVN3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 #EXTINF:-1 tvg-id="viax.cl" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_viax.png" group-title="VARIEDADES",Vía X
 http://45.232.210.1:8062/play/a092/index.m3u8
@@ -687,7 +687,7 @@ http://45.177.53.7:8000/play/a0cm/index.m3u8
 http://45.186.252.17:8000/play/a08l
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.hispantv.com/Views/Assets/img/logo.png" group-title="MUNDOS",HispanTV
 http://181.119.66.30:8000/play/38/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16046_dark_360w_270h.png" group-title="MUNDOS",TV Chile
+#EXTINF:-1 tvg-id="" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/TV-Chile2x.png" group-title="MUNDOS",TV Chile
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s100066_dark_360w_270h.png" group-title="MUNDOS",Telefe Internacional
 http://204.199.113.33:15017/play/a071/index.m3u8
@@ -769,9 +769,9 @@ https://27343.live.streamtheworld.com/ACTIVA_SC
 https://audio5.tustreaming.cl/7110/stream
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="RADIOS",Radio La mas Kaliente
 https://cloudstream2034.conectarhosting.com/8030/stream
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Radio_Disney_Chile_Logo.png" group-title="RADIOS",Radio Disney Chile
+#EXTINF:-1 tvg-id="" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/Radio-Disney2x.png" group-title="RADIOS",Radio Disney Chile
 https://22833.live.streamtheworld.com/DISNEY_CHI_SA.mp3
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.carolina.cl/_templates/desktop/includes/img/main-logo.png" group-title="RADIOS",Radio Carolina
+#EXTINF:-1 tvg-id="" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/Radio-Carolina2x.png" group-title="RADIOS",Radio Carolina
 https://mdstrm.com/audio/637f68ddce4b1208597d8a86/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://envivo.los40.cl/build/assets/los40chile/img/logo.png" group-title="RADIOS",Los 40 Chile
 https://26563.live.streamtheworld.com/LOS40_CHILE_SC
@@ -781,11 +781,11 @@ https://streaming.conectaapp.cl/canal95
 https://streaming.fmokey.cl/moviles.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://envivo.futuro.cl/build/assets/futurochile/img/logo.png" group-title="RADIOS",Futuro
 https://26503.live.streamtheworld.com/FUTURO_SC
-#EXTINF:-1 tvg-id="" tvg-logo="https://ott-assets.mdstrm.com/5c58a34e176c2c0813b22e4b/62962ecb3aabd15c7cd55bbc/assets/Sonar_Logo_blancoRojo.png" group-title="RADIOS",Sonar
+#EXTINF:-1 tvg-id="" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/sonar-FM2x-1.png" group-title="RADIOS",Sonar
 https://mdstrm.com/audio/5c915724519bce27671c4d15/icecast.audio
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.romantica.cl/_templates/desktop/includes/img/main-logo.png" group-title="RADIOS",Radio Romantica
+#EXTINF:-1 tvg-id="" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/Radio-Romantica2x.png" group-title="RADIOS",Radio Romantica
 https://mdstrm.com/audio/639b78f7ff35df084fa7f964/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ott-assets.mdstrm.com/5c58a34e176c2c0813b22e4b/633db501b938191960de607d/assets/Logo_Play_Sitios_1.png" group-title="RADIOS",Play FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/Logo_Play_Sitios_1.png" group-title="RADIOS",Play FM
 https://mdstrm.com/audio/5c8d6406f98fbf269f57c82c/icecast.audio
 #EXTINF:-1 tvg-id="" tvg-logo="https://envivo.fmdos.cl/build/assets/fmdos/img/logo.png" group-title="RADIOS",FM Dos
 https://26523.live.streamtheworld.com/FMDOS_SC
@@ -807,11 +807,11 @@ https://stream10.usastreams.com/9324/stream
 https://v1.tustreaming.cl:19360/conquistadorconcepcion/conquistadorconcepcion.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.monkibu.net/Radio/logos/duna-hq.png" group-title="RADIOS",Duna
 https://hls-audio-cl-1-isp.dps.live/duna/gotardis/audio/now/livestream1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ott-assets.mdstrm.com/5c58a34e176c2c0813b22e4b/6305400df11545083964b856/assets/Logo13cRadio_sitio.png" group-title="RADIOS",13C Radio
+#EXTINF:-1 tvg-id="" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/13C-Radio2x.png" group-title="RADIOS",13C Radio
 https://mdstrm.com/audio/5c915497c6fd7c085b29169d/icecast.audio
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Rock_%26_Pop_logo_2013.svg/1920px-Rock_%26_Pop_logo_2013.svg.png" group-title="RADIOS",Rock & Pop
 https://26523.live.streamtheworld.com/ROCK_AND_POP_SC
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Logo_Radio_infinita_2018.png" group-title="RADIOS",Infinita
+#EXTINF:-1 tvg-id="" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/Radio-Infinita2x.png" group-title="RADIOS",Infinita
 https://mdstrm.com/audio/639b791cea22540890cd1d8b/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.digitalfm.cl/wp-content/themes/digitalfm/assets/images/logo-digital-fm.png" group-title="RADIOS",Digital FM
 https://unlimited3-cl.dps.live/digitalfm/aac/icecast.audio
@@ -819,13 +819,13 @@ https://unlimited3-cl.dps.live/digitalfm/aac/icecast.audio
 https://unlimited11-cl.dps.live/radiopauta/aac/icecast.audio
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo_La_Clave_2019.png/338px-Logo_La_Clave_2019.png" group-title="RADIOS",La Clave
 https://unlimited3-cl.dps.live/laclave/aac/icecast.audio
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Logo_Radio_Tiempo_2018.png" group-title="RADIOS",Tiempo FM
+#EXTINF:-1 tvg-id="" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/Radio-Tiempo2x.png" group-title="RADIOS",Tiempo FM
 https://mdstrm.com/audio/639b7943e0a27908a55dbf9e/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="RADIOS",FM Plus
 https://streaming.conectaapp.cl/fmplus
 #EXTINF:-1 tvg-id="" tvg-logo="https://ucvradio.cl/imagenes/logo-ucvradio-200.png" group-title="RADIOS",UCV Radio
 https://sonando-us.digitalproserver.com/ucvradio
-#EXTINF:-1 tvg-id="" tvg-logo="https://ott-assets.mdstrm.com/5c58a34e176c2c0813b22e4b/633dbb143707aa086a5ba377/assets/Mesadetrabajo52.png" group-title="RADIOS",Tele13 Radio
+#EXTINF:-1 tvg-id="" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/Tele-13-Radio2x.png" group-title="RADIOS",Tele13 Radio
 https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/5c915613519bce27671c4caa/playlist.m3u8?listeningSessionID=6448b8f600a7c064_918648_dPABKGZe__0000000Vrot&downloadSessionID=0&aid=5c58a34e176c2c0813b22e4b&pid=GF0xiFa4S5Mp3epcteeE55TVRwZveBrO&sid=q35mq36rc6fOiVmvUqoYvGXWk9kmVyhG&uid=gHGh3DufuxKpBPfGdJIDd3J9P3socT4N&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1683492588043&ot=yaDBs3q4GEFnqx5lyrJ_xw&proto=https&pz=us&cP=128000&awCollectionId=5c58a34e176c2c0813b22e4b&liveId=5c915613519bce27671c4caa
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/media/EPUh_HZWoAML27A.png" group-title="RADIOS",Radio Usach
 https://rusach.janus.cl/playlist/stream.m3u8
