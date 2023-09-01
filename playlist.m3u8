@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://epg.programadorx.cl/mdiaz/gratis.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/758adc4e07a6d27f6a57fa90004f9d3d5d82345a/PlutoTV/all.xml" tvg-shift=0 catchup="shift" catchup-days=6 
-#EXTINF:-1 tvg-id="647f7f8d8e3c0a0008d552cb" tvg-logo="https://images.pluto.tv/channels/647f7f8d8e3c0a0008d552cb/colorLogoPNG.png" group-title="NACIONALES",Gran Hermano Chile
+#EXTINF:-1 tvg-id="645505747cb4b10008492e03" tvg-logo="https://images.pluto.tv/channels/647f7f8d8e3c0a0008d552cb/colorLogoPNG.png" group-title="NACIONALES",Gran Hermano Chile
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/645505747cb4b10008492e03/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="lared.cl" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/la-red-blanco2x.png" group-title="NACIONALES",La Red
 http://45.232.210.1:47000/play/laredhd
@@ -30,17 +30,17 @@ http://181.177.255.253:8000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="1621dtv.ar" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES",ESPN - Argentina
 http://45.186.252.17:8000/play/a04m
 #EXTINF:-1 tvg-id="1621dtv.co" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES",ESPN - Colombia
-http://181.78.75.11:9500/play/a03c/index.m3u8
+http://45.181.122.145:8000/play/a01c/index.m3u8
 #EXTINF:-1 tvg-id="espn-2.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES",ESPN - Centroamérica
 http://138.59.177.34:8000/play/a070/index.m3u8
 #EXTINF:-1 tvg-id="431dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="DEPORTES",ESPN 2 - Chile
-http://179.51.168.13:4000/play/a060
+http://181.177.255.253:8000/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="622dtv.pe" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="DEPORTES",ESPN 2 - Perú
 http://45.232.210.1:47000/play/a06j
 #EXTINF:-1 tvg-id="622dtv.ar" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="DEPORTES",ESPN 2 - Argentina
 http://45.186.252.17:8000/play/a04l
 #EXTINF:-1 tvg-id="622dtv.co" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="DEPORTES",ESPN 2 - Colombia
-http://181.78.75.11:9500/play/a029/index.m3u8
+http://45.181.122.145:8000/play/a01m/index.m3u8
 #EXTINF:-1 tvg-id="espn.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="DEPORTES",ESPN 2 - Centroamérica
 http://138.59.177.34:8000/play/a072/index.m3u8
 #EXTINF:-1 tvg-id="1075dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png" group-title="DEPORTES",ESPN 3 - Sudamérica
