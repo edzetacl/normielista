@@ -237,13 +237,13 @@ http://177.53.153.21:8001/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="504dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19246_dark_360w_270h.png" group-title="CINE Y SERIES",TCM
 http://45.232.210.1:8062/play/a09k/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fmh.la/images/team/logo_family.png" group-title="CINE Y SERIES",FMH Family
-http://45.181.122.169:8000/play/a02i
+http://177.128.115.21:8080/live/binet1/binet1234/39.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fmh.la/images/team/logo_kids.png" group-title="CINE Y SERIES",FMH Kids
-http://45.181.122.169:8000/play/a02j
+http://177.128.115.21:8080/live/binet1/binet1234/330.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fmh.la/images/team/logo_movies.png" group-title="CINE Y SERIES",FMH Movies
-http://45.181.122.169:8000/play/a02k
+http://177.128.115.21:8080/live/binet1/binet1234/41.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fmh.la/images/team/logo_rewind.png" group-title="CINE Y SERIES",Rewind
-http://45.181.122.169:8000/play/a02m
+http://177.128.115.21:8080/live/binet1/binet1234/154.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fridamedia.com/sites/default/files/2022-09/CINE%20FAMILIAR.png" group-title="CINE Y SERIES",Cine Familiar
 http://179.189.222.226:8000/play/ch52
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fridamedia.com/sites/default/files/2022-09/CINE%20HISPANO.png" group-title="CINE Y SERIES",Cine Hispano
@@ -480,15 +480,19 @@ http://190.90.251.194:8921/play/a02u/index.m3u8
 #EXTINF:-1 tvg-id="1269dtv.ar" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75978_dark_360w_270h.png" group-title="MÚSICA",Quiero Música en mi Idioma
 http://45.186.252.17:8000/play/a018
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fridamedia.com/sites/default/files/2022-09/MIMUSICA.png" group-title="MÚSICA",MiMusica Hits
-http://177.128.115.21:8080/live/binet1/binet1234/58.ts
+http://204.199.113.33:15017/play/a034/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fridamedia.com/sites/default/files/2022-09/MIMUSICA.png" group-title="MÚSICA",MiMusica KPop
-http://177.128.115.21:8080/live/binet1/binet1234/59.ts
+http://204.199.113.33:15017/play/a031/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fridamedia.com/sites/default/files/2022-09/MIMUSICA.png" group-title="MÚSICA",MiMusica Romantica
-http://177.128.115.21:8080/live/binet1/binet1234/61.ts
+http://204.199.120.34:16123/play/ch54
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fridamedia.com/sites/default/files/2022-09/MIMUSICA.png" group-title="MÚSICA",MiMusica Salsa
 http://160.20.165.246:8000/play/a01a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fridamedia.com/sites/default/files/2022-09/MIMUSICA.png" group-title="MÚSICA",MiMusica Reggaeton
-http://177.128.115.21:8080/live/binet1/binet1234/60.ts
+http://160.20.165.246:8000/play/a018/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.fridamedia.com/sites/default/files/2022-09/MIMUSICA.png" group-title="MÚSICA",MiMusica Regional
+http://160.20.165.246:8000/play/a019/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.fridamedia.com/sites/default/files/2022-09/MIMUSICA.png" group-title="MÚSICA",MiMusica Popular
+http://160.20.165.246:8000/play/a01b/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VyV5krv.png" group-title="MÚSICA",Carolina TV
 https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VyV5krv.png" group-title="MÚSICA",Carolina TV 2
@@ -546,7 +550,7 @@ http://177.53.153.21:8001/play/a044/index.m3u8
 #EXTINF:-1 tvg-id="1738dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66488_dark_360w_270h.png" group-title="CULTURA",Discovery World
 http://45.232.210.1:47000/play/a05b
 #EXTINF:-1 tvg-id="1738dtv.cl" tvg-logo="https://i.imgur.com/oY8d1Rx.png" group-title="CULTURA",13C
-http://45.181.122.169:8000/play/a03p
+https://marine2.miplay.cl/canal13cable/playlist.m3u8
 #EXTINF:-1 tvg-id="1738dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48527_dark_360w_270h.png" group-title="CULTURA",Discovery Science
 http://179.51.168.13:4000/play/a05s
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s113446_dark_360w_270h.png" group-title="CULTURA",Smithsonian Channel - PlutoTV
@@ -556,11 +560,11 @@ http://45.232.210.1:47000/play/a0am
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CULTURA",ARTV
 http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpl__oPXPHhgU76TXUCe3qrINkr4a7Bj5v2unsMTBjcVD/ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72449_dark_360w_270h.png" group-title="CULTURA",NatGeo Mundo
-http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpstHeIIwrBI261pzckWFm6znMIIqX8aVuD7kR3jU0QCs/ts
+http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpo5KjxKK1DTWfp0zkceCiV2ev8PgaUxUaQDKRBcgKXmL/ts
 #EXTINF:-1 tvg-id="discoverymax.es" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90316_dark_360w_270h.png" group-title="CULTURA",DMAX
-http://normielista.cl:80/play/0Bu2UVekNecKvoeYhzqb9XfWhnm6355f4jS_gT66X1hVQlj4ETe2j0ehFKstWJ4j/ts
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fmh.la/images/team/logo_atlas.png" group-title="CULTURA",Atlas
-http://45.181.122.169:8000/play/a03w
+http://177.128.115.21:8080/live/binet1/binet1234/13.ts
 #EXTINF:-1 tvg-id="mtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12712_dark_360w_270h.png" group-title="VARIEDADES",MTV
 http://45.232.210.1:47000/play/mtvhd
 #EXTINF:-1 tvg-id="229dtv.co" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24424_dark_360w_270h.png" group-title="VARIEDADES",Discovery Home & Health
@@ -617,6 +621,8 @@ http://45.228.232.205:16000/play/a04j/index.m3u8
 http://179.51.168.13:4000/play/a06o
 #EXTINF:-1 tvg-id="741dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60329_dark_360w_270h.png" group-title="VARIEDADES",Sun Channel
 http://45.232.210.1:47000/play/a0aj
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES",WOBI
+http://177.128.115.21:8080/live/binet1/binet1234/12.ts
 #EXTINF:-1 tvg-id="760dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11118_dark_360w_270h.png" group-title="VARIEDADES",Univisión Latinoamérica
 http://177.53.153.21:8001/play/a0au/index.m3u8
 #EXTINF:-1 tvg-id="892mvstr.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s112558_dark_360w_270h.png" group-title="VARIEDADES",Kanal D Drama
@@ -712,7 +718,7 @@ https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e
 #EXTINF:-1 tvg-id="720dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s103103_dark_360w_270h.png" group-title="MUNDOS",Canal 26 - Argentina
 http://45.186.252.17:8000/play/a04a
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50335_dark_360w_270h.png" group-title="MUNDOS",Perú Magico
-http://45.71.252.29:8000/play/a00v/index.m3u8
+http://191.98.179.21:50000/play/a03k/index.m3u8
 #EXTINF:-1 tvg-id="135dtv.co" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/135.png" group-title="MUNDOS", RCN Nuestra Tele
 http://181.78.74.19:8008/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="134dtv.co" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/134.png" group-title="MUNDOS", Caracol Internacional
