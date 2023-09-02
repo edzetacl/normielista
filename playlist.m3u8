@@ -429,7 +429,7 @@ http://85.196.241.136:28656/udp/239.130.3.41:7051
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MÚSICA",Telehit
 http://181.78.22.70:8000/play/a01c/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34394_dark_360w_270h.png" group-title="MÚSICA",Telehit Música
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/81015.m3u8
+http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpmYF7tuRtBbsxz5ZSNkgqKc/ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73070_dark_360w_270h.png" group-title="MÚSICA",Telehit Música Plus
 http://177.53.153.21:8001/play/a03p/index.m3u8
 #EXTINF:-1 tvg-id="claromusica.cl" tvg-logo="https://i.imgur.com/BlBgOHU.png" group-title="MÚSICA",Claro Música Sin Limites
@@ -470,7 +470,7 @@ https://tvup-ccpv2-live.secure2.footprint.net/much/much.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"iLETpA+Zem7nD7Z3ujihOw","kid":"zxaJ1ZefV2WluNyyNuaRNg"}],"type":"temporary"}
 https://dtvott-abc.akamaized.net/dash_live_1276/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109487_dark_360w_270h.png" group-title="MÚSICA",MusicTop
-https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+http://181.224.161.138:1010/play/a0c2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MÚSICA",TierraMia
 http://normielista.cl:80/play/0Bu2UVekNecKvoeYhzqb9XfWhnm6355f4jS_gT66X1huUxt3GWSBkjJKkhYlMuJF/ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18101_dark_360w_270h.png" group-title="MÚSICA",Bandamax
