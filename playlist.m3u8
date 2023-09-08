@@ -839,10 +839,20 @@ https://sonic-us.streaming-chile.com/8186/stream
 https://unlimited3-cl.dps.live/beethovenfm/gotardis/audio/now/livestream1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS",Eliminatorias CONMEBOL 2026 - Caracol TV Colombia
 http://181.78.22.70:8000/play/a03u/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS",Eliminatorias CONMEBOL 2026 - RCN Colombia
+http://190.60.40.37:12500/play/a06k/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS",Eliminatorias CONMEBOL 2026 - América TV Perú
 http://177.53.153.21:8001/play/a03w/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS",Eliminatorias CONMEBOL 2026 - ATV Perú
 http://177.53.153.21:8001/play/a00z/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS",Eliminatorias CONMEBOL 2026 - GEN TV Paraguay
+http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpsueycSTcrHQsbzh3tExCLA/ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS",Eliminatorias CONMEBOL 2026 - El Canal del Fútbol Ecuador
+http://177.234.242.209:50032/play/a0f1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS",Eliminatorias CONMEBOL 2026 - Venevisión Venezuela
+http://38.41.8.1:8000/play/a03v
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS",Eliminatorias CONMEBOL 2026 - Televen Venezuela
+http://38.41.8.1:8000/play/a03x
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Star%2B_logo.svg/2560px-Star%2B_logo.svg.png" group-title="EVENTOS",Star+ 1
 http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECphaFwY12QaCQBM9jpz1EOQ_4nYTH_6FDmuE7Po327v8M/ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Star%2B_logo.svg/2560px-Star%2B_logo.svg.png" group-title="EVENTOS",Star+ 2
