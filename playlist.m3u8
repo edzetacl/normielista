@@ -837,6 +837,12 @@ https://rusach.janus.cl/playlist/stream.m3u8
 https://sonic-us.streaming-chile.com/8186/stream
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logo_Radio_Beethoven_FM.png/338px-Logo_Radio_Beethoven_FM.png" group-title="RADIOS",Radio Beethoven
 https://unlimited3-cl.dps.live/beethovenfm/gotardis/audio/now/livestream1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS",Eliminatorias CONMEBOL 2026 - Caracol TV Colombia
+http://181.78.22.70:8000/play/a03u/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS",Eliminatorias CONMEBOL 2026 - América TV Perú
+http://177.53.153.21:8001/play/a03w/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS",Eliminatorias CONMEBOL 2026 - ATV Perú
+http://177.53.153.21:8001/play/a00z/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Star%2B_logo.svg/2560px-Star%2B_logo.svg.png" group-title="EVENTOS",Star+ 1
 http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECphaFwY12QaCQBM9jpz1EOQ_4nYTH_6FDmuE7Po327v8M/ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Star%2B_logo.svg/2560px-Star%2B_logo.svg.png" group-title="EVENTOS",Star+ 2
