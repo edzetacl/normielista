@@ -62,7 +62,8 @@ http://138.59.177.34:8000/play/a02t/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png" group-title="DEPORTES",ESPN Extra - México
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/37820.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25595_dark_360w_270h.png" group-title="DEPORTES",ESPN Deportes
-http://23.237.108.234/hls/ESPN_DEPORTES.m3u8|User-Agent=Roku/DVP(10.10.10)
+#EXTVLCOPT:http-user-agent=Roku/DVP(10.10.10)
+http://23.237.108.234/hls/ESPN_DEPORTES.m3u8
 #EXTINF:-1 tvg-id="1604dtv.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1604.png" group-title="DEPORTES",ESPN Premium - Argentina
 http://45.186.252.17:8000/play/a07t
 #EXTINF:-1 tvg-id="603dtv.ar" tvg-logo="https://cdn-w.tvdaldia.cl/canales/tntsports.png" group-title="DEPORTES",TNT Sports - Argentina
@@ -141,7 +142,8 @@ http://51.158.54.14:18000/Eurosport_1/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="eurosport2.es" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/eurosport_2-mediano.png" group-title="DEPORTES",Eurosport 2 - España
 http://51.158.54.14:18000/Eurosport_2/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",WWE Network
-http://23.237.108.234/hls/USA_WWE.m3u8|User-Agent=Roku/DVP(10.10.10)
+#EXTVLCOPT:http-user-agent=Roku/DVP(10.10.10)
+http://23.237.108.234/hls/USA_WWE.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES",TUDN - México
 https://channel03.akamaized.net/hls/live/2023943/event01/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75176_dark_360w_270h.png" group-title="DEPORTES",TUDN - Estados Unidos
@@ -403,7 +405,8 @@ http://85.196.241.136:28656/udp/239.130.3.23:7051
 #EXTINF:-1 tvg-id="263dtv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/261.png" group-title="MÚSICA",MTV Live - Europa
 http://38.7.131.2:8000/play/a0ew/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49141_dark_360w_270h.png" group-title="MÚSICA",MTV Live - Estados Unidos
-http://23.237.108.226/hls/MTVLIVE.m3u8|User-Agent=Roku/DVP(10.10.10)
+#EXTVLCOPT:http-user-agent=Roku/DVP(10.10.10)
+http://23.237.108.226/hls/MTVLIVE.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65060_dark_360w_270h.png" group-title="MÚSICA",MTV 80's - Europa
 http://85.196.241.136:28656/udp/239.130.3.22:7051
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65060_dark_360w_270h.png" group-title="MÚSICA",MTV 80's - Reino Unido
@@ -415,11 +418,10 @@ http://185.79.154.218:8085/udp/229.2.33.246:1234
 #EXTINF:-1 tvg-id="262dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56245_dark_360w_270h.png" group-title="MÚSICA",MTV 00's
 http://177.53.153.21:8001/play/a09c/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s22561_dark_360w_270h.png" group-title="MÚSICA",MTV Classic
-http://23.237.108.226/hls/MTVCLASSIC.m3u8|User-Agent=Roku/DVP(10.10.10)
+#EXTVLCOPT:http-user-agent=Roku/DVP(10.10.10)
+http://23.237.108.226/hls/MTVCLASSIC.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6N5HSrH.png" group-title="MÚSICA",Club MTV
 http://85.196.241.136:28656/udp/239.130.3.24:7051
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MÚSICA",MTV U
-http://extremeplus.xyz:8080/Flaco25/m3zAXDuNCCwd/14521
 #EXTINF:-1 tvg-id="268dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90209_dark_360w_270h.png" group-title="MÚSICA",NickMusic - Estados Unidos
 http://187.188.232.236:1020/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90209_dark_360w_270h.png" group-title="MÚSICA",NickMusic - Europa
@@ -931,28 +933,3 @@ http://149.62.183.194:9293/play/a07t
 http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/7576.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ADULTOS" parent-code="1190",Lesbian Movies
 http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/2058.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",TEST 001
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"R+WeDMsosP+nzoMP0lGVOQ","kid":"LYRvE8W9Q/OkVtnpWER/Fw"}],"type":"temporary"}
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36","Referer":"https://kolva.online/","Origin":"https://kolva.online"}
-https://10.dumper-true.com/https://cdn.live.vidgo.com/Content/DASH_WV/Live/channel(71914-ESPNDHD)/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",TEST 002
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"}
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"eFn5l4WTMi-Q1vRx0lgn-A","k":"ZfgC1Anifc3hxJpzcYSRBA"}]}
-https://1039-vos.dtvott.com/DASH/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",TEST 003
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"}
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"qn+V9xo8/kCqWZBPkoWvcg","kid":"TUW3nUSHNDWJBYq0nd+M8A"}],"type":"temporary"}
-https://1240-vos.dtvott.com/DASH/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",TEST 004
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"}
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"C2uGIpiRBPabLbkWMO0Orw","kid":"ZXXiy4SbWBSAqyYLcMz6tg"}],"type":"temporary"}
-https://dtvott-abc.akamaized.net/dash_live_1038/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",TEST 005
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"}
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"WVqLEEc5WsS+duyFYqYKiA","kid":"BrvNPRHXygOnnZMZd3g0Kg"}],"type":"temporary"}
-https://clbpktstvdash-1.clarovideo.com/bpk-tv/GOLTV/dash_fk/index.mpd
