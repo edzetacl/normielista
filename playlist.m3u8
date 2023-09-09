@@ -418,8 +418,7 @@ http://185.79.154.218:8085/udp/229.2.33.246:1234
 #EXTINF:-1 tvg-id="262dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56245_dark_360w_270h.png" group-title="MÚSICA",MTV 00's
 http://177.53.153.21:8001/play/a09c/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s22561_dark_360w_270h.png" group-title="MÚSICA",MTV Classic
-#EXTVLCOPT:http-user-agent=Roku/DVP(10.10.10)
-http://23.237.108.226/hls/MTVCLASSIC.m3u8
+https://edzetacl.cloud/stream/tlat/35.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6N5HSrH.png" group-title="MÚSICA",Club MTV
 http://85.196.241.136:28656/udp/239.130.3.24:7051
 #EXTINF:-1 tvg-id="268dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90209_dark_360w_270h.png" group-title="MÚSICA",NickMusic - Estados Unidos
@@ -741,6 +740,8 @@ https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://149.62.177.99:8004/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="4K",Nasa TV 4K
 http://149.62.177.99:8004/play/a00t/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="4K",C4K360 4K
+http://160.19.95.104:8080/C4K360/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="4K",Clarity 4K
 https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="4K",Astro Supersport 4K
