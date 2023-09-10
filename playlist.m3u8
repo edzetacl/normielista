@@ -18,7 +18,7 @@ http://45.232.210.1:47000/play/a07d
 #EXTINF:-1 tvg-id="707dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104408_dark_360w_270h.png" group-title="NACIONALES",CNN Chile
 http://45.232.210.1:47000/play/cnnchilehd
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn-w.tvdaldia.cl/canales/t13envivo.png" group-title="NACIONALES",T13 en vivo
-https://redirector.dps.live/hls/t13/playlist.m3u8
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69306_dark_360w_270h.png" group-title="DEPORTES",TNT Sports HD
 http://45.232.210.1:47000/play/cdfhd
 #EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDQyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png" group-title="DEPORTES",TNT Sports 3
@@ -381,9 +381,11 @@ https://redirector.dps.live/hls/tvr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/TV_M%C3%A1s_2_2021.png/revision/latest?cb=20211128231238&path-prefix=es" group-title="REGIONALES",TVMas2
 https://panel.miplay.cl:8081/tvmas2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="REGIONALES",Wapp
-https://marine2.miplay.cl/wapp/playlist.m3u8
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/wapptv/wapptv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="REGIONALES",Tevex
 https://v2.tustreaming.cl/tevex/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="REGIONALES",38TV
+https://v2.tustreaming.cl:19360/38tv/38tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="REGIONALES",UChileTV
 https://redirector.dps.live/hls/uchiletv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="REGIONALES",Stgo.TV
@@ -396,6 +398,8 @@ https://pantera1-100gb-cl-movistar.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 https://redirector.dps.live/hls/tvu/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="REGIONALES",Universidad Autónoma Televisión
 https://pantera1-100gb-cl-movistar.dps.live/uatv/uatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="REGIONALES",Telecanal Talca
+https://unlimited1-cl-isp.dps.live/tctc/tctc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_c9biobio.png" group-title="REGIONALES",Canal 9 Bío-Bío Televisión
 https://redirector.dps.live/hls/c9/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="REGIONALES",ITV Patagonia
