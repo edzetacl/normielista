@@ -62,8 +62,7 @@ http://138.59.177.34:8000/play/a02t/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png" group-title="DEPORTES",ESPN Extra - México
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/37820.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25595_dark_360w_270h.png" group-title="DEPORTES",ESPN Deportes
-#EXTVLCOPT:http-user-agent=Roku/DVP(10.10.10)
-http://23.237.108.234/hls/ESPN_DEPORTES.m3u8
+http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECprsi8BPDs-03QNtDUG1JjEmpnOqxT6hHHgJ5XbkLCPhh/ts
 #EXTINF:-1 tvg-id="1604dtv.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1604.png" group-title="DEPORTES",ESPN Premium - Argentina
 http://45.186.252.17:8000/play/a07t
 #EXTINF:-1 tvg-id="603dtv.ar" tvg-logo="https://cdn-w.tvdaldia.cl/canales/tntsports.png" group-title="DEPORTES",TNT Sports - Argentina
@@ -142,8 +141,7 @@ http://51.158.54.14:18000/Eurosport_1/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="eurosport2.es" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/eurosport_2-mediano.png" group-title="DEPORTES",Eurosport 2 - España
 http://51.158.54.14:18000/Eurosport_2/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",WWE Network
-#EXTVLCOPT:http-user-agent=Roku/DVP(10.10.10)
-http://23.237.108.234/hls/USA_WWE.m3u8
+http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpmGZ3qIdNJncojCRUK36Q7I/ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES",TUDN - México
 https://channel03.akamaized.net/hls/live/2023943/event01/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75176_dark_360w_270h.png" group-title="DEPORTES",TUDN - Estados Unidos
@@ -373,7 +371,7 @@ http://181.78.74.19:8008/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTIL",Vía X eSports
 http://177.234.247.66:8888/play/a06z/index.m3u8
 #EXTINF:-1 tvg-id="155dtv.cl" tvg-logo="https://www.camara.cl/img/logo_blanco2.png" group-title="REGIONALES",Camara de Diputados Televisión
-https://tls-cl.cdnz.cl/camara/live/playlist.m3u8
+http://190.216.162.154:8001/play/a0a4
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv.senado.cl/tvsenado/site/artic/20160901/imag/foto_0000000920160901163145.png" group-title="REGIONALES",TV Senado
 https://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd&id=0008010d-aeed-4336-a8db-9b798b418b23
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.biobiochile.cl/assets/img/bbtv_dm.png" group-title="REGIONALES",Bío-Bío TV
@@ -407,8 +405,7 @@ http://85.196.241.136:28656/udp/239.130.3.23:7051
 #EXTINF:-1 tvg-id="263dtv.cl" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/261.png" group-title="MÚSICA",MTV Live - Europa
 http://38.7.131.2:8000/play/a0ew/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49141_dark_360w_270h.png" group-title="MÚSICA",MTV Live - Estados Unidos
-#EXTVLCOPT:http-user-agent=Roku/DVP(10.10.10)
-http://23.237.108.226/hls/MTVLIVE.m3u8
+http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/7306.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65060_dark_360w_270h.png" group-title="MÚSICA",MTV 80's - Europa
 http://85.196.241.136:28656/udp/239.130.3.22:7051
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65060_dark_360w_270h.png" group-title="MÚSICA",MTV 80's - Reino Unido
@@ -484,6 +481,8 @@ http://normielista.cl:80/play/0Bu2UVekNecKvoeYhzqb9U_hmU-UTryAOBYsqtz62E1t9gbD9x
 http://190.90.251.194:8921/play/a02u/index.m3u8
 #EXTINF:-1 tvg-id="1269dtv.ar" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75978_dark_360w_270h.png" group-title="MÚSICA",Quiero Música en mi Idioma
 http://45.186.252.17:8000/play/a018
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xgF53NJ.png" group-title="MÚSICA", Trace Urban
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3294
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fridamedia.com/sites/default/files/2022-09/MIMUSICA.png" group-title="MÚSICA",MiMusica Hits
 http://204.199.113.33:15017/play/a034/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fridamedia.com/sites/default/files/2022-09/MIMUSICA.png" group-title="MÚSICA",MiMusica KPop
@@ -524,6 +523,8 @@ https://stirr.ott-channels.stingray.com/155/master.m3u8
 https://stirr.ott-channels.stingray.com/190/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://webplayer.stingray.com/res/images/logo/en/stingray_logo_vertical_dark.png" group-title="MÚSICA",Stingray Holiday Hits
 https://ott-linear-channels.stingray.com/hls/stirr/155.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png" group-title="MÚSICA",Stingray Qello
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="6047fabfce6e8e00070bcc9f" tvg-logo="https://images.pluto.tv/channels/6047fabfce6e8e00070bcc9f/colorLogoPNG.png" group-title="MÚSICA",MTV Biggest Pop
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fabfce6e8e00070bcc9f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5d3609cd6a6c78d7672f2a81" tvg-logo="https://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG.png" group-title="MÚSICA",MTV Block Party
@@ -609,7 +610,7 @@ http://181.78.74.19:8008/play/a05f/index.m3u8
 #EXTINF:-1 tvg-id="227dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s37232_dark_360w_270h.png" group-title="VARIEDADES",TL Novelas
 http://179.51.168.13:4000/play/a067
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_mega2.png" group-title="VARIEDADES",Mega 2
-http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpvrClZgRwqjNETaNvqOmtLiHPSS9LGc6-rDpiWvUGM57/ts
+https://mdstrm.com/live-stream-playlist/5eb1a2675eb08a154de1fe20.m3u8?uid=93bq86XBqyIAWh7usk98rhXiyZHHOBKC&sid=2JDyuhe5Bj91RLWofw85DBEV3doqJp5O&pid=atTzuXVwiiAWOGRfrjyYzfqqmRMz5s59&an=screen&at=web-app&av=v5.2.371&ref=https%3A%2F%2Fwww.mega.cl%2F&res=984x554&without_cookies=false&listenerid=&dnt=true&access_token=i1bTvkw9yjiOnjKgvDkpTewQDLsAP9IY9vXU9PG3lQcMdYgXkfdLzCm9AbpjReBGBz7IaWGu3Ql
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_megaficcion.png" group-title="VARIEDADES",Mega Ficción
 http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECphE465yYptMuD-eY9CjDrZzxTueTy4uTmRLQiO-lNybZ/ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_megaplus.png" group-title="VARIEDADES",Mega Plus
