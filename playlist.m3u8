@@ -842,6 +842,10 @@ https://rusach.janus.cl/playlist/stream.m3u8
 https://sonic-us.streaming-chile.com/8186/stream
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logo_Radio_Beethoven_FM.png/338px-Logo_Radio_Beethoven_FM.png" group-title="RADIOS",Radio Beethoven
 https://unlimited3-cl.dps.live/beethovenfm/gotardis/audio/now/livestream1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS",Rock In Rio 2023 - Señal 1
+http://cdn.teambr.live:80/6386006/3781192/43713
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS",Rock In Rio 2023 - Señal 2
+http://199.127.60.83:14716
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS",Eliminatorias CONMEBOL 2026 - Caracol TV Colombia
 http://181.78.22.70:8000/play/a03u/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS",Eliminatorias CONMEBOL 2026 - RCN Colombia
