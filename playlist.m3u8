@@ -856,7 +856,7 @@ http://181.78.22.70:8000/play/a03u/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS",Eliminatorias CONMEBOL 2026 - RCN Colombia
 http://190.60.40.37:12500/play/a06k/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS",Eliminatorias CONMEBOL 2026 - América TV Perú
-http://177.53.153.21:8001/play/a03w/index.m3u8
+http://190.216.162.154:8001/play/a029
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS",Eliminatorias CONMEBOL 2026 - ATV Perú
 http://190.216.162.154:8001/play/a09f
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS",Eliminatorias CONMEBOL 2026 - Movistar Deportes Perú
