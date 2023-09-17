@@ -90,7 +90,7 @@ http://45.186.252.17:8000/play/a023
 #EXTINF:-1 tvg-id="607dtv.ar" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47374_dark_360w_270h.png" group-title="DEPORTES",Fox Sports 3 - Argentina
 http://45.186.252.17:8000/play/a01e
 #EXTINF:-1 tvg-id="fox-sports.mx" tvg-logo="https://i.imgur.com/TJsHUSM.png" group-title="DEPORTES",Fox Sports - México
-http://135.148.40.31:18000/FOX_SPORTS_AM_NORTH_PREM_MEX_HD/hls/playlist.m3u8
+http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpi0JVtv1Y2yQwK3HIvTJNW0/ts
 #EXTINF:-1 tvg-id="fox-sports-2.mx" tvg-logo="https://i.imgur.com/yedU8Gq.png" group-title="DEPORTES",Fox Sports 2 - México
 http://190.61.80.102:4000/play/a0dv/index.m3u8
 #EXTINF:-1 tvg-id="fox-sports-3.mx" tvg-logo="https://i.imgur.com/GvWFYrE.png" group-title="DEPORTES",Fox Sports 3 - México
@@ -155,7 +155,7 @@ http://181.78.105.146:2000/play/a08m/index.m3u8
 #EXTINF:-1 tvg-id="604dtv.pe" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61033_dark_360w_270h.png" group-title="DEPORTES",Golf Channel
 http://177.53.153.21:8001/play/a06m/index.m3u8
 #EXTINF:-1 tvg-id="beinsportsspanish.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76943_dark_360w_270h.png" group-title="DEPORTES",beIN Sports en Español
-http://168.228.193.214:58005/play/a05m
+http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECph4UphhaRxek7_D7siMiWxWuvEsZPIAIbT1s_oKKrhpd/ts
 #EXTINF:-1 tvg-id="beinx-es1.us" tvg-logo="https://i.imgur.com/laikTq4.png" group-title="DEPORTES",beIN Sports Xtra en Español
 https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="604dtv.pe" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/604.png" group-title="DEPORTES",Liga 1 Max - Perú
@@ -249,7 +249,7 @@ http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpux_B2T9uHHxt8lqKIguREL
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/panico-mediano.png" group-title="CINE Y SERIES",Panico HD
 http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpvHx0M1cpPaD34X10jS2VcHRQ-MzTgR-5EHxgym9hG1j/ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fridamedia.com/sites/default/files/2022-09/Morbido.png" group-title="CINE Y SERIES",Morbido TV
-https://otthca.cdn.iutpcdn.com/bpk-tv/tp11140/clear/index.m3u8
+http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpvKq0g5gW_WpL2VswcHERq1VnkdMHmYq_WLAPzXzi4_1/ts
 #EXTINF:-1 tvg-id="de-pelicula.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16288_dark_360w_270h.png" group-title="CINE Y SERIES",De Pelicula
 http://190.216.162.154:8001/play/a073
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s95687_dark_360w_270h.png" group-title="CINE Y SERIES",AZ Cinema
@@ -261,7 +261,7 @@ http://160.20.165.246:8000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="503dtv.cl" tvg-logo="https://i.imgur.com/fqkinet.png" group-title="CINE Y SERIES",Golden
 http://181.119.66.30:8000/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="517dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16423_dark_360w_270h.png" group-title="CINE Y SERIES",Golden Edge
-http://181.119.66.30:8000/play/a003/index.m3u8
+http://45.4.3.75:8005/play/a06o
 #EXTINF:-1 tvg-id="1503dtv.cl" tvg-logo="https://i.imgur.com/k7uCDly.png" group-title="CINE Y SERIES",Golden Plus
 http://45.232.210.1:47000/play/goldenhd
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier-mediano.png" group-title="CINE Y SERIES",Golden Premiere
@@ -345,7 +345,7 @@ http://190.149.66.90:4000/play/a028/index.m3u8
 #EXTINF:-1 tvg-id="304dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26089_dark_360w_270h.png" group-title="INFANTIL",Cartoonito
 http://45.177.53.7:8000/play/a0c7/index.m3u8
 #EXTINF:-1 tvg-id="146dtv.cl" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/NTV2x.png" group-title="INFANTIL",NTV
-http://179.51.168.13:4000/play/a03o
+http://45.4.3.75:7700/play/a010
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fridamedia.com/sites/default/files/2023-05/Logo%20Canal%20Infantil%20pequen%CC%83o.png" group-title="INFANTIL",Canal Infantil
 http://179.189.222.226:8000/play/ch06
 #EXTINF:-1 tvg-id="850mvstr.cl" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_etc.png" group-title="INFANTIL",ETC
@@ -704,7 +704,7 @@ https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e
 #EXTINF:-1 tvg-id="720dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s103103_dark_360w_270h.png" group-title="MUNDOS",Canal 26 - Argentina
 http://45.186.252.17:8000/play/a04a
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50335_dark_360w_270h.png" group-title="MUNDOS",Perú Magico
-http://191.98.179.21:50000/play/a03k/index.m3u8
+http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpjsQINobUq3BjHYDatD-31E/ts
 #EXTINF:-1 tvg-id="135dtv.co" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/135.png" group-title="MUNDOS", RCN Nuestra Tele
 http://181.78.74.19:8008/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="134dtv.co" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/134.png" group-title="MUNDOS", Caracol Internacional
@@ -896,18 +896,12 @@ http://177.53.153.21:8001/play/a01p/index.m3u8
 http://45.166.92.22:58001/play/a04c/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ADULTOS" parent-code="1190",VividRed
 http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/9624.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ADULTOS" parent-code="1190",Evil Angel
-http://93.155.227.38:90/m3u8/hustler.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ADULTOS" parent-code="1190",Eroxxx
 http://91.233.215.250:7272/urYgd52Dcxp47Ge
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45498_dark_360w_270h.png" group-title="ADULTOS" parent-code="1190",Hustler
 http://149.62.183.194:9293/play/a07v
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ADULTOS" parent-code="1190",Xviven
 http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/9632.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ADULTOS" parent-code="1190",XY Plus
-http://93.155.227.38:90/m3u8/xxl.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ADULTOS" parent-code="1190",PinkoClub
-http://93.155.227.38:90/m3u8/private.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ADULTOS" parent-code="1190",Vixen
 http://149.62.183.194:9293/play/a088
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16790_dark_360w_270h.png" group-title="ADULTOS" parent-code="1190",Brazzers TV Europe
