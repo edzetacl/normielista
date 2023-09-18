@@ -779,7 +779,7 @@ https://mdstrm.com/audio/639b78f7ff35df084fa7f964/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/Logo_Play_Sitios_1.png" group-title="RADIOS",Play FM
 https://mdstrm.com/audio/5c8d6406f98fbf269f57c82c/icecast.audio
 #EXTINF:-1 tvg-id="" tvg-logo="https://envivo.fmdos.cl/build/assets/fmdos/img/logo.png" group-title="RADIOS",FM Dos
-https://26523.live.streamtheworld.com/FMDOS_SC
+https://26573.live.streamtheworld.com/FMDOS_SC
 #EXTINF:-1 tvg-id="" tvg-logo="https://envivo.radioimagina.cl/build/assets/radioimaginachile/img/logo.png" group-title="RADIOS",Radio Imagina
 https://24253.live.streamtheworld.com/IMAGINA_SC
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wixstatic.com/media/821b81_98082dfb78b848d8bd2ce3f3a60e551d~mv2.png/v1/fill/w_289,h_244,al_c,lg_1,q_85,enc_auto/logo%20estilo.png" group-title="RADIOS",Estilo FM
@@ -801,7 +801,7 @@ https://hls-audio-cl-1-isp.dps.live/duna/gotardis/audio/now/livestream1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/13C-Radio2x.png" group-title="RADIOS",13C Radio
 https://mdstrm.com/audio/5c915497c6fd7c085b29169d/icecast.audio
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Rock_%26_Pop_logo_2013.svg/1920px-Rock_%26_Pop_logo_2013.svg.png" group-title="RADIOS",Rock & Pop
-https://26523.live.streamtheworld.com/ROCK_AND_POP_SC
+https://22823.live.streamtheworld.com/ROCK_AND_POP_SC
 #EXTINF:-1 tvg-id="" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/Radio-Infinita2x.png" group-title="RADIOS",Infinita
 https://mdstrm.com/audio/639b791cea22540890cd1d8b/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.digitalfm.cl/wp-content/themes/digitalfm/assets/images/logo-digital-fm.png" group-title="RADIOS",Digital FM
