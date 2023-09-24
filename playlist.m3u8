@@ -618,7 +618,7 @@ http://177.53.153.21:8001/play/a0au/index.m3u8
 #EXTINF:-1 tvg-id="892mvstr.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s112558_dark_360w_270h.png" group-title="VARIEDADES",Kanal D Drama
 http://45.184.85.9:1080/play/a0fr
 #EXTINF:-1 tvg-id="235dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97002_dark_360w_270h.png" group-title="VARIEDADES",IVC
-http://179.1.48.62:4000/play/a00r/index.m3u8
+http://45.4.3.75:8005/play/a07o
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106724_dark_360w_270h.png" group-title="VARIEDADES",Star TVE
 http://138.59.177.34:8000/play/a03a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s82162_dark_360w_270h.png" group-title="VARIEDADES",Inti Network
