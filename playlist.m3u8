@@ -729,14 +729,10 @@ https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECprUkJCXFPUUJWwbUGyXfN48qKwNwaZujWVXkl4_jh2CN/ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="4K",UltraSport 4K
 http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpmlnv_PaORCfv4rWt3fpj3AnZqvuT4FQUi03ieLbUgH5/ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="4K",SportTV 4K
-http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpsyD__5YbzWICpcmRwLReWPOB04hhRY93dDXYGEBP7Bv/ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="4K",Canal+ 4K
 http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpsyD__5YbzWICpcmRwLReWOqiKZmKaMgdht25BUGPskT/ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="4K",Jazz TV 4K
 http://194.145.202.71:8087/udp/239.254.1.254:6060
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="4K",Extasy TV (XXX) 4K
-http://194.145.202.71:8087/udp/239.254.4.197:6060
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="4K",Fashion TV 4K
 http://194.145.202.71:8087/udp/239.254.1.151:6060
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="4K",Fashion & Style TV 4K
@@ -928,5 +924,7 @@ http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/2058.ts
 http://cdn-global.lolokoko.tv/DorcelTV.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ADULTOS" parent-code="1190",XXL
 http://cdn-global.lolokoko.tv/xxl.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ADULTOS" parent-code="1190",Extasy TV (XXX) 4K
+http://194.145.202.71:8087/udp/239.254.4.197:6060
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESTRENOS DEL CINE",Transformers: el despertar de las bestias (2023)
 http://smartersplayer.live:8080/play/GGuw3JqF7OvU6a0tmmhUrxa7ZyyUwVWhtj0Yh5sio-wvkRItMzfwyS-CJVDJhYS2
