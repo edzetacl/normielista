@@ -358,7 +358,7 @@ http://190.149.66.90:4000/play/a028/index.m3u8
 #EXTINF:-1 tvg-id="304dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26089_dark_360w_270h.png" group-title="INFANTIL",Cartoonito
 http://45.177.53.7:8000/play/a0c7/index.m3u8
 #EXTINF:-1 tvg-id="146dtv.cl" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/NTV2x.png" group-title="INFANTIL",NTV
-http://45.4.3.75:7700/play/a010
+http://45.238.21.84:8000/play/a07b
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fridamedia.com/sites/default/files/2023-05/Logo%20Canal%20Infantil%20pequen%CC%83o.png" group-title="INFANTIL",Canal Infantil
 http://179.189.222.226:8000/play/ch06
 #EXTINF:-1 tvg-id="850mvstr.cl" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_etc.png" group-title="INFANTIL",ETC
@@ -370,7 +370,7 @@ http://45.228.234.77:3340/play/bitme/index.m3u8
 #EXTINF:-1 tvg-id="310dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77783_dark_360w_270h.png" group-title="INFANTIL",TeenNick
 http://177.53.153.21:8001/play/a068/index.m3u8
 #EXTINF:-1 tvg-id="tooncast.ar" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63109_dark_360w_270h.png" group-title="INFANTIL",Tooncast
-http://181.78.74.19:8008/play/a004/index.m3u8
+http://45.4.3.75:8005/play/a09e
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTIL",Vía X eSports
 http://177.234.247.66:8888/play/a06z/index.m3u8
 #EXTINF:-1 tvg-id="155dtv.cl" tvg-logo="https://www.camara.cl/img/logo_blanco2.png" group-title="REGIONALES",Camara de Diputados Televisión
@@ -571,7 +571,7 @@ http://45.232.210.1:47000/play/a0al
 #EXTINF:-1 tvg-id="221dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82970_dark_360w_270h.png" group-title="VARIEDADES",¡Hola TV!
 http://177.53.153.21:8001/play/a02a/index.m3u8
 #EXTINF:-1 tvg-id="864mvstr.co" tvg-logo="https://i.imgur.com/TGew5fX.png" group-title="VARIEDADES",TNT Novelas
-http://45.4.3.75:7700/play/a01z
+http://45.238.21.84:8000/play/a0b8
 #EXTINF:-1 tvg-id="222dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30259_dark_360w_270h.png" group-title="VARIEDADES",E!
 http://45.232.210.1:47000/play/a0ff
 #EXTINF:-1 tvg-id="223dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25743_dark_360w_270h.png" group-title="VARIEDADES",Investigation Discovery
@@ -597,7 +597,7 @@ http://45.232.210.1:47000/play/pasioneshd
 #EXTINF:-1 tvg-id="220dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16496_dark_360w_270h.png" group-title="VARIEDADES",TruTV
 http://45.232.210.1:47000/play/a073
 #EXTINF:-1 tvg-id="224dtvc." tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61514_dark_360w_270h.png" group-title="VARIEDADES",Glitz
-http://181.78.74.19:8008/play/a05f/index.m3u8
+http://45.4.3.75:8005/play/a06c
 #EXTINF:-1 tvg-id="227dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s37232_dark_360w_270h.png" group-title="VARIEDADES",TL Novelas
 http://179.1.48.62:4000/play/a01l/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_mega2.png" group-title="VARIEDADES",Mega 2
@@ -719,7 +719,7 @@ http://45.186.252.17:8000/play/a0a0
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50335_dark_360w_270h.png" group-title="MUNDOS",Perú Magico
 http://187.102.209.92:9010/play/a05t/index.m3u8
 #EXTINF:-1 tvg-id="135dtv.co" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/135.png" group-title="MUNDOS", RCN Nuestra Tele
-http://181.78.74.19:8008/play/a007/index.m3u8
+http://45.4.3.75:8005/play/a08l
 #EXTINF:-1 tvg-id="134dtv.co" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/134.png" group-title="MUNDOS", Caracol Internacional
 http://160.20.165.246:8000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rai_4K_-_Logo_2017.svg/512px-Rai_4K_-_Logo_2017.svg.png?20210819195121" group-title="4K",Rai 4K
