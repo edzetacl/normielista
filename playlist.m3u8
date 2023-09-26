@@ -256,7 +256,7 @@ http://179.189.222.226:8000/play/ch51
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fridamedia.com/sites/default/files/2022-09/Cine%20Premium.png" group-title="CINE Y SERIES",Cine Premium
 http://179.189.222.226:8000/play/ch49
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18329_dark_360w_270h.png" group-title="CINE Y SERIES",MC
-http://160.20.165.246:8000/play/a00a/index.m3u8
+http://138.59.177.34:8000/play/a04f/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDM4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png" group-title="CINE Y SERIES", TV Cortos
 http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpux_B2T9uHHxt8lqKIguRELGzoSasLW3B-f7apB9X9KG/ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/panico-mediano.png" group-title="CINE Y SERIES",Panico HD
@@ -270,7 +270,7 @@ http://177.53.153.21:8001/play/a03h/index.m3u8
 #EXTINF:-1 tvg-id="514dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15296_dark_360w_270h.png" group-title="CINE Y SERIES",Cine Latino
 http://45.228.232.205:16000/play/a07b/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Multipremier" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18169_dark_360w_270h.png" group-title="CINE Y SERIES",Multipremier
-http://160.20.165.246:8000/play/a00b/index.m3u8
+http://138.59.177.34:8000/play/a06o/index.m3u8
 #EXTINF:-1 tvg-id="503dtv.cl" tvg-logo="https://i.imgur.com/fqkinet.png" group-title="CINE Y SERIES",Golden
 http://181.119.66.30:8000/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="517dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16423_dark_360w_270h.png" group-title="CINE Y SERIES",Golden Edge
@@ -308,7 +308,7 @@ http://209.45.81.84:8000/play/a00k
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68134_dark_360w_270h.png" group-title="HBO PREMIUM",HBO Pop Oeste
 http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECprCCIYkRcwuvsWloTmLSudBU5Ex41Fh-9PTf8IA0DBQU/ts
 #EXTINF:-1 tvg-id="540dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70081_dark_360w_270h.png" group-title="HBO PREMIUM",HBO Mundi Este
-http://45.4.3.75:8005/play/a094
+http://157.100.233.109:8000/play/a05z/index.m3u8
 #EXTINF:-1 tvg-id="hbo-mundi.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70081_dark_360w_270h.png" group-title="HBO PREMIUM",HBO Mundi Oeste
 http://187.188.232.236:1020/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="571dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121866_dark_360w_270h.png" group-title="UNIVERSAL PLUS",Universal Premiere Este
@@ -370,7 +370,7 @@ http://45.228.234.77:3340/play/bitme/index.m3u8
 #EXTINF:-1 tvg-id="310dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77783_dark_360w_270h.png" group-title="INFANTIL",TeenNick
 http://177.53.153.21:8001/play/a068/index.m3u8
 #EXTINF:-1 tvg-id="tooncast.ar" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63109_dark_360w_270h.png" group-title="INFANTIL",Tooncast
-http://45.4.3.75:8005/play/a09e
+http://157.100.233.109:8000/play/a06d/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTIL",Vía X eSports
 http://177.234.247.66:8888/play/a06z/index.m3u8
 #EXTINF:-1 tvg-id="155dtv.cl" tvg-logo="https://www.camara.cl/img/logo_blanco2.png" group-title="REGIONALES",Camara de Diputados Televisión
@@ -597,7 +597,7 @@ http://45.232.210.1:47000/play/pasioneshd
 #EXTINF:-1 tvg-id="220dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16496_dark_360w_270h.png" group-title="VARIEDADES",TruTV
 http://45.232.210.1:47000/play/a073
 #EXTINF:-1 tvg-id="224dtvc." tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61514_dark_360w_270h.png" group-title="VARIEDADES",Glitz
-http://45.4.3.75:8005/play/a06c
+http://157.100.233.109:8000/play/a02k/index.m3u8
 #EXTINF:-1 tvg-id="227dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s37232_dark_360w_270h.png" group-title="VARIEDADES",TL Novelas
 http://179.1.48.62:4000/play/a01l/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_mega2.png" group-title="VARIEDADES",Mega 2
@@ -627,7 +627,7 @@ http://177.53.153.21:8001/play/a0au/index.m3u8
 #EXTINF:-1 tvg-id="892mvstr.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s112558_dark_360w_270h.png" group-title="VARIEDADES",Kanal D Drama
 http://45.184.85.9:1080/play/a0fr
 #EXTINF:-1 tvg-id="235dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97002_dark_360w_270h.png" group-title="VARIEDADES",IVC
-http://45.4.3.75:8005/play/a07o
+http://157.100.233.109:8000/play/a03u/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106724_dark_360w_270h.png" group-title="VARIEDADES",Star TVE
 http://138.59.177.34:8000/play/a03a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s82162_dark_360w_270h.png" group-title="VARIEDADES",Inti Network
@@ -677,7 +677,7 @@ http://45.186.252.17:8000/play/a09i
 #EXTINF:-1 tvg-id="718dtv.ar" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16258_dark_360w_270h.png" group-title="MUNDOS",Crónica TV
 http://45.5.151.151:8000/play/a055/index.m3u8
 #EXTINF:-1 tvg-id="766dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75785_dark_360w_270h.png" group-title="MUNDOS",RAI Italia
-http://45.4.3.75:8005/play/a09m
+http://157.100.233.109:8000/play/a06k/index.m3u8
 #EXTINF:-1 tvg-id="762dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91176_dark_360w_270h.png" group-title="MUNDOS",Antena 3 Internacional
 http://160.20.165.246:8000/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44479_dark_360w_270h.png" group-title="MUNDOS",CGTN Español
@@ -719,7 +719,7 @@ http://45.186.252.17:8000/play/a0a0
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50335_dark_360w_270h.png" group-title="MUNDOS",Perú Magico
 http://187.102.209.92:9010/play/a05t/index.m3u8
 #EXTINF:-1 tvg-id="135dtv.co" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/135.png" group-title="MUNDOS", RCN Nuestra Tele
-http://45.4.3.75:8005/play/a08l
+http://157.100.233.109:8000/play/a05h/index.m3u8
 #EXTINF:-1 tvg-id="134dtv.co" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/134.png" group-title="MUNDOS", Caracol Internacional
 http://160.20.165.246:8000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rai_4K_-_Logo_2017.svg/512px-Rai_4K_-_Logo_2017.svg.png?20210819195121" group-title="4K",Rai 4K
@@ -855,7 +855,7 @@ http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpsueycSTcrHQsbzh3tExCLA
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS",Eliminatorias CONMEBOL 2026 - El Canal del Fútbol Ecuador
 http://190.216.162.154:8001/play/a02d
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS",Eliminatorias CONMEBOL 2026 - Venevisión Venezuela
-http://45.4.3.75:8005/play/a06t
+http://157.100.233.109:8000/play/a032/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS",Eliminatorias CONMEBOL 2026 - Televen Venezuela
 http://45.71.252.67:8000/play/a0ny/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Star%2B_logo.svg/2560px-Star%2B_logo.svg.png" group-title="EVENTOS",Star+ 1
