@@ -21,8 +21,10 @@ http://45.184.85.9:1080/play/a0bb
 http://45.232.210.1:47000/play/a07d
 #EXTINF:-1 tvg-id="707dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104408_dark_360w_270h.png" group-title="NACIONALES",CNN Chile
 http://45.232.210.1:47000/play/cnnchilehd
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-w.tvdaldia.cl/canales/t13envivo.png" group-title="NACIONALES",T13 en vivo
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NACIONALES",CHV Noticias - PlutoTV
 https://redirector.dps.live/hls/t13/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-w.tvdaldia.cl/canales/t13envivo.png" group-title="NACIONALES",T13 en vivo
+http://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69306_dark_360w_270h.png" group-title="DEPORTES",TNT Sports HD
 http://45.232.210.1:47000/play/cdfhd
 #EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDQyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png" group-title="DEPORTES",TNT Sports 3
