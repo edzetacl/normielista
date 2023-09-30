@@ -4,7 +4,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/645505747cb4b10008492e
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Tierra_Brava_Canal_13_2023_2.png/revision/latest?cb=20230810021819&path-prefix=es" group-title="NACIONALES",Tierra Brava 24/7
 https://jireh-3-hls-video-cl-movistar.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/tierrabrava/tierrabrava.smil/tierrabrava/livestream2/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/telecanal-blanco2x.png" group-title="NACIONALES",Telecanal
-http://157.100.233.109:8000/play/a03s/index.m3u8
+http://45.184.85.9:1080/play/a0bu
 #EXTINF:-1 tvg-id="lared.cl" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/la-red-blanco2x.png" group-title="NACIONALES",La Red
 http://45.184.85.9:1080/play/a0bj
 #EXTINF:-1 tvg-id="tvmas.cl" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/tv-blanco2x.png" group-title="NACIONALES",TV+
@@ -922,6 +922,6 @@ http://194.145.202.71:8087/udp/239.254.4.197:6060
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESTRENOS DEL CINE",Transformers: el despertar de las bestias (2023)
 http://smartersplayer.live:8080/play/GGuw3JqF7OvU6a0tmmhUrxa7ZyyUwVWhtj0Yh5sio-wvkRItMzfwyS-CJVDJhYS2
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESTRENOS DEL CINE",Barbie (2023)
-http://smartersplayer.live:8080/play/GGuw3JqF7OvU6a0tmmhUr7eyC27Fw9mOg6MO_ej0eIJlIgpCFLzyEuoRCG_fmSZ0
+http://smartersplayer.live:8080/play/GGuw3JqF7OvU6a0tmmhUr7LkZJ0HKWGHakshVlni6Ni5u_pgIz3d2SLK6_O-Wt02
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESTRENOS DEL CINE",Megalodon 2: el gran abismo (2023)
 http://smartersplayer.live:8080/play/GGuw3JqF7OvU6a0tmmhUry8y3ItpkXCmuuL_5R_pYk4lbXGP6MoJoaRnwuYpqrHt
