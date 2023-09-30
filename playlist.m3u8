@@ -70,7 +70,7 @@ http://154.94.0.221:4444/play/a0kf/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25595_dark_360w_270h.png" group-title="DEPORTES",ESPN Deportes
 http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECprsi8BPDs-03QNtDUG1JjEmpnOqxT6hHHgJ5XbkLCPhh/ts
 #EXTINF:-1 tvg-id="1604dtv.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1604.png" group-title="DEPORTES",ESPN Premium - Argentina
-http://45.5.151.151:8000/play/a001/index.m3u8
+http://45.186.252.17:8000/play/a0bu
 #EXTINF:-1 tvg-id="603dtv.ar" tvg-logo="https://cdn-w.tvdaldia.cl/canales/tntsports.png" group-title="DEPORTES",TNT Sports - Argentina
 http://45.186.252.17:8000/play/a0aw
 #EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="DEPORTES",DSports - Perú
