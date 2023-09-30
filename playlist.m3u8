@@ -74,7 +74,7 @@ http://45.5.151.151:8000/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="603dtv.ar" tvg-logo="https://cdn-w.tvdaldia.cl/canales/tntsports.png" group-title="DEPORTES",TNT Sports - Argentina
 http://45.186.252.17:8000/play/a0aw
 #EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="DEPORTES",DSports - Perú
-http://209.45.81.84:8000/play/a03d
+http://161.132.243.192:50001/play/a03o/index.m3u8
 #EXTINF:-1 tvg-id="610dtv.ar" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="DEPORTES",DSports - Argentina
 
 #EXTINF:-1 tvg-id="610dtv.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="DEPORTES",DSports - Chile
@@ -138,7 +138,7 @@ http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECprYFZCGJRHxk51vAFrOcYbq
 http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/7839.ts
 #EXTINF:-1 tvg-id="eurosport1.es" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/eurosport_1-mediano.png" group-title="DEPORTES",Eurosport 1 - España
 http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECprGn-BXz03DIAbsmFMWcwMo/ts
-#EXTINF:-1 tvg-id="eurosport2.es" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/eurosport_2-mediano.png" group-title="DEPORTES",Eurosport 2 - España [MPD]
+#EXTINF:-1 tvg-id="eurosport2.es" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/eurosport_2-mediano.png" group-title="DEPORTES",Eurosport 2 - España
 http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/7988.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",WWE Network
 http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpmGZ3qIdNJncojCRUK36Q7I/ts
@@ -157,7 +157,7 @@ http://168.228.193.214:58005/play/a05m
 #EXTINF:-1 tvg-id="beinx-es1.us" tvg-logo="https://i.imgur.com/laikTq4.png" group-title="DEPORTES",beIN Sports Xtra en Español
 https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="604dtv.pe" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/604.png" group-title="DEPORTES",Liga 1 Max - Perú
-http://209.45.81.84:8000/play/a00c
+http://161.132.243.192:50001/play/a03y/index.m3u8
 #EXTINF:-1 tvg-id="11mvstr.pe" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/55/7553955_D7D9A30FB187AF45.png" group-title="DEPORTES",Gol Perú
 http://177.53.153.21:8001/play/a03z/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",Win Sports +
