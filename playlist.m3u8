@@ -4,7 +4,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/645505747cb4b10008492e
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Tierra_Brava_Canal_13_2023_2.png/revision/latest?cb=20230810021819&path-prefix=es" group-title="NACIONALES",Tierra Brava 24/7
 https://jireh-3-hls-video-cl-movistar.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/tierrabrava/tierrabrava.smil/tierrabrava/livestream2/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/telecanal-blanco2x.png" group-title="NACIONALES",Telecanal
-http://45.184.85.9:1080/play/a0bu
+http://157.100.233.109:8000/play/a03s/index.m3u8
 #EXTINF:-1 tvg-id="lared.cl" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/la-red-blanco2x.png" group-title="NACIONALES",La Red
 http://45.184.85.9:1080/play/a0bj
 #EXTINF:-1 tvg-id="tvmas.cl" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/tv-blanco2x.png" group-title="NACIONALES",TV+
@@ -21,9 +21,9 @@ http://45.184.85.9:1080/play/a0bb
 http://45.232.210.1:47000/play/a07d
 #EXTINF:-1 tvg-id="707dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104408_dark_360w_270h.png" group-title="NACIONALES",CNN Chile
 http://45.232.210.1:47000/play/cnnchilehd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NACIONALES",CHV Noticias - PlutoTV
-https://redirector.dps.live/hls/t13/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn-w.tvdaldia.cl/canales/t13envivo.png" group-title="NACIONALES",T13 en vivo
+https://redirector.dps.live/hls/t13/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NACIONALES",CHV Noticias - PlutoTV
 http://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69306_dark_360w_270h.png" group-title="DEPORTES",TNT Sports HD
 http://45.232.210.1:47000/play/cdfhd
@@ -40,13 +40,13 @@ http://190.216.162.154:8001/play/a026
 #EXTINF:-1 tvg-id="espn-2.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="DEPORTES",ESPN - Centroamérica
 http://138.59.177.34:8000/play/a070/index.m3u8
 #EXTINF:-1 tvg-id="431dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="DEPORTES",ESPN 2 - Chile
-http://190.216.162.154:8001/play/a00h
+http://190.216.162.154:8001/play/a00y
 #EXTINF:-1 tvg-id="622dtv.pe" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="DEPORTES",ESPN 2 - Perú
 http://45.232.210.1:47000/play/a06j
 #EXTINF:-1 tvg-id="622dtv.ar" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="DEPORTES",ESPN 2 - Argentina
 http://45.186.252.17:8000/play/a09j
 #EXTINF:-1 tvg-id="622dtv.co" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="DEPORTES",ESPN 2 - Colombia
-http://190.216.162.154:8001/play/a00y
+http://190.216.162.154:8001/play/a00k
 #EXTINF:-1 tvg-id="espn.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="DEPORTES",ESPN 2 - Centroamérica
 http://138.59.177.34:8000/play/a072/index.m3u8
 #EXTINF:-1 tvg-id="1075dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png" group-title="DEPORTES",ESPN 3 - Sudamérica
@@ -476,7 +476,7 @@ http://160.20.165.246:8000/play/a01b/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/Radio-Carolina2x.png" group-title="MÚSICA",Carolina TV
 https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/Radio-Carolina2x.png" group-title="MÚSICA",Carolina TV 2
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/carolinatv2/carolinatv2.smil/playlist.m3u8
+https://redirector.dps.live/hls/carolinatv2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://webplayer.stingray.com/res/images/logo/en/stingray_logo_vertical_dark.png" group-title="MÚSICA",Stingray Alternative
 https://stirr.ott-channels.stingray.com/102/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://webplayer.stingray.com/res/images/logo/en/stingray_logo_vertical_dark.png" group-title="MÚSICA",Stingray Classic Rock
