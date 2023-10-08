@@ -2,17 +2,17 @@
 #EXTINF:-1 tvg-id="645505747cb4b10008492e03" tvg-logo="https://images.pluto.tv/channels/647f7f8d8e3c0a0008d552cb/colorLogoPNG.png" group-title="NACIONALES",Gran Hermano Chile
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/645505747cb4b10008492e03/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Tierra_Brava_Canal_13_2023_2.png/revision/latest?cb=20230810021819&path-prefix=es" group-title="NACIONALES",Tierra Brava 24/7
-https://dai.google.com/linear/hls/pa/event/g7_JOM0ORki9SR5RKHe-Kw/stream/d6236513-82fe-47eb-87d0-447151624f45:SCL/variant/ee030f6e0daa395df9088ec4eaf454d1/bandwidth/1424506.m3u8
+http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpoyy0BIOjhDaE6kLSZQE4xwZDcvoi7FFZ71nc_tY5Krl/ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/telecanal-blanco2x.png" group-title="NACIONALES",Telecanal
-http://45.184.85.9:1080/play/a0bu
+http://181.78.8.133:8010/play/a00z/index.m3u8
 #EXTINF:-1 tvg-id="lared.cl" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/la-red-blanco2x.png" group-title="NACIONALES",La Red
-http://45.184.85.9:1080/play/a0bj
+http://186.67.73.110:2274/play/a00c
 #EXTINF:-1 tvg-id="tvmas.cl" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/tv-blanco2x.png" group-title="NACIONALES",TV+
-http://45.184.85.9:1080/play/a0bm
+http://186.67.73.110:2274/play/a012
 #EXTINF:-1 tvg-id="149dtv.cl" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/tvn-blanco2x.png" group-title="NACIONALES",TVN
-http://45.184.85.9:1080/play/a0kb
+http://186.67.73.110:2274/play/a00f
 #EXTINF:-1 tvg-id="mega.cl" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/mega-blanco2x.png" group-title="NACIONALES",Mega
-http://45.184.85.9:1080/play/a0fg
+http://186.67.73.110:2274/play/a013
 #EXTINF:-1 tvg-id="chv.cl" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/chilevision-blanco2x.png" group-title="NACIONALES",Chilevisión
 http://186.67.73.110:2274/play/a00g
 #EXTINF:-1 tvg-id="152dtv.cl" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/13-blanco2x.png" group-title="NACIONALES",Canal 13
