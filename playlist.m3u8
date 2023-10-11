@@ -4,20 +4,19 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/645505747cb4b10008492e
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Tierra_Brava_Canal_13_2023_2.png/revision/latest?cb=20230810021819&path-prefix=es" group-title="NACIONALES",Tierra Brava 24/7
 http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpoyy0BIOjhDaE6kLSZQE4xwZDcvoi7FFZ71nc_tY5Krl/ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/telecanal-blanco2x.png" group-title="NACIONALES",Telecanal
-http://45.184.85.2:1080/play/a0bu
-#http://181.78.8.133:8010/play/a00z/index.m3u8
+http://181.78.8.133:8010/play/a00z/index.m3u8
 #EXTINF:-1 tvg-id="lared.cl" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/la-red-blanco2x.png" group-title="NACIONALES",La Red
 http://45.232.210.1:47000/play/laredhd
 #EXTINF:-1 tvg-id="tvmas.cl" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/tv-blanco2x.png" group-title="NACIONALES",TV+
-http://45.184.85.2:1080/play/a0bm
+http://45.238.21.84:8000/play/a07c
 #EXTINF:-1 tvg-id="149dtv.cl" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/tvn-blanco2x.png" group-title="NACIONALES",TVN
-http://45.184.85.2:1080/play/a0kb
+http://45.238.21.84:8000/play/a0b5
 #EXTINF:-1 tvg-id="mega.cl" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/mega-blanco2x.png" group-title="NACIONALES",Mega
-http://45.184.85.2:1080/play/a0n3
+http://45.238.21.84:8000/play/a0b3
 #EXTINF:-1 tvg-id="chv.cl" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/chilevision-blanco2x.png" group-title="NACIONALES",Chilevisión
-http://45.184.85.2:1080/play/a0dr
+http://45.238.21.84:8000/play/a06g
 #EXTINF:-1 tvg-id="152dtv.cl" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/13-blanco2x.png" group-title="NACIONALES",Canal 13
-http://45.184.85.2:1080/play/a0n4
+http://45.238.21.84:8000/play/a0f7
 #EXTINF:-1 tvg-id="24horas.cl" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/Canal-24-Horas2x.png" group-title="NACIONALES",Canal 24 Horas
 http://45.232.210.1:47000/play/a07d
 #EXTINF:-1 tvg-id="707dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104408_dark_360w_270h.png" group-title="NACIONALES",CNN Chile
