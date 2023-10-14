@@ -62,11 +62,11 @@ http://138.59.177.34:8000/play/a06v/index.m3u8
 #EXTINF:-1 tvg-id="624dtv.co" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png" group-title="DEPORTES",ESPN Extra - Sudamérica
 http://45.232.210.1:47000/play/a05e
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png" group-title="DEPORTES",ESPN Extra - Centroamérica
-http://138.59.177.34:8000/play/a02t/index.m3u8
+http://168.228.194.32:48091/play/a05i/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png" group-title="DEPORTES",ESPN Extra - México
-http://154.94.0.221:4444/play/a0kf/index.m3u8
+http://187.251.240.25:1099/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25595_dark_360w_270h.png" group-title="DEPORTES",ESPN Deportes
-http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECprsi8BPDs-03QNtDUG1JjEmpnOqxT6hHHgJ5XbkLCPhh/ts
+https://edzetacl.cloud/stream/tlat/161.m3u8
 #EXTINF:-1 tvg-id="1604dtv.ar" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1604.png" group-title="DEPORTES",ESPN Premium - Argentina
 http://45.186.252.17:8000/play/a0bu
 #EXTINF:-1 tvg-id="603dtv.ar" tvg-logo="https://cdn-w.tvdaldia.cl/canales/tntsports.png" group-title="DEPORTES",TNT Sports - Argentina
@@ -92,9 +92,9 @@ http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpi0JVtv1Y2yQwK3HIvTJNW0
 #EXTINF:-1 tvg-id="fox-sports-2.mx" tvg-logo="https://i.imgur.com/yedU8Gq.png" group-title="DEPORTES",Fox Sports 2 - México
 http://190.61.80.102:4000/play/a0dv/index.m3u8
 #EXTINF:-1 tvg-id="fox-sports-3.mx" tvg-logo="https://i.imgur.com/GvWFYrE.png" group-title="DEPORTES",Fox Sports 3 - México
-http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECphCS9YnYY6RmPZJJNqWcbPI/ts
+http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/10271.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s123582_dark_360w_270h.png" group-title="DEPORTES",Fox Sports Premium - México
-http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpqCwx0cVdvkx2SKKICY2dXG62GChZIoh-Y8yhqYFZDNe/ts
+http://45.189.148.24:8000/play/a027/index.m3u8
 #EXTINF:-1 tvg-id="4399dtv.cl" tvg-logo="https://i.imgur.com/CYb3ifm.png" group-title="DEPORTES",Fox Sports 1 - Chile
 http://45.232.210.1:47000/play/a07k
 #EXTINF:-1 tvg-id="3082dtv.cl" tvg-logo="https://i.imgur.com/yedU8Gq.png" group-title="DEPORTES",Fox Sports 2 - Latinoamérica
@@ -107,31 +107,24 @@ https://edzetacl.cloud/stream/tlat/72.m3u8
 http://45.186.252.17:8000/play/a0au
 #EXTINF:-1 tvg-id="629dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16275_dark_360w_270h.png" group-title="DEPORTES",TyC Sports - Latinoamérica
 http://177.53.153.21:8001/play/a03y/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",La Liga TV [MPD]
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"}
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"genyhEnIU1uYm38mtaVF1g","k":"GdSpWKcHeIgBj7pIEiKJKA"},{"kty":"oct","kid":"U3h7gsxbWxGqXAKn7bX7TQ","k":"-VTw50oT6cWYsZ6-wYOrLA"},{"kty":"oct","kid":"QQoGrUu7WlaoodQFgdh63g","k":"8k9xINtJlqasnk-C57sYjw"}]}
-https://live-tcsgra.thechannel.store/laligatv/laligatv.mpd
-#EXTINF:-1 tvg-id="mpluslaliga.es" tvg-logo="" group-title="DEPORTES",M+ La Liga TV
-http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpm0He2MFU5rIAjC44EvvxpE/ts
-#EXTINF:-1 tvg-id="mplusdeportes.es" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/m_deportes-mediano.png" group-title="DEPORTES",M+ Deportes
-http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpoUvGKzope24KN5TsgmvvbA/ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/m_vamos-mediano.png" group-title="DEPORTES",M+ #Vamos
-http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpsH6GPw9Y4iAPtEhPRzX8Il9_SyRdxXHNV9KY2fLX0yC/ts
-#EXTINF:-1 tvg-id="mpluslcampeones.es" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/m_liga_de_campeones-mediano.png" group-title="DEPORTES",M+ Liga de Campeones
-http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpmzwzpt9ieQIjQlc5USlpas/ts
-#EXTINF:-1 tvg-id="daznlalige.es" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="DEPORTES",DAZN La Liga - España [MPD]
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc-b-_pHNBfhQ4rWJ0A"}]}
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd
+#EXTINF:-1 tvg-id="mpluslaliga.es" tvg-logo="" group-title="DEPORTES",M+ La Liga TV - España
+http://163.172.57.223:8000/play/a006
+#EXTINF:-1 tvg-id="mplusdeportes.es" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/m_deportes-mediano.png" group-title="DEPORTES",M+ Deportes - España
+http://163.172.57.223:8000/play/a008
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/m_vamos-mediano.png" group-title="DEPORTES",M+ #Vamos - España
+http://163.172.57.223:8000/play/a005
+#EXTINF:-1 tvg-id="mpluslcampeones.es" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/m_liga_de_campeones-mediano.png" group-title="DEPORTES",M+ Liga de Campeones - España
+http://163.172.57.223:8000/play/a00b
+#EXTINF:-1 tvg-id="daznlalige.es" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="DEPORTES",DAZN La Liga - España
+http://163.172.57.223:8000/play/a00a
 #EXTINF:-1 tvg-id="dazn1.es" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/dazn-mediano.png" group-title="DEPORTES",DAZN 1 - España
-http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpnUEts0XOI-JLQxem_SDuWrd3PRNRRkwaXWOft2tnml4/ts
+http://163.172.57.223:8000/play/a003
 #EXTINF:-1 tvg-id="dazn2.es" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/dazn_2-mediano.png" group-title="DEPORTES",DAZN 2 - España
-http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECprYFZCGJRHxk51vAFrOcYbqESZjncwZ4RmdJPJ8aubpI/ts
+http://163.172.57.223:8000/play/a004
 #EXTINF:-1 tvg-id="mpluslcampeones.es" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/dazn_formula_1-mediano.png" group-title="DEPORTES",DAZN F1 - España
-http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/7839.ts
+http://163.172.57.223:8000/play/a00d
 #EXTINF:-1 tvg-id="eurosport1.es" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/eurosport_1-mediano.png" group-title="DEPORTES",Eurosport 1 - España
-http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECprGn-BXz03DIAbsmFMWcwMo/ts
+http://163.172.57.223:8000/play/a007
 #EXTINF:-1 tvg-id="eurosport2.es" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/eurosport_2-mediano.png" group-title="DEPORTES",Eurosport 2 - España
 http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/7988.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91306_dark_360w_270h.png" group-title="DEPORTES",WWE Network
@@ -139,7 +132,7 @@ http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpmGZ3qIdNJncojCRUK36Q7I
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES",TUDN - México
 https://channel03.akamaized.net/hls/live/2023943/event01/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75176_dark_360w_270h.png" group-title="DEPORTES",TUDN - Estados Unidos
-http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpjP-fUcJDDaBG52y6eNiBqM/ts
+http://168.228.194.32:48091/play/Z76/index.m3u8
 #EXTINF:-1 tvg-id="736dtv.cl" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/gol_tv_estados_unidos-mediano.png" group-title="DEPORTES",GolTV
 http://177.53.153.21:8001/play/a03t/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",Sky Sports La Liga - México
@@ -147,7 +140,7 @@ http://181.78.105.146:2000/play/a08m/index.m3u8
 #EXTINF:-1 tvg-id="604dtv.pe" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61033_dark_360w_270h.png" group-title="DEPORTES",Golf Channel
 http://177.53.153.21:8001/play/a06m/index.m3u8
 #EXTINF:-1 tvg-id="beinsportsspanish.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76943_dark_360w_270h.png" group-title="DEPORTES",beIN Sports en Español
-http://168.228.193.214:58005/play/a05m
+http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/10776.ts
 #EXTINF:-1 tvg-id="beinx-es1.us" tvg-logo="https://i.imgur.com/laikTq4.png" group-title="DEPORTES",beIN Sports Xtra en Español
 https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="604dtv.pe" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/604.png" group-title="DEPORTES",Liga 1 Max - Perú
@@ -161,7 +154,7 @@ https://siloh.pluto.tv/live/production/CopaLibertadores/CHILE/Live/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72291_dark_360w_270h.png" group-title="DEPORTES",Claro Sports
 http://138.59.177.34:8000/play/a01i/index.m3u8
 #EXTINF:-1 tvg-id="637dtv.cl" tvg-logo="https://cdomas.cl/bundle/422da528cd04d3cca21fff25bac2cb9e.png" group-title="DEPORTES",CDO Premium
-http://45.184.85.9:1080/play/a0j6
+http://45.238.21.84:8000/play/a0e9
 #EXTINF:-1 tvg-id="736dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46608_dark_360w_270h.png" group-title="DEPORTES",Discovery Turbo
 http://161.132.243.192:50001/play/a038/index.m3u8
 #EXTINF:-1 tvg-id="736dtv.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDYwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png" group-title="DEPORTES",Teletrak TV
