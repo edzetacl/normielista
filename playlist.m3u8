@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/647f7f8d8e3c0a0008d552cb/colorLogoPNG.png" group-title="NACIONALES",Gran Hermano Chile
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/645505747cb4b10008492e03/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Tierra_Brava_Canal_13_2023_2.png/revision/latest?cb=20230810021819&path-prefix=es" group-title="NACIONALES",Tierra Brava Extendida
-http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpoyy0BIOjhDaE6kLSZQE4xwZDcvoi7FFZ71nc_tY5Krl/ts
+http://smartersplayer.live:8080/play/_RSfinToBgWm70Ca9qglDs0hX2eUH-pbZg-Y8G-Tuov6soxKzDNMFGMtJB1UFhAL/ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/telecanal-blanco2x.png" group-title="NACIONALES",Telecanal
 http://181.129.198.235:8000/play/a07g/index.m3u8
 #EXTINF:-1 tvg-id="lared.cl" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/la-red-blanco2x.png" group-title="NACIONALES",La Red
@@ -673,7 +673,7 @@ https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="4K",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="4K",TravelXP 4K
-http://95.67.12.89:9050
+http://95.67.12.82:9086
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="4K",Clarity 4K
 https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="4K",Astro Supersport 4K
@@ -689,7 +689,7 @@ http://194.145.202.71:8087/udp/239.254.1.151:6060
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="4K",Fashion & Style TV 4K
 http://91.146.94.234:9000/play/a0bp/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://api.iarc.dev/images/f5ef1fd612fce8c10dfc751f85ae88a8.png" group-title="RADIOS",ADN Radio Chile
-https://27343.live.streamtheworld.com/ADN_SC
+http://playerservices.streamtheworld.com/api/livestream-redirect/ADNAAC_SC
 #EXTINF:-1 tvg-id="" tvg-logo="https://vivo.biobiochile.cl/player/includes/img/logo.png" group-title="RADIOS",Radio Bío-Bío - Santiago
 https://unlimited11-cl.dps.live/biobiosantiago/aac/icecast.audio
 #EXTINF:-1 tvg-id="" tvg-logo="https://vivo.biobiochile.cl/player/includes/img/logo.png" group-title="RADIOS",Radio Bío-Bío - Concepción
@@ -707,25 +707,25 @@ http://streaming.chiloestreaming.com:8082/stream
 #EXTINF:-1 tvg-id="" tvg-logo="https://radioportales.cl/sitio/wp-content/uploads/2021/03/lp2.png" group-title="RADIOS",Radio Portales
 https://stream.polarhost.cl/portales_am
 #EXTINF:-1 tvg-id="" tvg-logo="https://envivo.corazon.cl/build/assets/corazonchile/img/logo.png" group-title="RADIOS",Radio Corazón
-https://27423.live.streamtheworld.com/CORAZON_SC
+http://playerservices.streamtheworld.com/api/livestream-redirect/CORAZON_SC
 #EXTINF:-1 tvg-id="" tvg-logo="https://radioazucar.cl/images/banners/logoweb.png" group-title="RADIOS",Radio Azucar - Santiago
 https://audio1.tustreaming.cl:10953/azucarsantiago
 #EXTINF:-1 tvg-id="" tvg-logo="https://colocolofm.cl/wp-content/uploads/2021/06/cropped-LogoColoColo-1.png" group-title="RADIOS",Colo Colo
 https://audio2.tustreaming.cl/7040/stream
 #EXTINF:-1 tvg-id="" tvg-logo="https://envivo.radioactiva.cl/build/assets/radioactivachile/img/logo.png" group-title="RADIOS",Radio Activa
-https://27343.live.streamtheworld.com/ACTIVA_SC
+http://playerservices.streamtheworld.com/api/livestream-redirect/ACTIVA_SC
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="RADIOS",Radio Mix.TV
 https://audio5.tustreaming.cl/7110/stream
 #EXTINF:-1 tvg-id="" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/Radio-Disney2x.png" group-title="RADIOS",Radio Disney Chile
-https://22833.live.streamtheworld.com/DISNEY_CHI_SA.mp3
+http://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_CHI_SA
 #EXTINF:-1 tvg-id="" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/Radio-Carolina2x.png" group-title="RADIOS",Radio Carolina
 https://mdstrm.com/audio/637f68ddce4b1208597d8a86/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://envivo.los40.cl/build/assets/los40chile/img/logo.png" group-title="RADIOS",Los 40 Chile
-https://26563.live.streamtheworld.com/LOS40_CHILE_SC
+http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CHILE_SC
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fmokey.cl/wp-content/uploads/2015/05/logo-fmokey-300x76.png" group-title="RADIOS",FM Okey
 https://streaming.fmokey.cl/moviles.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://envivo.futuro.cl/build/assets/futurochile/img/logo.png" group-title="RADIOS",Futuro
-https://26503.live.streamtheworld.com/FUTURO_SC
+http://playerservices.streamtheworld.com/api/livestream-redirect/FUTURO_SC
 #EXTINF:-1 tvg-id="" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/sonar-FM2x-1.png" group-title="RADIOS",Sonar
 https://mdstrm.com/audio/5c915724519bce27671c4d15/icecast.audio
 #EXTINF:-1 tvg-id="" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/Radio-Romantica2x.png" group-title="RADIOS",Radio Romantica
@@ -733,17 +733,17 @@ https://mdstrm.com/audio/639b78f7ff35df084fa7f964/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/Logo_Play_Sitios_1.png" group-title="RADIOS",Play FM
 https://mdstrm.com/audio/5c8d6406f98fbf269f57c82c/icecast.audio
 #EXTINF:-1 tvg-id="" tvg-logo="https://envivo.fmdos.cl/build/assets/fmdos/img/logo.png" group-title="RADIOS",FM Dos
-https://26573.live.streamtheworld.com/FMDOS_SC
+http://playerservices.streamtheworld.com/api/livestream-redirect/FMDOS_SC
 #EXTINF:-1 tvg-id="" tvg-logo="https://envivo.radioimagina.cl/build/assets/radioimaginachile/img/logo.png" group-title="RADIOS",Radio Imagina
-https://24253.live.streamtheworld.com/IMAGINA_SC
+http://playerservices.streamtheworld.com/api/livestream-redirect/IMAGINA_SC
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wixstatic.com/media/821b81_98082dfb78b848d8bd2ce3f3a60e551d~mv2.png/v1/fill/w_289,h_244,al_c,lg_1,q_85,enc_auto/logo%20estilo.png" group-title="RADIOS",Estilo FM
 https://audio2.tustreaming.cl/8058/stream
 #EXTINF:-1 tvg-id="" tvg-logo="https://envivo.pudahuel.cl/build/assets/pudahuelchile/img/logo.png" group-title="RADIOS",Radio Pudahuel
-https://27383.live.streamtheworld.com/PUDAHUEL_SC
+http://playerservices.streamtheworld.com/api/livestream-redirect/PUDAHUEL_SC
 #EXTINF:-1 tvg-id="" tvg-logo="https://universo.cl/wp-content/themes/universo/dist/images/logo.png" group-title="RADIOS",Radio Universo
 https://unlimited11-cl.dps.live/universo/mp3/icecast.audio
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logo_Radio_concierto.png" group-title="RADIOS",Radio Concierto
-https://27343.live.streamtheworld.com/CONCIERTO_SC
+http://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTO_SC
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.elconquistadorfm.net/wp-content/uploads/2022/08/edc.png" group-title="RADIOS",El Conquistador FM - Santiago
 https://stream10.usastreams.com/9314/stream
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.elconquistadorfm.net/wp-content/uploads/2022/08/edc.png" group-title="RADIOS",El Conquistador FM - Red Norte
@@ -755,7 +755,7 @@ https://hls-audio-cl-1-isp.dps.live/duna/gotardis/audio/now/livestream1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/13C-Radio2x.png" group-title="RADIOS",13C Radio
 https://mdstrm.com/audio/5c915497c6fd7c085b29169d/icecast.audio
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Rock_%26_Pop_logo_2013.svg/1920px-Rock_%26_Pop_logo_2013.svg.png" group-title="RADIOS",Rock & Pop
-https://27433.live.streamtheworld.com/ROCK_AND_POP_SC
+http://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_AND_POP_SC
 #EXTINF:-1 tvg-id="" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/Radio-Infinita2x.png" group-title="RADIOS",Infinita
 https://mdstrm.com/audio/639b791cea22540890cd1d8b/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.digitalfm.cl/wp-content/themes/digitalfm/assets/images/logo-digital-fm.png" group-title="RADIOS",Digital FM
