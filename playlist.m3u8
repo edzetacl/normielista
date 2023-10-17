@@ -77,10 +77,6 @@ http://161.132.243.192:50001/play/a03o/index.m3u8
 http://161.132.243.192:50001/play/a03p/index.m3u8
 #EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="DEPORTES",DSports +
 http://161.132.243.192:50001/play/a03q/index.m3u8
-#EXTINF:-1 tvg-id="620dtv.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/3200x2400/Y2gwMTAwMDAwMDAwMzAyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_3200x2400.png" group-title="DEPORTES",DSports Fight
-http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpjRNBzWRTSnEYHaoRQE9Zi6V3ooRzrdPdScUm0eAt0Bp/ts
-#EXTINF:-1 tvg-id="614dtv.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMzM0X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="DEPORTES",DSports Motor
-http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpnAuuMguAOZcix6_6CiDGHgWTRfjVErERIBusEmoYQmf/ts
 #EXTINF:-1 tvg-id="1605dtv.ar" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES",Fox Sports - Argentina
 http://45.186.252.17:8000/play/a0bt
 #EXTINF:-1 tvg-id="606dtv.ar" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73935_dark_360w_270h.png" group-title="DEPORTES",Fox Sports 2 - Argentina
@@ -88,7 +84,7 @@ http://45.186.252.17:8000/play/a09m
 #EXTINF:-1 tvg-id="607dtv.ar" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47374_dark_360w_270h.png" group-title="DEPORTES",Fox Sports 3 - Argentina
 http://45.186.252.17:8000/play/a0av
 #EXTINF:-1 tvg-id="fox-sports.mx" tvg-logo="https://i.imgur.com/TJsHUSM.png" group-title="DEPORTES",Fox Sports - México
-http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpi0JVtv1Y2yQwK3HIvTJNW0/ts
+http://smartersplayer.live:8080/play/_RSfinToBgWm70Ca9qglDvVIsGN2OzP4jRnTS50_MG8/ts
 #EXTINF:-1 tvg-id="fox-sports-2.mx" tvg-logo="https://i.imgur.com/yedU8Gq.png" group-title="DEPORTES",Fox Sports 2 - México
 http://190.61.80.102:4000/play/a0dv/index.m3u8
 #EXTINF:-1 tvg-id="fox-sports-3.mx" tvg-logo="https://i.imgur.com/GvWFYrE.png" group-title="DEPORTES",Fox Sports 3 - México
@@ -128,7 +124,7 @@ http://163.172.57.223:8000/play/a007
 #EXTINF:-1 tvg-id="eurosport2.es" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/eurosport_2-mediano.png" group-title="DEPORTES",Eurosport 2 - España
 http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/7988.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91306_dark_360w_270h.png" group-title="DEPORTES",WWE Network
-http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpmGZ3qIdNJncojCRUK36Q7I/ts
+http://smartersplayer.live:8080/play/_RSfinToBgWm70Ca9qglDqhd8yLLwCU4XYqhyIfTEcU/ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65129_dark_360w_270h.png" group-title="DEPORTES",TUDN - México
 https://channel03.akamaized.net/hls/live/2023943/event01/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75176_dark_360w_270h.png" group-title="DEPORTES",TUDN - Estados Unidos
@@ -274,7 +270,7 @@ http://138.59.177.34:8000/play/a01q/index.m3u8
 #EXTINF:-1 tvg-id="541dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68134_dark_360w_270h.png" group-title="HBO PREMIUM",HBO Pop Este
 http://161.132.243.192:50001/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68134_dark_360w_270h.png" group-title="HBO PREMIUM",HBO Pop Oeste
-http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECprCCIYkRcwuvsWloTmLSudBU5Ex41Fh-9PTf8IA0DBQU/ts
+http://smartersplayer.live:8080/play/_RSfinToBgWm70Ca9qglDlB4N5fnl-gKXsdT4jFVwUjRw-vIm59VcfoJklqKx1hh/ts
 #EXTINF:-1 tvg-id="540dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70081_dark_360w_270h.png" group-title="HBO PREMIUM",HBO Mundi Este
 http://45.238.21.84:8000/play/a0ei
 #EXTINF:-1 tvg-id="hbo-mundi.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70081_dark_360w_270h.png" group-title="HBO PREMIUM",HBO Mundi Oeste
@@ -320,7 +316,7 @@ http://179.189.222.226:8000/play/ch06
 #EXTINF:-1 tvg-id="850mvstr.cl" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_etc.png" group-title="INFANTIL",ETC
 http://177.128.115.21:8080/live/binet1/binet1234/158.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.senpaitv.com/wp-content/uploads/2022/03/logosenpai.png" group-title="INFANTIL",Senpai TV
-http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpkYpmjOMN0qLrOPRN2cIXErugx6vxChpkOFJQHwkcINU/ts
+http://smartersplayer.live:8080/play/_RSfinToBgWm70Ca9qglDtbXKEdgd9oYfAQrsHa2qV3IzqsMHDmeqfKdSUBlyZNS/ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72801_dark_360w_270h.png" group-title="INFANTIL",BitMe
 http://38.44.109.41:8888/play/a00f
 #EXTINF:-1 tvg-id="310dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77783_dark_360w_270h.png" group-title="INFANTIL",TeenNick
@@ -508,7 +504,7 @@ http://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/63a084934734f3
 #EXTINF:-1 tvg-id="1738dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65940_dark_360w_270h.png" group-title="CULTURA",Discovery Theater
 http://45.232.210.1:47000/play/a0am
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CULTURA",ARTV
-http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpl__oPXPHhgU76TXUCe3qrINkr4a7Bj5v2unsMTBjcVD/ts
+http://smartersplayer.live:8080/play/_RSfinToBgWm70Ca9qglDpGcUasymCEaVCKHzSuev_0kTWcSwgnucIZeUd3XM0LJ/ts
 #EXTINF:-1 tvg-id="discoverymax.es" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90316_dark_360w_270h.png" group-title="CULTURA",DMAX
 http://live.iptv.wtf:80/live/tjpyuhim/Mfy33Xhs96/7913.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fmh.la/images/team/logo_atlas.png" group-title="CULTURA",Atlas
@@ -550,11 +546,11 @@ http://45.238.21.84:8000/play/a0bx
 #EXTINF:-1 tvg-id="227dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s37232_dark_360w_270h.png" group-title="VARIEDADES",TL Novelas
 http://179.1.48.62:4000/play/a01l/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16521_dark_360w_270h.png" group-title="VARIEDADES",Unicable
-http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpnOkjjenmhs_G3YWLYXehebEMzKFObKekkzVcxUwvd8u/ts
+http://smartersplayer.live:8080/play/_RSfinToBgWm70Ca9qglDsm4s0CSxkb4ym1EayMGSeXE2W53Q5l55A-R4b1ZdEUs/ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_mega2.png" group-title="VARIEDADES",Mega 2
-http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpvrClZgRwqjNETaNvqOmtLiHPSS9LGc6-rDpiWvUGM57/ts
+http://smartersplayer.live:8080/play/_RSfinToBgWm70Ca9qglDvAeli9zHfJIpT2ehlKwcJyOGLDsEZSmapvrxd3avExh/ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_megaficcion.png" group-title="VARIEDADES",Mega Ficción
-http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECphE465yYptMuD-eY9CjDrZzxTueTy4uTmRLQiO-lNybZ/ts
+http://smartersplayer.live:8080/play/_RSfinToBgWm70Ca9qglDtApfOm8sBFjohJw_Hz0jP3w3BDdB_KoKhhv6kDGgkNG/ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_megaplus.png" group-title="VARIEDADES",Mega Plus
 https://marine2.miplay.cl/megaplus/playlist.m3u8
 #EXTINF:-1 tvg-id="rec-tv.cl" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_rec.png" group-title="VARIEDADES",RecTV
@@ -582,7 +578,7 @@ http://181.129.198.235:8000/play/a07h/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106724_dark_360w_270h.png" group-title="VARIEDADES",Star TVE
 http://138.59.177.34:8000/play/a03a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s82162_dark_360w_270h.png" group-title="VARIEDADES",Inti Network
-http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpkJUfO5bBk5xDssMMS-JWKSylE0ktL7ur4x7HwJMoT36/ts
+http://smartersplayer.live:8080/play/_RSfinToBgWm70Ca9qglDuBYlAfbFWOUyftw9zMs06cx2npevoMYqqIbWyJY7SRD/ts
 #EXTINF:-1 tvg-id="201dtv.co" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMjMyX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="VARIEDADES",OnDirecTV [MPD]
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"}
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -679,9 +675,9 @@ https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="4K",Astro Supersport 4K
 http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECprUkJCXFPUUJWwbUGyXfN48qKwNwaZujWVXkl4_jh2CN/ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="4K",UltraSport 4K
-http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpmlnv_PaORCfv4rWt3fpj3AnZqvuT4FQUi03ieLbUgH5/ts
+http://smartersplayer.live:8080/play/_RSfinToBgWm70Ca9qglDlnh-e2p-MKt4jOuH1tXRX6Y6L6hKi5CNGxBpzkM2oC1/ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="4K",Canal+ 4K
-http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpsyD__5YbzWICpcmRwLReWOqiKZmKaMgdht25BUGPskT/ts
+http://smartersplayer.live:8080/play/_RSfinToBgWm70Ca9qglDiBtsqBQhuIRstn6TS1RcLwh2lqI0k5ruzjxWZBgx3m3/ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="4K",Jazz TV 4K
 http://194.145.202.71:8087/udp/239.254.1.254:6060
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="4K",Fashion TV 4K
@@ -787,7 +783,7 @@ http://190.216.162.154:8001/play/a09f
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS",Eliminatorias CONMEBOL 2026 - Movistar Deportes Perú
 http://190.216.162.154:8001/play/a021
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS",Eliminatorias CONMEBOL 2026 - GEN TV Paraguay
-http://smartersplayer.live:8080/play/uhomqz__Bno9ulq1AUECpsueycSTcrHQsbzh3tExCLA/ts
+http://smartersplayer.live:8080/play/_RSfinToBgWm70Ca9qglDv0Lf5W2pZm0rGhrbIVwGGY/ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS",Eliminatorias CONMEBOL 2026 - El Canal del Fútbol Ecuador
 http://190.216.162.154:8001/play/a02d
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS",Eliminatorias CONMEBOL 2026 - Venevisión Venezuela
@@ -827,16 +823,20 @@ http://cdn-global.lolokoko.tv/xxl.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ADULTOS" parent-code="1190",Extasy TV (XXX) 4K
 http://194.145.202.71:8087/udp/239.254.4.197:6060
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESTRENOS DEL CINE",La Monja II (2023)
-http://smartersplayer.live:8080/play/GGuw3JqF7OvU6a0tmmhUr4111qu9QVJRJppn-yq77uEwoIuhOqcjHKrJ_NwAgkQz
+http://smartersplayer.live:8080/play/lRnqUfSVo5PpLJPyKbmNcE6Jb4scFThWtxirXEPDr6Cat4KSd_XQRuCeg_k1IixU
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESTRENOS DEL CINE",Blue Beetle (2023)
-http://smartersplayer.live:8080/play/GGuw3JqF7OvU6a0tmmhUr1vaxfm-h6IDQbd2cbs2nB5J_bGxXrrcVi3EHu8cvbW4
+http://smartersplayer.live:8080/play/lRnqUfSVo5PpLJPyKbmNcOEH1-v3iWboH_jTFr_bek4SkmyetC8S45oesqulQ90F
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESTRENOS DEL CINE",Contrareloj (2023)
-http://smartersplayer.live:8080/play/GGuw3JqF7OvU6a0tmmhUr1vaxfm-h6IDQbd2cbs2nB67Ws68GHpgFqEnKPJl5_lk
+http://smartersplayer.live:8080/play/lRnqUfSVo5PpLJPyKbmNcOEH1-v3iWboH_jTFr_bek68t8oEv-V6yv6xlP_wum7v
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESTRENOS DEL CINE",Gran Turismo: De jugador a corredor (2023)
-http://smartersplayer.live:8080/play/GGuw3JqF7OvU6a0tmmhUr4wOdtg9j5Ctre21qp6szi0wXspEU7sW-3wu1FsS2Alw
+http://smartersplayer.live:8080/play/lRnqUfSVo5PpLJPyKbmNcAkIaFGZasrCq623Zv9NxBr_nQVBqth49eacdVMR1GkQ
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESTRENOS DEL CINE",Transformers: el despertar de las bestias (2023)
-http://smartersplayer.live:8080/play/GGuw3JqF7OvU6a0tmmhUrxa7ZyyUwVWhtj0Yh5sio-wvkRItMzfwyS-CJVDJhYS2
+http://smartersplayer.live:8080/play/lRnqUfSVo5PpLJPyKbmNcIJWRh-E_d0-PmPVFdIj62rpNJ-SRdhH446nYhSY41Kb
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESTRENOS DEL CINE",Barbie (2023)
-http://smartersplayer.live:8080/play/GGuw3JqF7OvU6a0tmmhUr7LkZJ0HKWGHakshVlni6Ni5u_pgIz3d2SLK6_O-Wt02
+http://smartersplayer.live:8080/play/lRnqUfSVo5PpLJPyKbmNcCD-E3bqcjnqBh2xp2MUv6M1ICqpwNzZ0lJ6QpBDsxl7
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESTRENOS DEL CINE",Megalodon 2: el gran abismo (2023)
-http://smartersplayer.live:8080/play/GGuw3JqF7OvU6a0tmmhUry8y3ItpkXCmuuL_5R_pYk4lbXGP6MoJoaRnwuYpqrHt
+http://smartersplayer.live:8080/play/lRnqUfSVo5PpLJPyKbmNcLjVt-J6pRD-YBy8WaHLicCVrFs_3qyheHsckx1PBzpL
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",TNT SP 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"wPHisujpgVsGs6QKfMqp7Q","kid":"yo7phaqU3zrb8tDHOymSBA"}],"type":"temporary"}
+https://clbpktstvdash-1.clarovideo.com/Content/dash_fk/Live/Channel(TNTSP2)/index.mpd
