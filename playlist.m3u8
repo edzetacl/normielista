@@ -891,3 +891,18 @@ https://clbpktstvdash-3.clarovideo.com/bpk-tv/RECHD/dash_fk/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct", "k":"SUjzuY2tQch8n86w8qHTdw","kid":"n+790t72siYjKsz4Vqn04Q"}],"type":"temporary"}
 http://live.entel.cl/3180/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",SPACE
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"}
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Bfaj+ZMWFD4ovlvdXNfF6Q","kid":"AzkgouGsMGaInlGQdhklMQ"}],"type":"temporary"}
+http://1192-vos.dtvott.com/DASH/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",EUROCHANNEL
+#EXTHTTP:{"User-Agent":"Chrome/106.0.0.0","Referer":"https://nowtv.express.com.ar/","Origin":"https://nowtv.express.com.ar/","Authority":"anbalancer.express.com.ar"}
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6yleJ190ZL0jqgNpADCHBg","kid":"hfIJTEtmTAysy4sLgbN7Jw"}],"type":"temporary"}
+http://anbalancer.express.com.ar/live/c1eds/Eurochannel/SA_DASH_cipix/Eurochannel.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",DSHOW
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"}
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"nPo/8Il6AAkptm/9fgHAig","kid":"zxaJ1ZefV2WluNyyNuaRNg"}],"type":"temporary"}
+https://1276-abc-da-bpk.dtvott.com/dash_live_1276/manifest.mpd
