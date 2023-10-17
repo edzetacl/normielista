@@ -836,7 +836,58 @@ http://smartersplayer.live:8080/play/lRnqUfSVo5PpLJPyKbmNcIJWRh-E_d0-PmPVFdIj62r
 http://smartersplayer.live:8080/play/lRnqUfSVo5PpLJPyKbmNcCD-E3bqcjnqBh2xp2MUv6M1ICqpwNzZ0lJ6QpBDsxl7
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESTRENOS DEL CINE",Megalodon 2: el gran abismo (2023)
 http://smartersplayer.live:8080/play/lRnqUfSVo5PpLJPyKbmNcLjVt-J6pRD-YBy8WaHLicCVrFs_3qyheHsckx1PBzpL
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",TNT SP
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"V/wnIeqUgQLMSyV4qux0TQ","kid":"OzcIS/kxiMl8MCk5b1Gy/Q"}],"type":"temporary"}
+https://clbpktstvdash-1.clarovideo.com/Content/dash_fk/Live/Channel(TNTSPHD)/index.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",TNT SP 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"wPHisujpgVsGs6QKfMqp7Q","kid":"yo7phaqU3zrb8tDHOymSBA"}],"type":"temporary"}
 https://clbpktstvdash-1.clarovideo.com/Content/dash_fk/Live/Channel(TNTSP2)/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",TNT SP 3
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"IA12vSBEf/w9w4t2QiAazg","kid":"ok6xROlU6ElFAFjyMCzIHw"}],"type":"temporary"}
+https://clbpktstvdash-1.clarovideo.com/Content/dash_fk/Live/Channel(TNTSP3HD)/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",ESPN 2 CL
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"usHB23xIklSNiHI4G7Mhvg","kid":"/UxvUJZJFyQhKcwqSsW9jQ"}],"type":"temporary"}
+https://clbpktstvdash-3.clarovideo.com/Content/dash_fk/Live/Channel(ESPN2HD)/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",BABY FIRST
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HuSVvkVWlb+KQku5odbFaQ","kid":"8NiUJ9sZ99ULNb71EHwDEQ"}],"type":"temporary"}
+https://clbpktstvdash-1.clarovideo.com/bpk-tv/BABYFT/dash_fk/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",STAR CHANNEL CL
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"}
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"tKZzu/MnVp3upoWAy3rdpw","kid":"F/5smIizKfu7aAAHykhE4w"}],"type":"temporary"}
+https://clbpktstvdash-1.clarovideo.com/Content/dash_fk/Live/Channel(FOXHD)/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",FX CL
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"}
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"+5JjjEQ93G1aVYT7BsX5cA","kid":"IBKwKwjnAhDLN2GmK1OtuQ"}],"type":"temporary"}
+https://clbpktstvdash-2.clarovideo.com/Content/dash_fk/Live/Channel(FXHD)/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",EDGE
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"MazmMlgnh5PHR7kFw6UAzg","kid":"44m0ioFj6/qrf+pNcE1MHA"}],"type":"temporary"}
+https://clbpktstvdash-2.clarovideo.com/Content/dash_fk/Live/Channel(GOLDENEDGE)/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",GOLTV
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"}
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"WVqLEEc5WsS+duyFYqYKiA","kid":"BrvNPRHXygOnnZMZd3g0Kg"}],"type":"temporary"}
+https://clbpktstvdash-1.clarovideo.com/bpk-tv/GOLTV/dash_fk/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",TEST 01
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"V614UyLgTMO6HA7lAoy5_w","k":"LkZamkPMfTA4zUI9JNXSXg"},{"kty":"oct","kid":"AODNf1okSNe6z49pVTESww","k":"L5ctk72bJ7AGkmUfvmAOXA"}]}
+https://1279247418.rsc.cdn77.org/bpk-tv/QMCRTV/dash/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",TEST 02
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wJ0DUV1ARSqmErdROCvrcw","k":"_A7QMmlmOQRSwt7eDdpQJg"},{"kty":"oct","kid":"nzap-_DxSvaQMBvdPMjw7A","k":"bvIdn8PeYfwXeOhyi92Fhw"}]}
+https://1279247418.rsc.cdn77.org/bpk-tv/QATVSBTV/dash/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",REC
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9vryMANC4cceygRH5DM8xQ","kid":"ofcrCKOCF0kkrTaQYLN+qw"}],"type":"temporary"}
+https://clbpktstvdash-3.clarovideo.com/bpk-tv/RECHD/dash_fk/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST",HBO
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct", "k":"SUjzuY2tQch8n86w8qHTdw","kid":"n+790t72siYjKsz4Vqn04Q"}],"type":"temporary"}
+http://live.entel.cl/3180/vxfmt=dp/manifest.mpd?device_profile=DASH_TV_PR_FULL
