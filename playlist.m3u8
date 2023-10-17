@@ -414,9 +414,9 @@ http://normielista.cl:80/play/0Bu2UVekNecKvoeYhzqb9XfWhnm6355f4jS_gT66X1huUxt3GW
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18101_dark_360w_270h.png" group-title="MÚSICA",Bandamax
 http://187.102.208.108:50001/play/a04b/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73376_dark_360w_270h.png" group-title="MÚSICA",RumbaTV
-http://normielista.cl:80/play/0Bu2UVekNecKvoeYhzqb9U_hmU-UTryAOBYsqtz62E1t9gbD9xocMBHfsDg4aVmU/ts
+http://179.1.48.62:4000/play/a01w/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77429_dark_360w_270h.png" group-title="MÚSICA",Telenostalgia
-http://190.90.251.194:8921/play/a02u/index.m3u8
+http://179.1.48.62:4000/play/a01x/index.m3u8
 #EXTINF:-1 tvg-id="1269dtv.ar" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75978_dark_360w_270h.png" group-title="MÚSICA",Quiero Música en mi Idioma
 http://45.186.252.17:8000/play/a0aq
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xgF53NJ.png" group-title="MÚSICA", Trace Urban
@@ -564,7 +564,7 @@ http://45.232.210.1:8062/play/a09h/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s92197_dark_360w_270h.png" group-title="VARIEDADES",AZ Clic
 http://138.59.177.34:8000/play/a039/index.m3u8
 #EXTINF:-1 tvg-id="az-corazon.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61404_dark_360w_270h.png" group-title="VARIEDADES",AZ Corazón
-http://138.59.177.34:8000/play/a02b/index.m3u8
+http://179.1.48.62:4000/play/a01p/index.m3u8
 #EXTINF:-1 tvg-id="741dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60329_dark_360w_270h.png" group-title="VARIEDADES",Sun Channel
 http://45.232.210.1:47000/play/a0aj
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59014_dark_360w_270h.png" group-title="VARIEDADES",WOBI
@@ -574,7 +574,7 @@ http://177.53.153.21:8001/play/a0au/index.m3u8
 #EXTINF:-1 tvg-id="892mvstr.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s112558_dark_360w_270h.png" group-title="VARIEDADES",Kanal D Drama
 http://45.238.21.84:8000/play/a07k
 #EXTINF:-1 tvg-id="235dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97002_dark_360w_270h.png" group-title="VARIEDADES",IVC
-http://181.129.198.235:8000/play/a07h/index.m3u8
+http://179.1.48.62:4000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106724_dark_360w_270h.png" group-title="VARIEDADES",Star TVE
 http://138.59.177.34:8000/play/a03a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s82162_dark_360w_270h.png" group-title="VARIEDADES",Inti Network
@@ -643,7 +643,7 @@ http://45.167.253.253:4000/play/a010/index.m3u8
 #EXTINF:-1 tvg-id="azteca13.mx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46607_dark_360w_270h.png" group-title="MUNDOS",Azteca Uno
 http://45.167.253.253:4000/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79968_dark_360w_270h.png" group-title="MUNDOS",Azteca Internacional
-http://177.234.230.226:8010/play/a01y/index.m3u8
+http://179.1.48.62:4000/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97340_dark_360w_270h.png" group-title="MUNDOS",TV Globo Internacional
 http://45.184.111.158:8000/play/a029/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101238_dark_360w_270h.png" group-title="MUNDOS",La Nación +
