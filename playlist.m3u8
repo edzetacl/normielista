@@ -149,8 +149,10 @@ http://190.216.162.154:8001/play/a01z
 https://siloh.pluto.tv/live/production/CopaLibertadores/CHILE/Live/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72291_dark_360w_270h.png" group-title="DEPORTES",Claro Sports
 http://138.59.177.34:8000/play/a01i/index.m3u8
-#EXTINF:-1 tvg-id="637dtv.cl" tvg-logo="https://cdomas.cl/bundle/422da528cd04d3cca21fff25bac2cb9e.png" group-title="DEPORTES",CDO Premium
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdomas.cl/bundle/422da528cd04d3cca21fff25bac2cb9e.png" group-title="DEPORTES",CDO
 http://45.238.21.84:8000/play/a0e9
+#EXTINF:-1 tvg-id="637dtv.cl" tvg-logo="https://cdomas.cl/bundle/422da528cd04d3cca21fff25bac2cb9e.png" group-title="DEPORTES",CDO 2
+http://45.238.21.84:8000/play/a0e8
 #EXTINF:-1 tvg-id="736dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46608_dark_360w_270h.png" group-title="DEPORTES",Discovery Turbo
 http://161.132.243.192:50001/play/a038/index.m3u8
 #EXTINF:-1 tvg-id="736dtv.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDYwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png" group-title="DEPORTES",Teletrak TV
@@ -767,7 +769,7 @@ https://sonando-us.digitalproserver.com/ucvradio
 #EXTINF:-1 tvg-id="" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/Tele-13-Radio2x.png" group-title="RADIOS",Tele13 Radio
 https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/5c915613519bce27671c4caa/playlist.m3u8?listeningSessionID=6448b8f600a7c064_918648_dPABKGZe__0000000Vrot&downloadSessionID=0&aid=5c58a34e176c2c0813b22e4b&pid=GF0xiFa4S5Mp3epcteeE55TVRwZveBrO&sid=q35mq36rc6fOiVmvUqoYvGXWk9kmVyhG&uid=gHGh3DufuxKpBPfGdJIDd3J9P3socT4N&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1683492588043&ot=yaDBs3q4GEFnqx5lyrJ_xw&proto=https&pz=us&cP=128000&awCollectionId=5c58a34e176c2c0813b22e4b&liveId=5c915613519bce27671c4caa
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/media/EPUh_HZWoAML27A.png" group-title="RADIOS",Radio Usach
-https://rusach.janus.cl/playlist/stream.m3u8
+https://rusach2.janus.cl/playlist/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://radio.uchile.cl/wp-content/baners/cover1025.jpg" group-title="RADIOS",Radio Universidad de Chile
 https://sonic-us.streaming-chile.com/8186/stream
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logo_Radio_Beethoven_FM.png/338px-Logo_Radio_Beethoven_FM.png" group-title="RADIOS",Radio Beethoven
