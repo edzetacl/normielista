@@ -820,6 +820,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62aa5740a47b6c000769f4
 https://siloh.pluto.tv/live/production/CopaLibertadores/CHILE/Live/master_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS", Juegos Panamericanos Santiago 2023 - Televisión Nacional de Chile (Señal Extra 1)
 https://mdstrm.com/live-stream-playlist/5346f657c1e6f5810b5b9df3.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS", Juegos Panamericanos Santiago 2023 - TNT Sports 2
+http://smartersplayer.live:8080/play/_RSfinToBgWm70Ca9qglDsw9cnNbek5tsz44p3kiXBL6Zo3Ce-KWCtpqLH7Y42L0/ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS",Eliminatorias CONMEBOL 2026 - Caracol TV Colombia
 http://181.78.22.70:8000/play/a03u/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS",Eliminatorias CONMEBOL 2026 - RCN Colombia
