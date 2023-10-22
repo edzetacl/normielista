@@ -76,7 +76,7 @@ http://161.132.243.192:50001/play/a03o/index.m3u8
 #EXTINF:-1 tvg-id="612directv.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="DEPORTES",DSports 2
 http://161.132.243.192:50001/play/a03p/index.m3u8
 #EXTINF:-1 tvg-id="179directv.cl" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="DEPORTES",DSports +
-http://161.132.243.192:50001/play/a03q/index.m3u8
+http://smartersplayer.live:8080/play/_RSfinToBgWm70Ca9qglDv6ogEST3P9Xjb1soYfQlp5VKKhNh1bBV0Vt6_j1D0fi/ts
 #EXTINF:-1 tvg-id="1605dtv.ar" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="DEPORTES",Fox Sports - Argentina
 http://45.186.252.17:8000/play/a0bt
 #EXTINF:-1 tvg-id="606dtv.ar" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73935_dark_360w_270h.png" group-title="DEPORTES",Fox Sports 2 - Argentina
@@ -208,7 +208,7 @@ http://177.53.153.21:8001/play/a02g/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16574_dark_360w_270h.png" group-title="CINE Y SERIES",Eurochannel
 http://138.59.177.34:8000/play/a041/index.m3u8
 #EXTINF:-1 tvg-id="908mvstr.cl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Clover_Channel_2021.svg/revision/latest/scale-to-width-down/200?cb=20220608131431&path-prefix=es" group-title="CINE Y SERIES",Clover Channel
-http://177.53.153.21:8001/play/a020/index.m3u8
+http://45.232.210.1:47000/play/a0fz
 #EXTINF:-1 tvg-id="504dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19246_dark_360w_270h.png" group-title="CINE Y SERIES",TCM
 http://45.232.210.1:8062/play/a09k/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fmh.la/images/team/logo_family.png" group-title="CINE Y SERIES",FMH Family
@@ -320,7 +320,7 @@ http://179.189.222.226:8000/play/ch06
 #EXTINF:-1 tvg-id="850mvstr.cl" tvg-logo="https://cdn-w.tvdaldia.cl/canales/logo_etc.png" group-title="INFANTIL",ETC
 http://177.128.115.21:8080/live/binet1/binet1234/158.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.senpaitv.com/wp-content/uploads/2022/03/logosenpai.png" group-title="INFANTIL",Senpai TV
-http://smartersplayer.live:8080/play/_RSfinToBgWm70Ca9qglDtbXKEdgd9oYfAQrsHa2qV3IzqsMHDmeqfKdSUBlyZNS/ts
+http://190.211.250.148:8000/play/a064
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72801_dark_360w_270h.png" group-title="INFANTIL",BitMe
 http://38.44.109.41:8888/play/a00f
 #EXTINF:-1 tvg-id="310dtv.cl" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77783_dark_360w_270h.png" group-title="INFANTIL",TeenNick
@@ -332,9 +332,9 @@ http://191.97.60.193:10000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTIL",Vía X eSports
 http://177.234.247.66:8888/play/a06z/index.m3u8
 #EXTINF:-1 tvg-id="155dtv.cl" tvg-logo="https://www.camara.cl/img/logo_blanco2.png" group-title="REGIONALES",Camara de Diputados Televisión
-http://190.216.162.154:8001/play/a0a4
+http://204.199.137.51:5047/play/a057
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv.senado.cl/tvsenado/site/artic/20160901/imag/foto_0000000920160901163145.png" group-title="REGIONALES",TV Senado
-http://190.211.250.148:8000/play/a05i
+http://204.199.137.51:5047/play/a03y
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.biobiochile.cl/assets/img/bbtv_dm.png" group-title="REGIONALES",Bío-Bío TV
 https://redirector.dps.live/hls/bbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/5f4534bd9d9a9e5e37ecdd8a/mediaLibrary/photo/cd5aeaba-003d-43f0-9571-a710892e4ff0-extra-large-standard-q100.png" group-title="REGIONALES",TVR
@@ -690,6 +690,8 @@ http://194.145.202.71:8087/udp/239.254.1.151:6060
 http://91.146.94.234:9000/play/a0bp/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://api.iarc.dev/images/f5ef1fd612fce8c10dfc751f85ae88a8.png" group-title="RADIOS",ADN Radio Chile
 http://playerservices.streamtheworld.com/api/livestream-redirect/ADNAAC_SC
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.iarc.dev/images/f5ef1fd612fce8c10dfc751f85ae88a8.png" group-title="RADIOS",ADN Radio Chile - Señal Regiones
+http://204.199.137.51:5047/play/a055
 #EXTINF:-1 tvg-id="" tvg-logo="https://vivo.biobiochile.cl/player/includes/img/logo.png" group-title="RADIOS",Radio Bío-Bío - Santiago
 https://unlimited11-cl.dps.live/biobiosantiago/aac/icecast.audio
 #EXTINF:-1 tvg-id="" tvg-logo="https://vivo.biobiochile.cl/player/includes/img/logo.png" group-title="RADIOS",Radio Bío-Bío - Concepción
@@ -700,6 +702,8 @@ https://unlimited3-cl.dps.live/biobiovalparaiso/aac/icecast.audio
 https://redirector.dps.live/cooperativafm/aac/icecast.audio
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.radioagricultura.cl/wp-content/uploads/2022/02/cropped-logo.png" group-title="RADIOS",Radio Agricultura
 https://unlimited3-cl.dps.live/agricultura/mp3/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.radioagricultura.cl/wp-content/uploads/2022/02/cropped-logo.png" group-title="RADIOS",Radio Agricultura - Señal Satélite
+http://204.199.137.51:5047/play/a04f
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Radio_Carabineros_de_Chile_logo.jpg" group-title="RADIOS",Carabineros de Chile Radio
 https://streaming.prositel.cl/8374/stream
 #EXTINF:-1 tvg-id="" tvg-logo="https://uploads.tapatalk-cdn.com/20230716/c9432262bafbe2a1bdc2f798d1e32639.jpg" group-title="RADIOS",Estación Metropolitana (95.3 Santiago)
@@ -708,12 +712,16 @@ http://streaming.chiloestreaming.com:8082/stream
 https://stream.polarhost.cl/portales_am
 #EXTINF:-1 tvg-id="" tvg-logo="https://envivo.corazon.cl/build/assets/corazonchile/img/logo.png" group-title="RADIOS",Radio Corazón
 http://playerservices.streamtheworld.com/api/livestream-redirect/CORAZON_SC
+#EXTINF:-1 tvg-id="" tvg-logo="https://envivo.corazon.cl/build/assets/corazonchile/img/logo.png" group-title="RADIOS",Radio Corazón - Señal Regiones
+http://204.199.137.51:5047/play/a043
 #EXTINF:-1 tvg-id="" tvg-logo="https://radioazucar.cl/images/banners/logoweb.png" group-title="RADIOS",Radio Azucar - Santiago
 https://audio1.tustreaming.cl:10953/azucarsantiago
 #EXTINF:-1 tvg-id="" tvg-logo="https://colocolofm.cl/wp-content/uploads/2021/06/cropped-LogoColoColo-1.png" group-title="RADIOS",Colo Colo
 https://audio2.tustreaming.cl/7040/stream
 #EXTINF:-1 tvg-id="" tvg-logo="https://envivo.radioactiva.cl/build/assets/radioactivachile/img/logo.png" group-title="RADIOS",Radio Activa
 http://playerservices.streamtheworld.com/api/livestream-redirect/ACTIVA_SC
+#EXTINF:-1 tvg-id="" tvg-logo="https://envivo.radioactiva.cl/build/assets/radioactivachile/img/logo.png" group-title="RADIOS",Radio Activa - Señal Regiones
+http://204.199.137.51:5047/play/a045
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="RADIOS",Radio Mix.TV
 https://audio5.tustreaming.cl/7110/stream
 #EXTINF:-1 tvg-id="" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/Radio-Disney2x.png" group-title="RADIOS",Radio Disney Chile
@@ -722,10 +730,14 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_CHI_SA
 https://mdstrm.com/audio/637f68ddce4b1208597d8a86/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://envivo.los40.cl/build/assets/los40chile/img/logo.png" group-title="RADIOS",Los 40 Chile
 http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CHILE_SC
+#EXTINF:-1 tvg-id="" tvg-logo="https://envivo.los40.cl/build/assets/los40chile/img/logo.png" group-title="RADIOS",Los 40 Chile - Señal Regiones
+http://204.199.137.51:5047/play/a056
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fmokey.cl/wp-content/uploads/2015/05/logo-fmokey-300x76.png" group-title="RADIOS",FM Okey
 https://streaming.fmokey.cl/moviles.mp3
 #EXTINF:-1 tvg-id="" tvg-logo="https://envivo.futuro.cl/build/assets/futurochile/img/logo.png" group-title="RADIOS",Futuro
 http://playerservices.streamtheworld.com/api/livestream-redirect/FUTURO_SC
+#EXTINF:-1 tvg-id="" tvg-logo="https://envivo.futuro.cl/build/assets/futurochile/img/logo.png" group-title="RADIOS",Futuro - Señal Regiones
+http://204.199.137.51:5047/play/a044
 #EXTINF:-1 tvg-id="" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/sonar-FM2x-1.png" group-title="RADIOS",Sonar
 https://mdstrm.com/audio/5c915724519bce27671c4d15/icecast.audio
 #EXTINF:-1 tvg-id="" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/Radio-Romantica2x.png" group-title="RADIOS",Radio Romantica
@@ -734,34 +746,50 @@ https://mdstrm.com/audio/639b78f7ff35df084fa7f964/live.m3u8
 https://mdstrm.com/audio/5c8d6406f98fbf269f57c82c/icecast.audio
 #EXTINF:-1 tvg-id="" tvg-logo="https://envivo.fmdos.cl/build/assets/fmdos/img/logo.png" group-title="RADIOS",FM Dos
 http://playerservices.streamtheworld.com/api/livestream-redirect/FMDOS_SC
+#EXTINF:-1 tvg-id="" tvg-logo="https://envivo.fmdos.cl/build/assets/fmdos/img/logo.png" group-title="RADIOS",FM Dos - Señal Regiones
+http://204.199.137.51:5047/play/a047
 #EXTINF:-1 tvg-id="" tvg-logo="https://envivo.radioimagina.cl/build/assets/radioimaginachile/img/logo.png" group-title="RADIOS",Radio Imagina
 http://playerservices.streamtheworld.com/api/livestream-redirect/IMAGINA_SC
+#EXTINF:-1 tvg-id="" tvg-logo="https://envivo.radioimagina.cl/build/assets/radioimaginachile/img/logo.png" group-title="RADIOS",Radio Imagina - Señal Regiones
+http://204.199.137.51:5047/play/a049
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wixstatic.com/media/821b81_98082dfb78b848d8bd2ce3f3a60e551d~mv2.png/v1/fill/w_289,h_244,al_c,lg_1,q_85,enc_auto/logo%20estilo.png" group-title="RADIOS",Estilo FM
 https://audio2.tustreaming.cl/8058/stream
 #EXTINF:-1 tvg-id="" tvg-logo="https://envivo.pudahuel.cl/build/assets/pudahuelchile/img/logo.png" group-title="RADIOS",Radio Pudahuel
 http://playerservices.streamtheworld.com/api/livestream-redirect/PUDAHUEL_SC
+#EXTINF:-1 tvg-id="" tvg-logo="https://envivo.pudahuel.cl/build/assets/pudahuelchile/img/logo.png" group-title="RADIOS",Radio Pudahuel - Señal Regiones
+http://204.199.137.51:5047/play/a04a
 #EXTINF:-1 tvg-id="" tvg-logo="https://universo.cl/wp-content/themes/universo/dist/images/logo.png" group-title="RADIOS",Radio Universo
 https://unlimited11-cl.dps.live/universo/mp3/icecast.audio
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logo_Radio_concierto.png" group-title="RADIOS",Radio Concierto
 http://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTO_SC
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logo_Radio_concierto.png" group-title="RADIOS",Radio Concierto - Señal Regiones
+http://204.199.137.51:5047/play/a046
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.elconquistadorfm.net/wp-content/uploads/2022/08/edc.png" group-title="RADIOS",El Conquistador FM - Santiago
 https://stream10.usastreams.com/9314/stream
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.elconquistadorfm.net/wp-content/uploads/2022/08/edc.png" group-title="RADIOS",El Conquistador FM - Santiago - Señal Satélite
+http://204.199.137.51:5047/play/a03z
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.elconquistadorfm.net/wp-content/uploads/2022/08/edc.png" group-title="RADIOS",El Conquistador FM - Red Norte
 https://stream10.usastreams.com/9324/stream
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.elconquistadorfm.net/wp-content/uploads/2022/08/edc.png" group-title="RADIOS",El Conquistador FM - Concepción
 https://v1.tustreaming.cl:19360/conquistadorconcepcion/conquistadorconcepcion.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.monkibu.net/Radio/logos/duna-hq.png" group-title="RADIOS",Duna
 https://hls-audio-cl-1-isp.dps.live/duna/gotardis/audio/now/livestream1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.monkibu.net/Radio/logos/duna-hq.png" group-title="RADIOS",Duna - Señal Satélite
+http://204.199.137.51:5047/play/a04c
 #EXTINF:-1 tvg-id="" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/13C-Radio2x.png" group-title="RADIOS",13C Radio
 https://mdstrm.com/audio/5c915497c6fd7c085b29169d/icecast.audio
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Rock_%26_Pop_logo_2013.svg/1920px-Rock_%26_Pop_logo_2013.svg.png" group-title="RADIOS",Rock & Pop
 http://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_AND_POP_SC
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Rock_%26_Pop_logo_2013.svg/1920px-Rock_%26_Pop_logo_2013.svg.png" group-title="RADIOS",Rock & Pop - Señal Regiones
+http://204.199.137.51:5047/play/a048
 #EXTINF:-1 tvg-id="" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/Radio-Infinita2x.png" group-title="RADIOS",Infinita
 https://mdstrm.com/audio/639b791cea22540890cd1d8b/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.digitalfm.cl/wp-content/themes/digitalfm/assets/images/logo-digital-fm.png" group-title="RADIOS",Digital FM
 https://unlimited3-cl.dps.live/digitalfm/aac/icecast.audio
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Pauta_FM_logo_2018.png/revision/latest?cb=20210719025834&path-prefix=es" group-title="RADIOS",Pauta
 https://unlimited11-cl.dps.live/radiopauta/aac/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Pauta_FM_logo_2018.png/revision/latest?cb=20210719025834&path-prefix=es" group-title="RADIOS",Pauta - Señal Satélite
+http://204.199.137.51:5047/play/a04g
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo_La_Clave_2019.png/338px-Logo_La_Clave_2019.png" group-title="RADIOS",La Clave
 https://unlimited3-cl.dps.live/laclave/aac/icecast.audio
 #EXTINF:-1 tvg-id="" tvg-logo="https://anatel.cl/cms/wp-content/uploads/2023/07/Radio-Tiempo2x.png" group-title="RADIOS",Tiempo FM
@@ -776,6 +804,8 @@ https://rusach2.janus.cl/playlist/stream.m3u8
 https://sonic-us.streaming-chile.com/8186/stream
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logo_Radio_Beethoven_FM.png/338px-Logo_Radio_Beethoven_FM.png" group-title="RADIOS",Radio Beethoven
 https://unlimited3-cl.dps.live/beethovenfm/gotardis/audio/now/livestream1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logo_Radio_Beethoven_FM.png/338px-Logo_Radio_Beethoven_FM.png" group-title="RADIOS",Radio Beethoven - Señal Satélite
+http://204.199.137.51:5047/play/a04b
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS", Juegos Panamericanos Santiago 2023 - Panam Sports (Señal Oficial 1)
 https://fapi.streann.com/loadbalancer/services/public/channels-secure/650da729e4b0892675128a77/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS", Juegos Panamericanos Santiago 2023 - Panam Sports (Señal Oficial 2)
@@ -820,6 +850,14 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62aa5740a47b6c000769f4
 https://siloh.pluto.tv/live/production/CopaLibertadores/CHILE/Live/master_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS", Juegos Panamericanos Santiago 2023 - Televisión Nacional de Chile (Señal Extra 1)
 https://mdstrm.com/live-stream-playlist/5346f657c1e6f5810b5b9df3.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS", Juegos Panamericanos Santiago 2023 - Televisión Nacional de Chile (Señal Extra 2)
+https://mdstrm.com/live-stream-playlist/652965f88778ed225312948a.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS", Juegos Panamericanos Santiago 2023 - Televisión Nacional de Chile (Señal Extra 3)
+https://mdstrm.com/live-stream-playlist/651b0e0d92a4aa1d87b62b32.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS", Juegos Panamericanos Santiago 2023 - Televisión Nacional de Chile (Señal Extra 4)
+https://mdstrm.com/live-stream-playlist/6513060ce1b75408a92f9f8f.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS", Juegos Panamericanos Santiago 2023 - Televisión Nacional de Chile (Señal Extra 5)
+https://mdstrm.com/live-stream-playlist/5346f5f2c1e6f5810b5b9df0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS", Juegos Panamericanos Santiago 2023 - TNT Sports 2
 http://smartersplayer.live:8080/play/_RSfinToBgWm70Ca9qglDsw9cnNbek5tsz44p3kiXBL6Zo3Ce-KWCtpqLH7Y42L0/ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS",Eliminatorias CONMEBOL 2026 - Caracol TV Colombia
@@ -843,7 +881,7 @@ http://181.204.79.182:8202/play/a05o
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS",Copa Libertadores Femenina
 https://siloh.pluto.tv/live/production/CopaLibertadoresFemenina/LATAM/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19783_dark_360w_270h.png" group-title="ADULTOS" parent-code="1190",Playboy TV
-http://45.70.201.252:8889/play/a056/index.m3u8
+http://45.232.210.1:47000/play/a0g0
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16498_dark_360w_270h.png" group-title="ADULTOS" parent-code="1190",Venus
 http://45.232.210.1:8062/play/a0ca/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72143_dark_360w_270h.png" group-title="ADULTOS" parent-code="1190",Sextreme
